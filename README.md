@@ -11,3 +11,5 @@ Learning Algorithm everyday.
 
 ## Summary of Study
 ### Arrays
+- (1) Two Sum   
+  - [x] C++
