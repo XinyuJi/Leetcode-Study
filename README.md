@@ -10,7 +10,7 @@ Learning Algorithm everyday.
 ## Summary of Study
 ### Python 3
 #### Arrays
-##### Easy
+Easy
 - [01] Two Sum
 - [26] Remove Duplicates from Sorted Array
 
