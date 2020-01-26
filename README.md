@@ -8,14 +8,14 @@ Learning Algorithm everyday.
 - [ ] String
 
 ## Summary of Study
-###Python 3
+### Python 3
 #### Arrays
-#####Easy
+##### Easy
 - [01] Two Sum
 - [26] Remove Duplicates from Sorted Array
 
 
-###C++
+### C++
 - [01] Two Sum
 
 
