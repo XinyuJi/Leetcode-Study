@@ -3,18 +3,19 @@ Learning Algorithm everyday.
 
 ## To-do list
 - Arrays
-    - 1
+    - Easy: 1, 26
 
 - [ ] String
 
-array，string
-
 ## Summary of Study
-### Arrays
+###Python 3
+#### Arrays
+#####Easy
 - [01] Two Sum
-    - [x] C++
-    - [x] Python 3
-
 - [26] Remove Duplicates from Sorted Array
-    - [x] Python 3
+
+
+###C++
+- [01] Two Sum
+
 
