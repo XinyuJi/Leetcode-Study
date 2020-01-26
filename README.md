@@ -2,14 +2,19 @@
 Learning Algorithm everyday.
 
 ## To-do list
-- [x] Arrays
-- [ ] Arrays
+- Arrays
+    - 1
 
-## Timetable
-- 10/20 Arrays
-- 
+- [ ] String
+
+array，string
 
 ## Summary of Study
 ### Arrays
-- (1) Two Sum   
-  - [x] C++
+- [01] Two Sum
+    - [x] C++
+    - [x] Python 3
+
+- [26] Remove Duplicates from Sorted Array
+    - [x] Python 3
+
