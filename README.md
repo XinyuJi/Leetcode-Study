@@ -3,7 +3,7 @@ Learning Algorithm everyday.
 
 ## To-do list
 - Arrays
-    - Easy: 1, 26, 27
+    - Easy: 1, 26, 27, 35
 
 - [ ] String
 
