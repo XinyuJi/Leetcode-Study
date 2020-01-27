@@ -3,7 +3,7 @@ Learning Algorithm everyday.
 
 ## To-do list
 - Arrays
-    - Easy: 1, 26
+    - Easy: 1, 26, 27
 
 - [ ] String
 
@@ -13,6 +13,7 @@ Learning Algorithm everyday.
 Easy
 - [01] Two Sum
 - [26] Remove Duplicates from Sorted Array
+- [27] Remove Element
 
 
 ### C++
