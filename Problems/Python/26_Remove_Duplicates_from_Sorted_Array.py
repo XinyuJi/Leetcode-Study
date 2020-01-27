@@ -9,13 +9,14 @@ class Solution:
         return len(nums)
 
 
-# '''
-# create a new list
-# '''
+'''
+create a new list
 
-# list1 = [1,1,2]
-# list2 = []
-# for i in list1:
-#     if i not in list2:
-#         list2.append(i)
-# print (list2)
+
+list1 = [1,1,2]
+list2 = []
+for i in list1:
+    if i not in list2:
+        list2.append(i)
+print (list2)
+'''
