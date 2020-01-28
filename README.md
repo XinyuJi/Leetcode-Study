@@ -3,7 +3,7 @@ Learning Algorithm everyday.
 
 ## To-do list
 - Arrays
-    - Easy: 1, 26, 27, 35
+    - Easy: 1, 26, 27, 35, 66, 88
 
 - [ ] String
 
@@ -16,6 +16,7 @@ Easy
 - [27] Remove Element
 - [35] Search Insert Position *
 - [66] Plus One
+- [88] Merge Sorted Array *
 
 
 ### C++
