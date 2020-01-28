@@ -1,7 +1,7 @@
-'''
+"""
 Runtime: 32 ms, faster than 57.07% of Python3 online submissions for Remove Element.
 Memory Usage: 12.7 MB, less than 100.00% of Python3 online submissions for Remove Element.
-'''
+"""
 
 class Solution:
     def removeElement(self, nums: List[int], val: int) -> int:
@@ -16,7 +16,7 @@ class Solution:
         return len(nums)
 
 
-'''
+"""
 Testing Code
 
 nums = [3,2,2,3]
@@ -34,4 +34,4 @@ while x < length:
         length-=1
     x+=1
 print (nums2)
-'''
+"""

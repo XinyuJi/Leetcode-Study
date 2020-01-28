@@ -1,7 +1,7 @@
-'''
+"""
 Runtime: 48 ms, faster than 74.24% of Python3 online submissions for Search Insert Position.
 Memory Usage: 13.4 MB, less than 100.00% of Python3 online submissions for Search Insert Position.
-'''
+"""
 
 class Solution:
     def searchInsert(self, nums: List[int], target: int) -> int:
@@ -13,7 +13,7 @@ class Solution:
             return nums.index(target)
 
 
-'''
+"""
 Testing Code
 
 list1 = [1,3,5,6]
@@ -31,4 +31,4 @@ else:
     list1.append(val)
     list1.sort()
     print(list1.index(val))
-‘’‘
+"""
