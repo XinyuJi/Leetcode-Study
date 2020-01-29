@@ -1,11 +1,13 @@
 # Leetcode-Everyday
 Learning Algorithm everyday.
 
-## To-do list
+## Completed Problems
 - Arrays
-    - Easy: 1, 26, 27, 35, 66, 88
+    - Easy: 
+        1, 26, 27, 35, 66, 88
 
-- [ ] String
+- String
+    - Easy: 
 
 ## Summary of Study
 ### Python 3
@@ -18,6 +20,9 @@ Easy
 - [66] Plus One
 - [88] Merge Sorted Array *
 
+#### String
+Easy
+- [13] Roman to Integer
 
 ### C++
 - [01] Two Sum
