@@ -1,5 +1,4 @@
-# Leetcode-Everyday
-Learning Algorithm everyday.
+# Leetcode-Study
 
 ## Completed Problems
 - Arrays
