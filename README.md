@@ -7,6 +7,7 @@
 
 - String
     - Easy: 
+        13, 20
 
 ## Summary of Study
 ### Python 3
@@ -22,6 +23,7 @@ Easy
 #### String
 Easy
 - [13] Roman to Integer
+- [20] Valid Parentheses (stack vedio)
 
 ### C++
 - [01] Two Sum
