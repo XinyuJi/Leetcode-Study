@@ -7,7 +7,12 @@
 
 - String
     - Easy: 
-        13, 20
+        13, 20, 58
+
+- Math
+    - Easy:
+        07
+    
 
 ## Summary of Study
 ### Python 3
@@ -23,9 +28,11 @@ Easy
 #### String
 Easy
 - [13] Roman to Integer
-- [20] Valid Parentheses (stack vedio)
+- [20] Valid Parentheses (stack video)
+- [58] Length of Last Word
+
+#### Math
+- [07] Reverse Integer
 
 ### C++
 - [01] Two Sum
-
-
