@@ -14,4 +14,3 @@ class Solution:
             nums2.remove(nums2[len(nums2)-1])
         nums1.extend(nums2)
         nums1.sort()
-
