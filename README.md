@@ -11,7 +11,7 @@
 
 - Math
     - Easy:
-        07
+        07, 09
     
 
 ## Summary of Study
@@ -32,7 +32,9 @@ Easy
 - [58] Length of Last Word
 
 #### Math
+Easy
 - [07] Reverse Integer
+- [09] Palindrome Number (too easy 07 similar)
 
 ### C++
 - [01] Two Sum
