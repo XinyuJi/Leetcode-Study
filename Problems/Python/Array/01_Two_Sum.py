@@ -10,7 +10,7 @@ class Solution:
                 return i, nums.index(target - nums[i])
 
 
-#Hash Table
+#Dictionary
 """
 Runtime: 48 ms, faster than 79.50% of Python3 online submissions for Two Sum.
 Memory Usage: 14.2 MB, less than 54.88% of Python3 online submissions for Two Sum.
