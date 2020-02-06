@@ -3,7 +3,7 @@
 ## Completed Problems
 - Arrays
     - Easy: 
-        1, 26, 27, 35, 66, 88
+        1, 26, 27, 35, 66, 88, 167
 
 - String
     - Easy: 
@@ -24,6 +24,7 @@ Easy
 - [35] Search Insert Position *
 - [66] Plus One
 - [88] Merge Sorted Array *
+- [167] Two Sum II - Input array is sorted *
 
 #### String
 Easy
