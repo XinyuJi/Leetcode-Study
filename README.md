@@ -11,14 +11,21 @@
 
 - Math
     - Easy:
-        07, 09
+        7, 9
+
+    - Medium:
+        1344
+
+- Bit Manipulation
+    - Easy:
+        1342
     
 
 ## Summary of Study
 ### Python 3
 #### Arrays
 Easy
-- [01] Two Sum
+- [1] Two Sum
 - [26] Remove Duplicates from Sorted Array
 - [27] Remove Element
 - [35] Search Insert Position *
@@ -34,11 +41,24 @@ Easy
 
 #### Math
 Easy
-- [07] Reverse Integer
-- [09] Palindrome Number (too easy 07 similar)
+- [7] Reverse Integer
+- [9] Palindrome Number (too easy 07 similar)
+
+Medium
+- [1344] Angle Between Hands of a Clock (Biweekly Contest 19)
+
+#### Bit Manipulation
+Easy
+- [1342] Number of Steps to Reduce a Number to Zero * (Biweekly Contest 19)
+
 
 ### C++
-- [01] Two Sum
+- [1] Two Sum
 
-## Biweekly Contest
+## Contest
+### Biweekly Contest
 - Biweekly Contest 19 [2020.02.08]
+    - Finished:
+        - Q1:[1342] Number of Steps to Reduce a Number to Zero
+        - Q3:[1344] Angle Between Hands of a Clock
+
