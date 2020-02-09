@@ -1,3 +1,8 @@
+"""
+Runtime: 28 ms, faster than 33.33% of Python3 online submissions for Angle Between Hands of a Clock.
+Memory Usage: 12.9 MB, less than 100.00% of Python3 online submissions for Angle Between Hands of a Clock.
+"""
+
 class Solution:
     def angleClock(self, hour: int, minutes: int) -> float:
         clock_angle = 360
