@@ -1,3 +1,8 @@
+"""
+Runtime: 32 ms, faster than 66.67% of Python3 online submissions for Number of Steps to Reduce a Number to Zero.
+Memory Usage: 12.7 MB, less than 100.00% of Python3 online submissions for Number of Steps to Reduce a Number to Zero.
+"""
+
 class Solution:
     def numberOfSteps (self, num: int) -> int:
         count = 0
