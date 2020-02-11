@@ -3,7 +3,7 @@
 ## Completed Problems
 - Arrays
     - Easy: 
-        1, 26, 27, 35, 66, 88, 167
+        1, 26, 27, 35, 66, 88, 167, 1346
 
 - String
     - Easy: 
@@ -32,6 +32,7 @@ Easy
 - [66] Plus One
 - [88] Merge Sorted Array *
 - [167] Two Sum II - Input array is sorted *
+- [1346] Check If N and Its Double Exist *
 
 #### String
 Easy
