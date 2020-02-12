@@ -1,7 +1,6 @@
 # Leetcode-Study
 
 ## Todo
-### Python 3
 #### Hash Table
 - [1] Two Sum
 
