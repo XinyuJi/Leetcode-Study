@@ -8,10 +8,13 @@
 #### Two Pointers
 - [26] Remove Duplicates from Sorted Array
 - [27] Remove Element
+- [88] Merge Sorted Array
+- [167] Two Sum II - Input array is sorted
 
 #### Binary Search
 - [33] Search in Rotated Sorted Array
 - [35] Search Insert Position
+- [167] Two Sum II - Input array is sorted
 
 ## Completed Problems
 - Arrays
@@ -85,4 +88,3 @@ Easy
     - Finished:
         - Q1:[1342] Number of Steps to Reduce a Number to Zero
         - Q3:[1344] Angle Between Hands of a Clock
-
