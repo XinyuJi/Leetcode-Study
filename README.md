@@ -1,5 +1,18 @@
 # Leetcode-Study
 
+## Todo
+### Python 3
+#### Hash Table
+- [1] Two Sum
+
+#### Two Pointers
+- [26] Remove Duplicates from Sorted Array
+- [27] Remove Element
+
+#### Binary Search
+- [33] Search in Rotated Sorted Array
+- [35] Search Insert Position
+
 ## Completed Problems
 - Arrays
     - Easy: 
@@ -14,7 +27,7 @@
 
 - Math
     - Easy:
-        7, 9
+        7, 9, 13
 
     - Medium:
         1344
@@ -50,6 +63,7 @@ Easy
 Easy
 - [7] Reverse Integer
 - [9] Palindrome Number (too easy 07 similar)
+- [13] Roman to Integer
 
 Medium
 - [1344] Angle Between Hands of a Clock (Biweekly Contest 19)
@@ -58,6 +72,9 @@ Medium
 Easy
 - [1342] Number of Steps to Reduce a Number to Zero * (Biweekly Contest 19)
 
+#### Stack
+Easy
+- [20] Valid Parentheses (stack video)
 
 ### C++
 - [1] Two Sum
