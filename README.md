@@ -4,6 +4,9 @@
 - Arrays
     - Easy: 
         1, 26, 27, 35, 66, 88, 167, 1346
+        
+    - Medium:
+        33
 
 - String
     - Easy: 
@@ -33,6 +36,9 @@ Easy
 - [88] Merge Sorted Array *
 - [167] Two Sum II - Input array is sorted *
 - [1346] Check If N and Its Double Exist *
+
+Medium
+- [33] Search in Rotated Sorted Array *
 
 #### String
 Easy
