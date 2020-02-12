@@ -38,7 +38,10 @@
 - Bit Manipulation
     - Easy:
         1342
-    
+ 
+ - Stack
+    - Easy:
+        20
 
 ## Summary of Study
 ### Python 3
