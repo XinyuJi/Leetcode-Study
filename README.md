@@ -1,24 +1,15 @@
 # Leetcode-Study
 
-## Todo
-#### Hash Table
-- [1] Two Sum
-
-#### Two Pointers
-- [26] Remove Duplicates from Sorted Array
-- [27] Remove Element
-- [88] Merge Sorted Array
-- [167] Two Sum II - Input array is sorted
-
-#### Binary Search
-- [33] Search in Rotated Sorted Array
-- [35] Search Insert Position
-- [167] Two Sum II - Input array is sorted
-
 ## Completed Problems
+### Summary
+
+- [1351] Count Negative Numbers in a Sorted Matrix
+    EASY - [x] Array - [] Binary Search
+
+### Topics
 - Arrays
     - Easy: 
-        1, 26, 27, 35, 66, 88, 167, 1346
+        1, 26, 27, 35, 66, 88, 167, 1346, 1351
         
     - Medium:
         33
@@ -54,6 +45,7 @@ Easy
 - [88] Merge Sorted Array *
 - [167] Two Sum II - Input array is sorted *
 - [1346] Check If N and Its Double Exist *
+- [1351] Count Negative Numbers in a Sorted Matrix *
 
 Medium
 - [33] Search in Rotated Sorted Array *
@@ -62,7 +54,6 @@ Medium
 Easy
 - [13] Roman to Integer
 - [20] Valid Parentheses (stack video)
-- [38] Count and Say
 - [58] Length of Last Word
 
 #### Math
