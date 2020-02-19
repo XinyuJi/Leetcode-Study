@@ -3,14 +3,72 @@
 ## Completed Problems
 ### Summary
 
-- [1351] Count Negative Numbers in a Sorted Matrix
-    EASY - [x] Array - [] Binary Search
+- [1] [Easy] Two Sum
+    - [x] Array 
+    - [ ] Hash Table
+
+- [7] [Easy] Reverse Integer
+    - [x] Math
+
+- [9] [Easy] Palindrome Number
+    - [x] Math
+
+- [13] [Easy] Roman to Integer
+    - [x] Math
+    - [x] String
+
+- [20] [Easy] Roman to Integer
+    - [x] String
+    - [x] Stack
+
+- [26] [Easy] Remove Duplicates from Sorted Array
+    - [x] Array
+    - [ ] Two Pointers
+
+- [27] [Easy] Remove Element
+    - [x] Array
+    - [ ] Two Pointers
+    
+- [33] [Medium] Search in Rotated Sorted Array
+    - [x] Array
+    - [ ] Binary Search
+    
+- [35] [Easy] Search Insert Position
+    - [x] Array
+    - [ ] Binary Search
+
+- [58] [Easy] Length of Last Word
+    - [x] String
+
+- [66] [Easy] Plus One
+    - [x] Array
+
+- [88] [Easy] Merge Sorted Array
+    - [x] Array
+    - [ ] Two Pointers
+
+- [167] [Easy] Two Sum II - Input array is sorted
+    - [x] Array
+    - [ ] Two Pointers
+    - [ ] Binary Search
+
+- [1342] [Easy] Number of Steps to Reduce a Number to Zero
+    - [x] Bit Manipulation  
+
+- [1344] [Medium] Angle Between Hands of a Clock
+    - [x] Math 
+   
+- [1346] [Easy] Check If N and Its Double Exist
+    - [x] Array  
+
+- [1351] [Easy] Count Negative Numbers in a Sorted Matrix
+    - [x] Array  
+    - [ ] Binary Search
 
 ### Topics
 - Arrays
     - Easy: 
         1, 26, 27, 35, 66, 88, 167, 1346, 1351
-        
     - Medium:
         33
 
@@ -21,7 +79,6 @@
 - Math
     - Easy:
         7, 9, 13
-
     - Medium:
         1344
 
