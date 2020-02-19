@@ -62,6 +62,7 @@ Medium
 Easy
 - [13] Roman to Integer
 - [20] Valid Parentheses (stack video)
+- [38] Count and Say
 - [58] Length of Last Word
 
 #### Math
