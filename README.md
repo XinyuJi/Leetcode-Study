@@ -3,7 +3,7 @@
 ## Completed Problems
 ### Summary
 
-- [1] [Easy] Two Sum
+- [1] [Easy] Two Sum (
     - [x] Array 
     - [ ] Hash Table
 
