@@ -3,7 +3,7 @@
 ## Completed Problems
 ### Summary
 
-- [1] [Easy] Two Sum
+- [1] [Easy] Two Sum 
     - [x] Array 
     - [ ] Hash Table
 
@@ -139,5 +139,7 @@ Easy
     - Finished:
         - Q1:[1342] Number of Steps to Reduce a Number to Zero
         - Q3:[1344] Angle Between Hands of a Clock
+
+- Biweekly Contest 20 [2020.02.22]
 
 https://www.youtube.com/playlist?list=PL2rWx9cCzU84eBz9Xfp9Rah5Fexq5yrh8
