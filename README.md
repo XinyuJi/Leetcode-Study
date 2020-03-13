@@ -64,11 +64,15 @@
 - [1351] [Easy] Count Negative Numbers in a Sorted Matrix
     - [x] Array  
     - [ ] Binary Search
+    
+- [1365] [Easy] How Many Numbers Are Smaller Than the Current Number
+    - [x] Array  
+    - [ ] Hash Table
 
 ### Topics
 - Arrays
     - Easy: 
-        1, 26, 27, 35, 66, 88, 167, 1346, 1351
+        1, 26, 27, 35, 66, 88, 167, 1346, 1351, 1365
     - Medium:
         33
 
@@ -103,6 +107,7 @@ Easy
 - [167] Two Sum II - Input array is sorted *
 - [1346] Check If N and Its Double Exist *
 - [1351] Count Negative Numbers in a Sorted Matrix *
+- [1365] How Many Numbers Are Smaller Than the Current Number
 
 Medium
 - [33] Search in Rotated Sorted Array *
