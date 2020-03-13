@@ -52,6 +52,9 @@
     - [ ] Two Pointers
     - [ ] Binary Search
 
+- [1185] [Easy] Day of the Week (API)
+    - [ ] Array 
+
 - [1342] [Easy] Number of Steps to Reduce a Number to Zero
     - [x] Bit Manipulation  
 
