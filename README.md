@@ -59,6 +59,9 @@
     - [ ] Two Pointers
     - [ ] Binary Search
 
+- [260] [Medium] Single Number III
+    - [x] Bit Manipulation 
+
 - [1185] [Easy] Day of the Week (API)
     - [ ] Array 
 
@@ -100,7 +103,7 @@
     - Easy:
         136, 1342
     - Medium
-        137
+        137, 260
  
  - Stack
     - Easy:
@@ -146,6 +149,7 @@ Easy
 
 Medium
 - [137] Single Number II
+- [260] Single Number III
 
 #### Stack
 Easy
