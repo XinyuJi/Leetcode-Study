@@ -47,6 +47,10 @@
     - [x] Array
     - [ ] Two Pointers
 
+- [136] [Easy] Single Number
+    - [ ] Hash Table
+    - [x] Bit Manipulation 
+
 - [167] [Easy] Two Sum II - Input array is sorted
     - [x] Array
     - [ ] Two Pointers
@@ -91,7 +95,7 @@
 
 - Bit Manipulation
     - Easy:
-        1342
+        136, 1342
  
  - Stack
     - Easy:
@@ -132,6 +136,7 @@ Medium
 
 #### Bit Manipulation
 Easy
+- [136] Single Number (30-Day LeetCoding Challenge[Day1])
 - [1342] Number of Steps to Reduce a Number to Zero * (Biweekly Contest 19)
 
 #### Stack
@@ -149,5 +154,11 @@ Easy
         - Q3:[1344] Angle Between Hands of a Clock
 
 - Biweekly Contest 20 [2020.02.22]
+
+## Challenge
+### 30-Day LeetCoding Challenge
+[Day1]: [136] Single Number
+
+
 
 https://www.youtube.com/playlist?list=PL2rWx9cCzU84eBz9Xfp9Rah5Fexq5yrh8
