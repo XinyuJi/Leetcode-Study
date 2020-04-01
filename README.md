@@ -51,6 +51,9 @@
     - [ ] Hash Table
     - [x] Bit Manipulation 
 
+- [137] [Medium] Single Number II
+    - [x] Bit Manipulation 
+
 - [167] [Easy] Two Sum II - Input array is sorted
     - [x] Array
     - [ ] Two Pointers
@@ -96,6 +99,8 @@
 - Bit Manipulation
     - Easy:
         136, 1342
+    - Medium
+        137
  
  - Stack
     - Easy:
@@ -138,6 +143,9 @@ Medium
 Easy
 - [136] Single Number (30-Day LeetCoding Challenge[Day1])
 - [1342] Number of Steps to Reduce a Number to Zero * (Biweekly Contest 19)
+
+Medium
+- [137] Single Number II
 
 #### Stack
 Easy
