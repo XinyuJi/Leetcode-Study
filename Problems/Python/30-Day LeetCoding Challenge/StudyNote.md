@@ -1,6 +1,7 @@
 # 30-Day LeetCoding Challenge
 ## Day 1 - [136] Single Number
-[Solutions][https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3283/]
+
+[Solutions](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3283/)
 - Approach 1: List operation
 
 - Approach 2: Hash Table
