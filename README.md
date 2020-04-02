@@ -8,13 +8,13 @@
     - [ ] Hash Table
 
 - [7] [Easy] Reverse Integer
-    - [x] Math
+    - Math
 
 - [9] [Easy] Palindrome Number
-    - [x] Math
+    - Math
 
 - [13] [Easy] Roman to Integer
-    - [x] Math, String
+    - Math, String
 
 - [20] [Easy] Roman to Integer
     - [x] String, Stack
@@ -44,6 +44,10 @@
 - [88] [Easy] Merge Sorted Array
     - [x] Array
     - [ ] Two Pointers
+
+- [121] Best Time to Buy and Sell Stock
+    - [x] Array
+    - [ ] Dynamic Programming
 
 - [136] [Easy] Single Number
     - [x] Hash Table, Bit Manipulation 
@@ -89,7 +93,7 @@
 ### Topics
 - Arrays
     - Easy: 
-        1, 26, 27, 35, 66, 88, 167, 1346, 1351, 1365
+        1, 26, 27, 35, 66, 88, 121, 167, 1346, 1351, 1365
     - Medium:
         33
 
@@ -123,6 +127,7 @@ Easy
 - [35] Search Insert Position *
 - [66] Plus One
 - [88] Merge Sorted Array *
+- [121] Best Time to Buy and Sell Stock
 - [167] Two Sum II - Input array is sorted *
 - [1346] Check If N and Its Double Exist *
 - [1351] Count Negative Numbers in a Sorted Matrix *
@@ -161,8 +166,19 @@ Medium
 Easy
 - [20] Valid Parentheses (stack video)
 
-### C++
-- [1] Two Sum
+## Related Problems
+- Two Sum
+
+- Single Number
+    - [136] Single Number
+    - [137] Single Number II
+    - [260] Single Number III
+
+- Best Time to Buy and Sell Stock
+    - [121] Best Time to Buy and Sell Stock
+
+
+
 
 ## Contest
 ### Biweekly Contest
