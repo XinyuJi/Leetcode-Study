@@ -178,8 +178,8 @@ Easy
 
 ## Challenge
 ### 30-Day LeetCoding Challenge
-[Day1]: [136] Single Number
-[Day2]: [202] Happy Number
+- [Day1]: [136] Single Number
+- [Day2]: [202] Happy Number
 
 
 
