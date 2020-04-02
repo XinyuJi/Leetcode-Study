@@ -66,6 +66,9 @@
 - [260] [Medium] Single Number III
     - [x] Bit Manipulation 
 
+- [263] Ugly Number
+    - [x] Math
+
 - [1185] [Easy] Day of the Week (API)
     - [ ] Array 
 
@@ -99,7 +102,7 @@
 
 - Math
     - Easy:
-        7, 9, 13, 202
+        7, 9, 13, 202, 263
     - Medium:
         1344
 
@@ -143,6 +146,7 @@ Easy
 - [9] Palindrome Number (too easy 07 similar)
 - [13] Roman to Integer
 - [202] Happy Number (30-Day LeetCoding Challenge[Day2])
+- [263] Ugly Number
 
 Medium
 - [1344] Angle Between Hands of a Clock (Biweekly Contest 19)
