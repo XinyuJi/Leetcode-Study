@@ -1,5 +1,6 @@
 # 30-Day LeetCoding Challenge
 ## Day 1 - [136] Single Number
+[Solutions][https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3283/]
 - Approach 1: List operation
 
 - Approach 2: Hash Table
@@ -17,7 +18,7 @@ a ^ a = 0
 a ^ b ^ a = (a ^ a) ^ b = 0 ^ b = b
 So we can XOR all bits together to find the unique number.
 
-Related Problem:
+**Related Problem:**
 - [137] Single Number II
 - [260] Single Number III
 https://blog.csdn.net/wlwh90/article/details/89712795
