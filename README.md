@@ -14,12 +14,10 @@
     - [x] Math
 
 - [13] [Easy] Roman to Integer
-    - [x] Math
-    - [x] String
+    - [x] Math, String
 
 - [20] [Easy] Roman to Integer
-    - [x] String
-    - [x] Stack
+    - [x] String, Stack
 
 - [26] [Easy] Remove Duplicates from Sorted Array
     - [x] Array
@@ -48,8 +46,7 @@
     - [ ] Two Pointers
 
 - [136] [Easy] Single Number
-    - [ ] Hash Table
-    - [x] Bit Manipulation 
+    - [x] Hash Table, Bit Manipulation 
 
 - [137] [Medium] Single Number II
     - [x] Bit Manipulation 
