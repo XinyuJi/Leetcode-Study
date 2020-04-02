@@ -59,6 +59,10 @@
     - [ ] Two Pointers
     - [ ] Binary Search
 
+- [202] [Easy] Happy Number
+    - [ ] Hash Table
+    - [x] Math
+
 - [260] [Medium] Single Number III
     - [x] Bit Manipulation 
 
@@ -95,7 +99,7 @@
 
 - Math
     - Easy:
-        7, 9, 13
+        7, 9, 13, 202
     - Medium:
         1344
 
@@ -138,6 +142,7 @@ Easy
 - [7] Reverse Integer
 - [9] Palindrome Number (too easy 07 similar)
 - [13] Roman to Integer
+- [202] Happy Number (30-Day LeetCoding Challenge[Day2])
 
 Medium
 - [1344] Angle Between Hands of a Clock (Biweekly Contest 19)
@@ -170,6 +175,7 @@ Easy
 ## Challenge
 ### 30-Day LeetCoding Challenge
 [Day1]: [136] Single Number
+[Day2]: [202] Happy Number
 
 
 
