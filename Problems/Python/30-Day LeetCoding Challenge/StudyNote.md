@@ -18,7 +18,9 @@
 
 **Related Problem:**
 - [137] Single Number II
-    - [Solutions](https://blog.csdn.net/wlwh90/article/details/89712795)
+    - Hash Table
+    - [Bit Manipulation](https://blog.csdn.net/wlwh90/article/details/89712795)
+
 - [260] Single Number III
 
 
