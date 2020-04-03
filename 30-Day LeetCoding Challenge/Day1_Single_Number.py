@@ -3,5 +3,4 @@ class Solution:
         output = 0
         for num in nums:
             output ^= num
-        
         return output
