@@ -14,6 +14,7 @@
 | 27   | Remove Element | Easy | Array | Two Pointers |
 | 33   | Search in Rotated Sorted Array | Medium | Array | Binary Search |
 | 35   | Search Insert Position | Easy | Array |Binary Search|
+| 53   | Maximum Subarray | Easy | Array | Divide and Conquer, Dynamic Programming |
 | 58   | Length of Last Word | Easy | String | |
 | 66   | Plus One | Easy | Array | |
 | 88   | Merge Sorted Array | Easy | Array | Two Pointers |
@@ -34,7 +35,7 @@
 ### Topics
 - Arrays
     - Easy: 
-        1, 26, 27, 35, 66, 88, 121, 167, 1346, 1351, 1365
+        1, 26, 27, 35, 53, 66, 88, 121, 167, 1346, 1351, 1365
     - Medium:
         33
 
@@ -66,6 +67,7 @@ Easy
 - [26] Remove Duplicates from Sorted Array
 - [27] Remove Element
 - [35] Search Insert Position *
+- [53] Maximum Subarray
 - [66] Plus One
 - [88] Merge Sorted Array *
 - [121] Best Time to Buy and Sell Stock
@@ -101,7 +103,7 @@ Easy
 
 Medium
 - [137] Single Number II
-- [260] Single Number III
+- [260] Single Number III *
 
 #### Hash Table
 Easy
