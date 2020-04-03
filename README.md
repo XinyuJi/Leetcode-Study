@@ -67,7 +67,7 @@ Easy
 - [26] Remove Duplicates from Sorted Array
 - [27] Remove Element
 - [35] Search Insert Position *
-- [53] Maximum Subarray
+- [53] Maximum Subarray (30-Day LeetCoding Challenge[Day3])
 - [66] Plus One
 - [88] Merge Sorted Array *
 - [121] Best Time to Buy and Sell Stock
@@ -138,6 +138,7 @@ Easy
 ### 30-Day LeetCoding Challenge
 - [Day1]: [136] Single Number
 - [Day2]: [202] Happy Number
+- [Day3]: [53]  Maximum Subarray
 
 
 
