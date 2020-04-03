@@ -7,26 +7,11 @@
 | :---: | :---: | :---: | :---: | :---: |
 | [1] | Two Sum | Easy | Array | Hash Table |
 | [7] | Reverse Integer | Easy | Math | |
+| [9] | Palindrome Number | Easy | Math | |
+| [13] | Roman to Integer | Easy | Math, String | |
+| [20] | Valid Parentheses | Easy | String, Stack | |
+| [26] | Remove Duplicates from Sorted Array | Easy | Array |Two Pointers|
 
-- [1] [Easy] Two Sum 
-    - [x] Array 
-    - [ ] Hash Table
-
-- [7] [Easy] Reverse Integer
-    - Math
-
-- [9] [Easy] Palindrome Number
-    - Math
-
-- [13] [Easy] Roman to Integer
-    - Math, String
-
-- [20] [Easy] Roman to Integer
-    - String, Stack
-
-- [26] [Easy] Remove Duplicates from Sorted Array
-    - [x] Array
-    - [ ] Two Pointers
 
 - [27] [Easy] Remove Element
     - [x] Array
