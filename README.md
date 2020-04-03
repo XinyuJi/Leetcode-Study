@@ -1,7 +1,6 @@
 # Leetcode-Study
 
 ## Completed Problems
-### Summary
 
 |   #   | Title | Difficulty | Topic | Unfinished Topic | 
 | :---: | :---: | :---: | :---: | :---: |
@@ -59,8 +58,6 @@
     - Easy:
         20
 
-## Summary of Study
-### Python 3
 #### Arrays
 Easy
 - [1] Two Sum
@@ -133,6 +130,7 @@ Easy
         - Q3:[1344] Angle Between Hands of a Clock
 
 - Biweekly Contest 20 [2020.02.22]
+
 
 ## Challenge
 ### 30-Day LeetCoding Challenge
