@@ -5,31 +5,31 @@
 
 |   #   | Title | Difficulty | Topic | Unfinished Topic | 
 | :---: | :---: | :---: | :---: | :---: |
-| 1 | Two Sum | Easy | Array | Hash Table |
-| 7 | Reverse Integer | Easy | Math | |
-| [9] | Palindrome Number | Easy | Math | |
-| [13] | Roman to Integer | Easy | Math, String | |
-| [20] | Valid Parentheses | Easy | String, Stack | |
-| [26] | Remove Duplicates from Sorted Array | Easy | Array | Two Pointers |
-| [27] | Remove Element | Easy | Array | Two Pointers |
-| [33] | Search in Rotated Sorted Array | Medium | Array | Binary Search |
-| [35] | Search Insert Position | Easy | Array |Binary Search|
-| [58] | Length of Last Word | Easy | String | |
-| [66] | Plus One | Easy | Array | |
-| [88] | Merge Sorted Array | Easy | Array | Two Pointers |
-| [121] | Best Time to Buy and Sell Stock | Easy | Array | Dynamic Programming |
-| [136] | Single Number | Easy | Hash Table, Bit Manipulation | |
-| [137] | Single Number II | Medium | Bit Manipulation | |
-| [167] | Best Time to Buy and Sell Stock | Easy | Array | Two Pointers, Binary Search |
-| [202] | Happy Number | Easy | Math | Hash Table |
-| [260] | Single Number III | Medium | Bit Manipulation | |
-| [263] | Ugly Number | Easy | Math | |
-| [1185] | Day of the Week | Easy | API | Array |
-| [1342] | Number of Steps to Reduce a Number to Zero | Easy | Bit Manipulation | |
-| [1344] | Angle Between Hands of a Clock | Medium | Math | |
-| [1346] | Check If N and Its Double Exist | Easy | Array | |
-| [1351] | Count Negative Numbers in a Sorted Matrix | Easy | Array | Binary Search |
-| [1365] | How Many Numbers Are Smaller Than the Current Number | Easy | Array | Hash Table |
+| 1    | Two Sum | Easy | Array | Hash Table |
+| 7    | Reverse Integer | Easy | Math | |
+| 9    | Palindrome Number | Easy | Math | |
+| 13   | Roman to Integer | Easy | Math, String | |
+| 20   | Valid Parentheses | Easy | String, Stack | |
+| 26   | Remove Duplicates from Sorted Array | Easy | Array | Two Pointers |
+| 27   | Remove Element | Easy | Array | Two Pointers |
+| 33   | Search in Rotated Sorted Array | Medium | Array | Binary Search |
+| 35   | Search Insert Position | Easy | Array |Binary Search|
+| 58   | Length of Last Word | Easy | String | |
+| 66   | Plus One | Easy | Array | |
+| 88   | Merge Sorted Array | Easy | Array | Two Pointers |
+| 121  | Best Time to Buy and Sell Stock | Easy | Array | Dynamic Programming |
+| 136  | Single Number | Easy | Hash Table, Bit Manipulation | |
+| 137  | Single Number II | Medium | Bit Manipulation | |
+| 167  | Best Time to Buy and Sell Stock | Easy | Array | Two Pointers, Binary Search |
+| 202  | Happy Number | Easy | Math | Hash Table |
+| 260  | Single Number III | Medium | Bit Manipulation | |
+| 263  | Ugly Number | Easy | Math | |
+| 1185 | Day of the Week | Easy | API | Array |
+| 1342 | Number of Steps to Reduce a Number to Zero | Easy | Bit Manipulation | |
+| 1344 | Angle Between Hands of a Clock | Medium | Math | |
+| 1346 | Check If N and Its Double Exist | Easy | Array | |
+| 1351 | Count Negative Numbers in a Sorted Matrix | Easy | Array | Binary Search |
+| 1365 | How Many Numbers Are Smaller Than the Current Number | Easy | Array | Hash Table |
 
 ### Topics
 - Arrays
