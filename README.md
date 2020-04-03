@@ -17,7 +17,7 @@
     - Math, String
 
 - [20] [Easy] Roman to Integer
-    - [x] String, Stack
+    - String, Stack
 
 - [26] [Easy] Remove Duplicates from Sorted Array
     - [x] Array
@@ -36,10 +36,10 @@
     - [ ] Binary Search
 
 - [58] [Easy] Length of Last Word
-    - [x] String
+    - String
 
 - [66] [Easy] Plus One
-    - [x] Array
+    - Array
 
 - [88] [Easy] Merge Sorted Array
     - [x] Array
@@ -50,10 +50,10 @@
     - [ ] Dynamic Programming
 
 - [136] [Easy] Single Number
-    - [x] Hash Table, Bit Manipulation 
+    - Hash Table, Bit Manipulation 
 
 - [137] [Medium] Single Number II
-    - [x] Bit Manipulation 
+    - Bit Manipulation 
 
 - [167] [Easy] Two Sum II - Input array is sorted
     - [x] Array
@@ -65,22 +65,22 @@
     - [x] Math
 
 - [260] [Medium] Single Number III
-    - [x] Bit Manipulation 
+    - Bit Manipulation 
 
 - [263] Ugly Number
-    - [x] Math
+    - Math
 
 - [1185] [Easy] Day of the Week (API)
     - [ ] Array 
 
 - [1342] [Easy] Number of Steps to Reduce a Number to Zero
-    - [x] Bit Manipulation  
+    - Bit Manipulation  
 
 - [1344] [Medium] Angle Between Hands of a Clock
-    - [x] Math 
+    - Math 
    
 - [1346] [Easy] Check If N and Its Double Exist
-    - [x] Array  
+    - Array  
 
 - [1351] [Easy] Count Negative Numbers in a Sorted Matrix
     - [x] Array  
@@ -162,6 +162,10 @@ Medium
 - [137] Single Number II
 - [260] Single Number III
 
+#### Hash Table
+Easy
+- [136] Single Number
+
 #### Stack
 Easy
 - [20] Valid Parentheses (stack video)
@@ -178,8 +182,6 @@ Easy
     - [121] Best Time to Buy and Sell Stock
 
 
-
-
 ## Contest
 ### Biweekly Contest
 - Biweekly Contest 19 [2020.02.08]
@@ -193,7 +195,6 @@ Easy
 ### 30-Day LeetCoding Challenge
 - [Day1]: [136] Single Number
 - [Day2]: [202] Happy Number
-
 
 
 
