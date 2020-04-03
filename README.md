@@ -1,3 +1,9 @@
+```diff
+- red
++ green
+! orange
+# gray
+```
 # Leetcode-Study
 
 ## Completed Problems
@@ -5,10 +11,10 @@
 
 |   #   | Title | Difficulty | Topic | Unfinished Topic | 
 | :---: | :---: | :---: | :---: | :---: |
-| [1] | Two Sum | Easy | Array | Hash Table |
-| [7] | Reverse Integer | Easy | Math | |
-| [9] | Palindrome Number | Easy | Math | |
-| [13] | Roman to Integer | Easy | Math, String | |
+| [1] | Two Sum | # Easy | Array | Hash Table |
+| [7] | Reverse Integer | ! Easy | Math | |
+| [9] | Palindrome Number | + Easy | Math | |
+| [13] | Roman to Integer | - Easy | Math, String | |
 | [20] | Valid Parentheses | Easy | String, Stack | |
 | [26] | Remove Duplicates from Sorted Array | Easy | Array |Two Pointers|
 
