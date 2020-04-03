@@ -1,5 +1,5 @@
 # 30-Day LeetCoding Challenge
-## Day 1 - [136] Single Number
+## Day 1: [136] Single Number
 
 [Solutions](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3283/)
 - Approach 1: List operation
@@ -23,8 +23,9 @@
 
 - [260] Single Number III
 
-
-## Day 2 - [202] Happy Number
+## Day 2: [202] Happy Number
 
 Related Problem:
 - [263] Ugly Number
+
+## Day 3: [53]  Maximum Subarray
