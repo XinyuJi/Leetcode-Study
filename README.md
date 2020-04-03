@@ -3,6 +3,11 @@
 ## Completed Problems
 ### Summary
 
+|   #   | Title | Difficulty | Topic | Unfinished Topic | 
+| :---: | :---: | :---: | :---: | :---: |
+| [1] | Two Sum | Easy | Array | Hash Table |
+| [7] | Reverse Integer | Easy | Math | |
+
 - [1] [Easy] Two Sum 
     - [x] Array 
     - [ ] Hash Table
