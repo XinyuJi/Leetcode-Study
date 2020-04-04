@@ -24,6 +24,7 @@
 | 202  | Happy Number | Easy | Math | Hash Table |
 | 260  | Single Number III | Medium | Bit Manipulation | |
 | 263  | Ugly Number | Easy | Math | |
+| 283  | Move Zeroes | Easy | Array | Two Pointers |
 | 1185 | Day of the Week | Easy | API | Array |
 | 1342 | Number of Steps to Reduce a Number to Zero | Easy | Bit Manipulation | |
 | 1344 | Angle Between Hands of a Clock | Medium | Math | |
@@ -34,7 +35,7 @@
 ### Topics
 - Arrays
     - Easy: 
-        1, 26, 27, 35, 53, 66, 88, 121, 167, 1346, 1351, 1365
+        1, 26, 27, 35, 53, 66, 88, 121, 167, 283, 1346, 1351, 1365
     - Medium:
         33
 
@@ -69,6 +70,7 @@ Easy
 - [88] Merge Sorted Array *
 - [121] Best Time to Buy and Sell Stock
 - [167] Two Sum II - Input array is sorted *
+- [283] Move Zeroes * (30-Day LeetCoding Challenge[Day4])
 - [1346] Check If N and Its Double Exist *
 - [1351] Count Negative Numbers in a Sorted Matrix *
 - [1365] How Many Numbers Are Smaller Than the Current Number
@@ -137,7 +139,7 @@ Easy
 - [Day1]: [136] Single Number
 - [Day2]: [202] Happy Number
 - [Day3]: [53]  Maximum Subarray
-
+- [Day4]: [283] Move Zeroes
 
 
 
