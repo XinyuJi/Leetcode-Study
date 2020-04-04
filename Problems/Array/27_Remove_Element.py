@@ -17,21 +17,21 @@ class Solution:
 
 
 """
-Testing Code
-
-nums = [3,2,2,3]
-val = 3
-nums2 = [0,1,2,2,3,0,4,2]
-val2 = 2
-
-length=len(nums2)
-x = 0
-
-while x < length:
-    if nums2[x] == val2:
-        del nums2[x]
-        x = x -1
-        length-=1
-    x+=1
-print (nums2)
+[My Solution]
+Runtime: 28 ms, faster than 85.31% of Python3 online submissions for Remove Element.
+Memory Usage: 14 MB, less than 6.06% of Python3 online submissions for Remove Element.
 """
+
+class Solution:
+    def removeElement(self, nums: List[int], val: int) -> int:
+        num = 0
+        while(num<len(nums)):
+            if nums[num] == val:
+                nums.remove(nums[num])
+                if num > 0:
+                    num = num - 1
+                else:
+                    num = num
+            else:
+                num = num + 1
+        return len(nums)
