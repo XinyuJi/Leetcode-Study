@@ -62,7 +62,7 @@
 #### Arrays
 Easy
 - [1] Two Sum
-- [26] Remove Duplicates from Sorted Array
+- [26] Remove Duplicates from Sorted Array *
 - [27] Remove Element *
 - [35] Search Insert Position *
 - [53] Maximum Subarray (30-Day LeetCoding Challenge[Day3])
@@ -128,6 +128,7 @@ Easy
     - [121] Best Time to Buy and Sell Stock
 
 - Array, Two Pointers
+    - [26] Remove Duplicates from Sorted Array
     - [27] Remove Element
     - [283] Move Zeroes
 
