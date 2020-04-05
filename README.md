@@ -21,7 +21,7 @@
 | 122  | Best Time to Buy and Sell Stock II | Easy | Array | Greedy |
 | 136  | Single Number | Easy | Hash Table, Bit Manipulation | |
 | 137  | Single Number II | Medium | Bit Manipulation | |
-| 167  | Best Time to Buy and Sell Stock | Easy | Array | Two Pointers, Binary Search |
+| 167  | Best Time to Buy and Sell Stock | Easy | Array, Two Pointers | Binary Search |
 | 202  | Happy Number | Easy | Math | Hash Table |
 | 260  | Single Number III | Medium | Bit Manipulation | |
 | 263  | Ugly Number | Easy | Math | |
@@ -117,6 +117,13 @@ Easy
 #### Stack
 Easy
 - [20] Valid Parentheses (stack video)
+
+#### Two Pointers
+Easy
+- [26]  Remove Duplicates from Sorted Array
+- [27]  Remove Element
+- [167] Best Time to Buy and Sell Stock
+- [283] Move Zeroes
 
 ## Related Problems
 - Two Sum
