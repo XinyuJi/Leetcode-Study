@@ -32,11 +32,13 @@
 | 1346 | Check If N and Its Double Exist | Easy | Array | |
 | 1351 | Count Negative Numbers in a Sorted Matrix | Easy | Array | Binary Search |
 | 1365 | How Many Numbers Are Smaller Than the Current Number | Easy | Array | Hash Table |
+| 1389 | Create Target Array in the Given Order | Easy | Array | |
+| 1394 | Find Lucky Integer in an Array | Easy | Array | |
 
 ### Topics
 - Arrays
     - Easy: 
-        1, 26, 27, 35, 53, 66, 88, 121, 122, 167, 283, 1346, 1351, 1365
+        1, 26, 27, 35, 53, 66, 88, 121, 122, 167, 283, 1346, 1351, 1365, 1389, 1394
     - Medium:
         33
 
@@ -76,6 +78,8 @@ Easy
 - [1346] Check If N and Its Double Exist *
 - [1351] Count Negative Numbers in a Sorted Matrix *
 - [1365] How Many Numbers Are Smaller Than the Current Number
+- [1389] Create Target Array in the Given Order
+- [1394] Find Lucky Integer in an Array *
 
 Medium
 - [33] Search in Rotated Sorted Array *
