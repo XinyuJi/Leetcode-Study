@@ -4,7 +4,7 @@
 
 |   #   | Title | Difficulty | Topic | Unfinished Topic | 
 | :---: | :---: | :---: | :---: | :---: |
-| 1    | Two Sum | Easy | Array | Hash Table |
+| 1    | Two Sum | Easy | Array, Hash Table | |
 | 7    | Reverse Integer | Easy | Math | |
 | 9    | Palindrome Number | Easy | Math | |
 | 13   | Roman to Integer | Easy | Math, String | |
@@ -112,6 +112,7 @@ Medium
 
 #### Hash Table
 Easy
+- [1] Two Sum
 - [136] Single Number
 
 #### Stack
