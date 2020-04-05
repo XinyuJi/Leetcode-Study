@@ -36,4 +36,5 @@ Find the contiguous subarray (containing at least one number) which has the larg
 - Approach: Two Pointers
 
 **Related Problem:**
+- [26] Remove Duplicates from Sorted Array
 - [27] Remove Element
