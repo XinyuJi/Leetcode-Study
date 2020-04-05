@@ -10,13 +10,23 @@ class Solution:
 
 
 """
-create a new list
-
-
-list1 = [1,1,2]
-list2 = []
-for i in list1:
-    if i not in list2:
-        list2.append(i)
-print (list2)
+[My Solution]
+Runtime: 788 ms, faster than 7.06% of Python3 online submissions for Remove Duplicates from Sorted Array.
+Memory Usage: 15.6 MB, less than 5.74% of Python3 online submissions for Remove Duplicates from Sorted Array.
 """
+
+class Solution:
+    def removeDuplicates(self, nums: List[int]) -> int:
+        if len(nums) == 0:
+            return 0
+        pos = 1
+        container = nums[0]
+        while(pos < len(nums)):
+            if nums[pos] == container:
+                nums.remove(nums[pos])
+                if pos > 0:
+                    pos = pos -1
+            else:
+                container = nums[pos]
+            pos = pos +1 
+        return len(nums)
