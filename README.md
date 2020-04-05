@@ -18,6 +18,7 @@
 | 66   | Plus One | Easy | Array | |
 | 88   | Merge Sorted Array | Easy | Array | Two Pointers |
 | 121  | Best Time to Buy and Sell Stock | Easy | Array | Dynamic Programming |
+| 122  | Best Time to Buy and Sell Stock II | Easy | Array | Greedy |
 | 136  | Single Number | Easy | Hash Table, Bit Manipulation | |
 | 137  | Single Number II | Medium | Bit Manipulation | |
 | 167  | Best Time to Buy and Sell Stock | Easy | Array | Two Pointers, Binary Search |
@@ -35,7 +36,7 @@
 ### Topics
 - Arrays
     - Easy: 
-        1, 26, 27, 35, 53, 66, 88, 121, 167, 283, 1346, 1351, 1365
+        1, 26, 27, 35, 53, 66, 88, 121, 122, 167, 283, 1346, 1351, 1365
     - Medium:
         33
 
@@ -69,6 +70,7 @@ Easy
 - [66] Plus One
 - [88] Merge Sorted Array *
 - [121] Best Time to Buy and Sell Stock
+- [122] Best Time to Buy and Sell Stock II (30-Day LeetCoding Challenge[Day5])
 - [167] Two Sum II - Input array is sorted *
 - [283] Move Zeroes (30-Day LeetCoding Challenge[Day4]) *
 - [1346] Check If N and Its Double Exist *
@@ -126,6 +128,7 @@ Easy
     find the contiguous subarray (containing at least one number) which has the largest sum and return its sum
     - [53] Maximum Subarray
     - [121] Best Time to Buy and Sell Stock
+    - [122] Best Time to Buy and Sell Stock II
 
 - Array, Two Pointers
     - [26] Remove Duplicates from Sorted Array
@@ -148,6 +151,7 @@ Easy
 - [Day2]: [202] Happy Number
 - [Day3]: [53]  Maximum Subarray
 - [Day4]: [283] Move Zeroes
+- [Day5]: [122] Best Time to Buy and Sell Stock II
 
 
 
