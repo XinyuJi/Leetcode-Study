@@ -9,7 +9,7 @@
 | 9    | Palindrome Number | Easy | Math | |
 | 13   | Roman to Integer | Easy | Math, String | |
 | 20   | Valid Parentheses | Easy | String, Stack | |
-| 26   | Remove Duplicates from Sorted Array | Easy | Array | Two Pointers |
+| 26   | Remove Duplicates from Sorted Array | Easy | Array, Two Pointers | |
 | 27   | Remove Element | Easy | Array, Two Pointers | |
 | 33   | Search in Rotated Sorted Array | Medium | Array | Binary Search |
 | 35   | Search Insert Position | Easy | Array |Binary Search|
