@@ -13,6 +13,7 @@
 | 27   | Remove Element | Easy | Array, Two Pointers | |
 | 33   | Search in Rotated Sorted Array | Medium | Array | Binary Search |
 | 35   | Search Insert Position | Easy | Array |Binary Search|
+| 49   | Group Anagrams | Medium | String, Hash Table | |
 | 53   | Maximum Subarray | Easy | Array | Divide and Conquer, Dynamic Programming |
 | 58   | Length of Last Word | Easy | String | |
 | 66   | Plus One | Easy | Array | |
@@ -45,6 +46,8 @@
 - String
     - Easy: 
         13, 20, 58
+    - Medium:
+        49
 
 - Math
     - Easy:
@@ -61,6 +64,16 @@
  - Stack
     - Easy:
         20
+
+- Hash Table
+    - Easy:
+        1, 136
+    - Medium:
+        49
+
+- Two Pointers
+    - Easy:
+        26, 27, 167, 183
 
 #### Arrays
 Easy
@@ -115,6 +128,9 @@ Easy
 - [1] Two Sum
 - [136] Single Number
 
+Medium
+- [49] Group Anagrams (30-Day LeetCoding Challenge[Day6]) *
+
 #### Stack
 Easy
 - [20] Valid Parentheses (stack video)
@@ -164,6 +180,7 @@ Easy
 - [Day3]: [53]  Maximum Subarray
 - [Day4]: [283] Move Zeroes
 - [Day5]: [122] Best Time to Buy and Sell Stock II
+- [Day6]: [49] Group Anagrams
 
 
 
