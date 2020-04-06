@@ -44,3 +44,5 @@ Find the contiguous subarray (containing at least one number) which has the larg
 
 **Related Problem:**
 - [121] Best Time to Buy and Sell Stock
+
+## Day6: [49] Group Anagrams
