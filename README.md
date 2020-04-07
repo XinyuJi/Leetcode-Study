@@ -35,11 +35,12 @@
 | 1365 | How Many Numbers Are Smaller Than the Current Number | Easy | Array | Hash Table |
 | 1389 | Create Target Array in the Given Order | Easy | Array | |
 | 1394 | Find Lucky Integer in an Array | Easy | Array | |
+| 1399 | Count Largest Group | Easy | Array | |
 
 ### Topics
 - Arrays
     - Easy: 
-        1, 26, 27, 35, 53, 66, 88, 121, 122, 167, 283, 1346, 1351, 1365, 1389, 1394
+        1, 26, 27, 35, 53, 66, 88, 121, 122, 167, 283, 1346, 1351, 1365, 1389, 1394, 1399
     - Medium:
         33
 
@@ -93,6 +94,7 @@ Easy
 - [1365] How Many Numbers Are Smaller Than the Current Number
 - [1389] Create Target Array in the Given Order
 - [1394] Find Lucky Integer in an Array *
+- [1399] Count Largest Group *
 
 Medium
 - [33] Search in Rotated Sorted Array *
@@ -178,10 +180,10 @@ Easy
 - [Day1]: [136] Single Number
 - [Day2]: [202] Happy Number
 - [Day3]: [53]  Maximum Subarray
-- [Day4]: [283] Move Zeroes
+- [Day4]: [283] Move Zeroes *
 - [Day5]: [122] Best Time to Buy and Sell Stock II
-- [Day6]: [49] Group Anagrams
-
+- [Day6]: [49] Group Anagrams *
+- [Day7]: [] Counting Elements *
 
 
 https://www.youtube.com/playlist?list=PL2rWx9cCzU84eBz9Xfp9Rah5Fexq5yrh8
