@@ -46,3 +46,5 @@ Find the contiguous subarray (containing at least one number) which has the larg
 - [121] Best Time to Buy and Sell Stock
 
 ## Day6: [49] Group Anagrams
+
+## Day7: [] Counting Elements
