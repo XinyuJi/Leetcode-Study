@@ -27,6 +27,7 @@
 | 260  | Single Number III | Medium | Bit Manipulation | |
 | 263  | Ugly Number | Easy | Math | |
 | 283  | Move Zeroes | Easy | Array, Two Pointers | |
+| 876  | Middle of the Linked List | Easy | Linked List | |
 | 1185 | Day of the Week | Easy | API | Array |
 | 1342 | Number of Steps to Reduce a Number to Zero | Easy | Bit Manipulation | |
 | 1344 | Angle Between Hands of a Clock | Medium | Math | |
@@ -75,6 +76,10 @@
 - Two Pointers
     - Easy:
         26, 27, 167, 183
+
+- Linked List
+    - Easy:
+        876
 
 #### Arrays
 Easy
@@ -144,6 +149,12 @@ Easy
 - [167] Best Time to Buy and Sell Stock
 - [283] Move Zeroes
 
+#### Linked List
+Easy
+- [876] Middle of the Linked List
+
+
+
 ## Related Problems
 - Two Sum
 
@@ -177,13 +188,17 @@ Easy
 
 ## Challenge
 ### 30-Day LeetCoding Challenge
+week 1
 - [Day1]: [136] Single Number
 - [Day2]: [202] Happy Number
 - [Day3]: [53]  Maximum Subarray
 - [Day4]: [283] Move Zeroes *
 - [Day5]: [122] Best Time to Buy and Sell Stock II
 - [Day6]: [49] Group Anagrams *
-- [Day7]: [] Counting Elements *
+- [Day7]: Counting Elements *
+
+week 2
+- [Day8]: [876] Middle of the Linked List
 
 
 https://www.youtube.com/playlist?list=PL2rWx9cCzU84eBz9Xfp9Rah5Fexq5yrh8
