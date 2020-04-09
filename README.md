@@ -27,6 +27,7 @@
 | 260  | Single Number III | Medium | Bit Manipulation | |
 | 263  | Ugly Number | Easy | Math | |
 | 283  | Move Zeroes | Easy | Array, Two Pointers | |
+| 844  | Backspace String Compare | Easy | Two Pointers | Stack |
 | 876  | Middle of the Linked List | Easy | Linked List | |
 | 1185 | Day of the Week | Easy | API | Array |
 | 1342 | Number of Steps to Reduce a Number to Zero | Easy | Bit Manipulation | |
@@ -75,7 +76,7 @@
 
 - Two Pointers
     - Easy:
-        26, 27, 167, 183
+        26, 27, 167, 183, 844
 
 - Linked List
     - Easy:
@@ -148,6 +149,7 @@ Easy
 - [27]  Remove Element
 - [167] Best Time to Buy and Sell Stock
 - [283] Move Zeroes
+- [844] Backspace String Compare
 
 #### Linked List
 Easy
@@ -199,6 +201,7 @@ week 1
 
 week 2
 - [Day8]: [876] Middle of the Linked List
+- [Day9]: [844] Backspace String Compare
 
 
 https://www.youtube.com/playlist?list=PL2rWx9cCzU84eBz9Xfp9Rah5Fexq5yrh8
