@@ -22,12 +22,13 @@
 | 122  | Best Time to Buy and Sell Stock II | Easy | Array | Greedy |
 | 136  | Single Number | Easy | Hash Table, Bit Manipulation | |
 | 137  | Single Number II | Medium | Bit Manipulation | |
+| 155  | Min Stack | Easy | Stack, Design | |
 | 167  | Best Time to Buy and Sell Stock | Easy | Array, Two Pointers | Binary Search |
 | 202  | Happy Number | Easy | Math | Hash Table |
 | 260  | Single Number III | Medium | Bit Manipulation | |
 | 263  | Ugly Number | Easy | Math | |
 | 283  | Move Zeroes | Easy | Array, Two Pointers | |
-| 844  | Backspace String Compare | Easy | Two Pointers | Stack |
+| 844  | Backspace String Compare | Easy | Stack | Two Pointers |
 | 876  | Middle of the Linked List | Easy | Linked List | |
 | 1185 | Day of the Week | Easy | API | Array |
 | 1342 | Number of Steps to Reduce a Number to Zero | Easy | Bit Manipulation | |
@@ -66,7 +67,7 @@
  
  - Stack
     - Easy:
-        20
+        20, 155, 844
 
 - Hash Table
     - Easy:
@@ -76,7 +77,7 @@
 
 - Two Pointers
     - Easy:
-        26, 27, 167, 183, 844
+        26, 27, 167, 183
 
 - Linked List
     - Easy:
@@ -142,6 +143,8 @@ Medium
 #### Stack
 Easy
 - [20] Valid Parentheses (stack video)
+- [155] Min Stack
+- [844] Backspace String Compare
 
 #### Two Pointers
 Easy
@@ -149,7 +152,6 @@ Easy
 - [27]  Remove Element
 - [167] Best Time to Buy and Sell Stock
 - [283] Move Zeroes
-- [844] Backspace String Compare
 
 #### Linked List
 Easy
@@ -202,6 +204,6 @@ week 1
 week 2
 - [Day8]: [876] Middle of the Linked List
 - [Day9]: [844] Backspace String Compare
-
+- [Day10]: [155] Min Stack
 
 https://www.youtube.com/playlist?list=PL2rWx9cCzU84eBz9Xfp9Rah5Fexq5yrh8
