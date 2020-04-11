@@ -29,6 +29,7 @@
 | 260  | Single Number III | Medium | Bit Manipulation | |
 | 263  | Ugly Number | Easy | Math | |
 | 283  | Move Zeroes | Easy | Array, Two Pointers | |
+| 543  | Diameter of Binary Tree | Easy | Tree | |
 | 844  | Backspace String Compare | Easy | Stack | Two Pointers |
 | 876  | Middle of the Linked List | Easy | Linked List | |
 | 1185 | Day of the Week | Easy | API | Array |
@@ -87,6 +88,10 @@
 - Sort
     - Easy:
         242
+
+- Tree
+    - Easy:
+        543
 
 #### Arrays
 Easy
@@ -166,6 +171,9 @@ Easy
 Easy
 - [242] Valid Anagram *
 
+#### Tree
+Easy
+- [543] Diameter of Binary Tree
 
 ## Related Problems
 - Two Sum
@@ -213,5 +221,6 @@ week 2
 - [Day8]: [876] Middle of the Linked List
 - [Day9]: [844] Backspace String Compare
 - [Day10]: [155] Min Stack
+- [Day11]: [543] Diameter of Binary Tree
 
 https://www.youtube.com/playlist?list=PL2rWx9cCzU84eBz9Xfp9Rah5Fexq5yrh8
