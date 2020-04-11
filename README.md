@@ -25,6 +25,7 @@
 | 155  | Min Stack | Easy | Stack, Design | |
 | 167  | Best Time to Buy and Sell Stock | Easy | Array, Two Pointers | Binary Search |
 | 202  | Happy Number | Easy | Math | Hash Table |
+| 242  | Valid Anagram | Easy | Sort | Hash Table |
 | 260  | Single Number III | Medium | Bit Manipulation | |
 | 263  | Ugly Number | Easy | Math | |
 | 283  | Move Zeroes | Easy | Array, Two Pointers | |
@@ -82,6 +83,10 @@
 - Linked List
     - Easy:
         876
+
+- Sort
+    - Easy:
+        242
 
 #### Arrays
 Easy
@@ -157,6 +162,9 @@ Easy
 Easy
 - [876] Middle of the Linked List
 
+#### Sort
+Easy
+- [242] Valid Anagram *
 
 
 ## Related Problems
