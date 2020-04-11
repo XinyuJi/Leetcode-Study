@@ -45,17 +45,24 @@ Find the contiguous subarray (containing at least one number) which has the larg
 **Related Problem:**
 - [121] Best Time to Buy and Sell Stock
 
+
 ## Day6: [49] Group Anagrams
+
+**Related Problem:**
+- [242] Valid Anagram
+
 
 ## Day7: [] Counting Elements
 None
 
 ## Day8: [876] Middle of the Linked List
+None
 
 ## Day9: [844] Backspace String Compare
 None
 
 ## Day9: [844] Backspace String Compare
+None
 
 ## Day10: [155] Min Stack
-
+Need to subscribe
