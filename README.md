@@ -32,6 +32,7 @@
 | 543  | Diameter of Binary Tree | Easy | Tree | |
 | 844  | Backspace String Compare | Easy | Stack | Two Pointers |
 | 876  | Middle of the Linked List | Easy | Linked List | |
+| 1046  | Last Stone Weight | Easy | | Heap, Greedy |
 | 1185 | Day of the Week | Easy | API | Array |
 | 1342 | Number of Steps to Reduce a Number to Zero | Easy | Bit Manipulation | |
 | 1344 | Angle Between Hands of a Clock | Medium | Math | |
@@ -175,6 +176,8 @@ Easy
 Easy
 - [543] Diameter of Binary Tree
 
+- [1046] Last Stone Weight
+
 ## Related Problems
 - Two Sum
 
@@ -222,5 +225,6 @@ week 2
 - [Day9]: [844] Backspace String Compare
 - [Day10]: [155] Min Stack
 - [Day11]: [543] Diameter of Binary Tree
+- [Day12]: [1046] Last Stone Weight
 
 https://www.youtube.com/playlist?list=PL2rWx9cCzU84eBz9Xfp9Rah5Fexq5yrh8
