@@ -67,3 +67,5 @@ Need to subscribe
 ## Day11: [543] Diameter of Binary Tree
 
 ## Day12: [1046] Last Stone Weight
+
+## Day13: [525] Contiguous Array
