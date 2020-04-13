@@ -2,46 +2,47 @@
 
 ## Completed Problems
 
-|   #   | Title | Difficulty | Topic | Unfinished Topic | 
-| :---: | :---: | :---: | :---: | :---: |
-| 1    | Two Sum | Easy | Array, Hash Table | |
-| 7    | Reverse Integer | Easy | Math | |
-| 9    | Palindrome Number | Easy | Math | |
-| 13   | Roman to Integer | Easy | Math, String | |
-| 20   | Valid Parentheses | Easy | String, Stack | |
-| 26   | Remove Duplicates from Sorted Array | Easy | Array, Two Pointers | |
-| 27   | Remove Element | Easy | Array, Two Pointers | |
-| 33   | Search in Rotated Sorted Array | Medium | Array | Binary Search |
-| 35   | Search Insert Position | Easy | Array |Binary Search|
-| 49   | Group Anagrams | Medium | String, Hash Table | |
-| 53   | Maximum Subarray | Easy | Array | Divide and Conquer, Dynamic Programming |
-| 58   | Length of Last Word | Easy | String | |
-| 66   | Plus One | Easy | Array | |
-| 88   | Merge Sorted Array | Easy | Array | Two Pointers |
-| 121  | Best Time to Buy and Sell Stock | Easy | Array | Dynamic Programming |
-| 122  | Best Time to Buy and Sell Stock II | Easy | Array | Greedy |
-| 136  | Single Number | Easy | Hash Table, Bit Manipulation | |
-| 137  | Single Number II | Medium | Bit Manipulation | |
-| 155  | Min Stack | Easy | Stack, Design | |
-| 167  | Best Time to Buy and Sell Stock | Easy | Array, Two Pointers | Binary Search |
-| 202  | Happy Number | Easy | Math | Hash Table |
-| 242  | Valid Anagram | Easy | Sort | Hash Table |
-| 260  | Single Number III | Medium | Bit Manipulation | |
-| 263  | Ugly Number | Easy | Math | |
-| 283  | Move Zeroes | Easy | Array, Two Pointers | |
-| 543  | Diameter of Binary Tree | Easy | Tree | |
-| 844  | Backspace String Compare | Easy | Stack | Two Pointers |
-| 876  | Middle of the Linked List | Easy | Linked List | |
-| 1046  | Last Stone Weight | Easy | | Heap, Greedy |
-| 1185 | Day of the Week | Easy | API | Array |
-| 1342 | Number of Steps to Reduce a Number to Zero | Easy | Bit Manipulation | |
-| 1344 | Angle Between Hands of a Clock | Medium | Math | |
-| 1346 | Check If N and Its Double Exist | Easy | Array | |
-| 1351 | Count Negative Numbers in a Sorted Matrix | Easy | Array | Binary Search |
-| 1365 | How Many Numbers Are Smaller Than the Current Number | Easy | Array | Hash Table |
-| 1389 | Create Target Array in the Given Order | Easy | Array | |
-| 1394 | Find Lucky Integer in an Array | Easy | Array | |
-| 1399 | Count Largest Group | Easy | Array | |
+|   #   | Title | Difficulty | Topic | Unfinished Topic | * | 
+| :---: | :---: | :---: | :---: | :---: || 
+| 1    | Two Sum | Easy | Array, Hash Table | || 
+| 7    | Reverse Integer | Easy | Math | || 
+| 9    | Palindrome Number | Easy | Math | || 
+| 13   | Roman to Integer | Easy | Math, String | || 
+| 20   | Valid Parentheses | Easy | String, Stack | || 
+| 26   | Remove Duplicates from Sorted Array | Easy | Array, Two Pointers | | * | 
+| 27   | Remove Element | Easy | Array, Two Pointers | | * | 
+| 33   | Search in Rotated Sorted Array | Medium | Array | Binary Search | * | 
+| 35   | Search Insert Position | Easy | Array |Binary Search| * | 
+| 49   | Group Anagrams | Medium | String, Hash Table | | * | 
+| 53   | Maximum Subarray | Easy | Array | Divide and Conquer, Dynamic Programming || 
+| 58   | Length of Last Word | Easy | String | || 
+| 66   | Plus One | Easy | Array | || 
+| 88   | Merge Sorted Array | Easy | Array | Two Pointers | * | 
+| 121  | Best Time to Buy and Sell Stock | Easy | Array | Dynamic Programming || 
+| 122  | Best Time to Buy and Sell Stock II | Easy | Array | Greedy || 
+| 136  | Single Number | Easy | Hash Table, Bit Manipulation | || 
+| 137  | Single Number II | Medium | Bit Manipulation | || 
+| 155  | Min Stack | Easy | Stack, Design | || 
+| 167  | Best Time to Buy and Sell Stock | Easy | Array, Two Pointers | Binary Search || 
+| 202  | Happy Number | Easy | Math | Hash Table || 
+| 242  | Valid Anagram | Easy | Sort | Hash Table | * | 
+| 260  | Single Number III | Medium | Bit Manipulation | | * | 
+| 263  | Ugly Number | Easy | Math | || 
+| 283  | Move Zeroes | Easy | Array, Two Pointers | | * | 
+| 525  | Contiguous Array | Medium | Hash Table | || 
+| 543  | Diameter of Binary Tree | Easy | Tree | || 
+| 844  | Backspace String Compare | Easy | Stack | Two Pointers || 
+| 876  | Middle of the Linked List | Easy | Linked List | || 
+| 1046  | Last Stone Weight | Easy | | Heap, Greedy | * | 
+| 1185 | Day of the Week | Easy | API | Array || 
+| 1342 | Number of Steps to Reduce a Number to Zero | Easy | Bit Manipulation | | * | 
+| 1344 | Angle Between Hands of a Clock | Medium | Math | || 
+| 1346 | Check If N and Its Double Exist | Easy | Array | | * | 
+| 1351 | Count Negative Numbers in a Sorted Matrix | Easy | Array | Binary Search | * | 
+| 1365 | How Many Numbers Are Smaller Than the Current Number | Easy | Array | Hash Table || 
+| 1389 | Create Target Array in the Given Order | Easy | Array | || 
+| 1394 | Find Lucky Integer in an Array | Easy | Array | | * | 
+| 1399 | Count Largest Group | Easy | Array | | * | 
 
 ### Topics
 - Arrays
@@ -76,7 +77,7 @@
     - Easy:
         1, 136
     - Medium:
-        49
+        49, 525
 
 - Two Pointers
     - Easy:
@@ -94,6 +95,7 @@
     - Easy:
         543
 
+1046
 #### Arrays
 Easy
 - [1] Two Sum
@@ -150,12 +152,13 @@ Easy
 
 Medium
 - [49] Group Anagrams (30-Day LeetCoding Challenge[Day6]) *
+- [525] Contiguous Array (30-Day LeetCoding Challenge[Day13])
 
 #### Stack
 Easy
 - [20] Valid Parentheses (stack video)
-- [155] Min Stack
-- [844] Backspace String Compare
+- [155] Min Stack (30-Day LeetCoding Challenge[Day10])
+- [844] Backspace String Compare (30-Day LeetCoding Challenge[Day9])
 
 #### Two Pointers
 Easy
@@ -166,7 +169,7 @@ Easy
 
 #### Linked List
 Easy
-- [876] Middle of the Linked List
+- [876] Middle of the Linked List (30-Day LeetCoding Challenge[Day8])
 
 #### Sort
 Easy
@@ -174,9 +177,12 @@ Easy
 
 #### Tree
 Easy
-- [543] Diameter of Binary Tree
+- [543] Diameter of Binary Tree (30-Day LeetCoding Challenge[Day11])
 
-- [1046] Last Stone Weight
+
+
+#### ?
+- [1046] Last Stone Weight (30-Day LeetCoding Challenge[Day12]) *
 
 ## Related Problems
 - Two Sum
@@ -225,6 +231,7 @@ week 2
 - [Day9]: [844] Backspace String Compare
 - [Day10]: [155] Min Stack
 - [Day11]: [543] Diameter of Binary Tree
-- [Day12]: [1046] Last Stone Weight
+- [Day12]: [1046] Last Stone Weight *
+- [Day13]: [525] Contiguous Array
 
 https://www.youtube.com/playlist?list=PL2rWx9cCzU84eBz9Xfp9Rah5Fexq5yrh8
