@@ -5,7 +5,7 @@
 |   #   | Title | Difficulty | Topic | Unfinished Topic | * | 
 | :---: | :---: | :---: | :---: | :---: | | 
 | 1    | Two Sum | Easy | Array, Hash Table | | | 
-| 7    | Reverse Integer | Easy | Math | | | 
+<!-- | 7    | Reverse Integer | Easy | Math | | | 
 | 9    | Palindrome Number | Easy | Math | | | 
 | 13   | Roman to Integer | Easy | Math, String | | | 
 | 20   | Valid Parentheses | Easy | String, Stack | | | 
@@ -42,7 +42,7 @@
 | 1365 | How Many Numbers Are Smaller Than the Current Number | Easy | Array | Hash Table | | 
 | 1389 | Create Target Array in the Given Order | Easy | Array | | | 
 | 1394 | Find Lucky Integer in an Array | Easy | Array | | * | 
-| 1399 | Count Largest Group | Easy | Array | | * | 
+| 1399 | Count Largest Group | Easy | Array | | * |  -->
 
 ### Topics
 - Arrays
