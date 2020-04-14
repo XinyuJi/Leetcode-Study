@@ -35,6 +35,7 @@
 | 876  | Middle of the Linked List | Easy | Linked List | | | 
 | 1046  | Last Stone Weight | Easy | | Heap, Greedy | * | 
 | 1185 | Day of the Week | Easy | API | Array | | 
+| 1323 | Maximum 69 Number | Easy | Math |  | * | 
 | 1342 | Number of Steps to Reduce a Number to Zero | Easy | Bit Manipulation | | * | 
 | 1344 | Angle Between Hands of a Clock | Medium | Math | | | 
 | 1346 | Check If N and Its Double Exist | Easy | Array | | * | 
@@ -59,7 +60,7 @@
 
 - Math
     - Easy:
-        7, 9, 13, 202, 263
+        7, 9, 13, 202, 263, 1323
     - Medium:
         1344
 
@@ -139,6 +140,7 @@ Easy
 - [13] Roman to Integer
 - [202] Happy Number (30-Day LeetCoding Challenge[Day2])
 - [263] Ugly Number
+- [1323] Maximum 69 Number *
 
 Medium
 - [1344] Angle Between Hands of a Clock (Biweekly Contest 19)
