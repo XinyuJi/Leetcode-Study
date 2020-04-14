@@ -17,6 +17,7 @@
 | 53   | Maximum Subarray | Easy | Array | Divide and Conquer, Dynamic Programming | | 
 | 58   | Length of Last Word | Easy | String | | | 
 | 66   | Plus One | Easy | Array | | | 
+| 67   | Add Binary | Easy | Math, String | | * | 
 | 88   | Merge Sorted Array | Easy | Array | Two Pointers | * | 
 | 121  | Best Time to Buy and Sell Stock | Easy | Array | Dynamic Programming | | 
 | 122  | Best Time to Buy and Sell Stock II | Easy | Array | Greedy | | 
@@ -54,13 +55,13 @@
 
 - String
     - Easy: 
-        13, 20, 58
+        13, 20, 58, 67
     - Medium:
         49
 
 - Math
     - Easy:
-        7, 9, 13, 202, 263, 1323
+        7, 9, 13, 67, 202, 263, 1323
     - Medium:
         1344
 
@@ -132,12 +133,14 @@ Easy
 - [13] Roman to Integer
 - [20] Valid Parentheses (stack video)
 - [58] Length of Last Word
+- [67] Add Binary *
 
 #### Math
 Easy
 - [7] Reverse Integer
 - [9] Palindrome Number (too easy 07 similar)
 - [13] Roman to Integer
+- [67] Add Binary *
 - [202] Happy Number (30-Day LeetCoding Challenge[Day2])
 - [263] Ugly Number
 - [1323] Maximum 69 Number *
