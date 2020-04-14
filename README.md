@@ -95,7 +95,14 @@
     - Easy:
         543
 
-1046
+- ?
+    - Easy:
+        1046
+    
+- Counting Elements
+- Perform String Shifts 
+
+
 #### Arrays
 Easy
 - [1] Two Sum
@@ -182,6 +189,10 @@ Easy
 
 
 #### ?
+- Counting Elements
+- Perform String Shifts 
+
+Easy
 - [1046] Last Stone Weight (30-Day LeetCoding Challenge[Day12]) *
 
 ## Related Problems
@@ -233,5 +244,8 @@ week 2
 - [Day11]: [543] Diameter of Binary Tree
 - [Day12]: [1046] Last Stone Weight *
 - [Day13]: [525] Contiguous Array
+- [Day14]: Perform String Shifts *
+
+week 3
 
 https://www.youtube.com/playlist?list=PL2rWx9cCzU84eBz9Xfp9Rah5Fexq5yrh8
