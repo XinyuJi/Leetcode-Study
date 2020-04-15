@@ -26,6 +26,7 @@
 | 155  | Min Stack | Easy | Stack, Design | | | 
 | 167  | Best Time to Buy and Sell Stock | Easy | Array, Two Pointers | Binary Search | | 
 | 202  | Happy Number | Easy | Math | Hash Table | | 
+| 238  | Product of Array Except Self | Medium | Array | | | 
 | 242  | Valid Anagram | Easy | Sort | Hash Table | * | 
 | 260  | Single Number III | Medium | Bit Manipulation | | * | 
 | 263  | Ugly Number | Easy | Math | | | 
@@ -46,12 +47,13 @@
 | 1394 | Find Lucky Integer in an Array | Easy | Array | | * | 
 | 1399 | Count Largest Group | Easy | Array | | * | 
 
+
 ### Topics
-- Arrays
+- Array
     - Easy: 
         1, 26, 27, 35, 53, 66, 88, 121, 122, 167, 283, 1346, 1351, 1365, 1389, 1394, 1399
     - Medium:
-        33
+        33, 238
 
 - String
     - Easy: 
@@ -127,6 +129,7 @@ Easy
 
 Medium
 - [33] Search in Rotated Sorted Array *
+- [238] Product of Array Except Self
 
 #### String
 Easy
@@ -252,5 +255,6 @@ week 2
 - [Day14]: Perform String Shifts *
 
 week 3
+- [Day15]: [238] Product of Array Except Self
 
 https://www.youtube.com/playlist?list=PL2rWx9cCzU84eBz9Xfp9Rah5Fexq5yrh8
