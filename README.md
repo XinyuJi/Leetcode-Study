@@ -38,6 +38,7 @@
 | 876  | Middle of the Linked List | Easy | Linked List | | | 
 | 977  | Squares of a Sorted Array | Easy | Array | | * | 
 | 1046  | Last Stone Weight | Easy | | Heap, Greedy | * | 
+| 1089  | Duplicate Zeros | Easy | | Array | * | 
 | 1185 | Day of the Week | Easy | API | Array | | 
 | 1295 | Find Numbers with Even Number of Digits | Easy | Array |  | * | 
 | 1323 | Maximum 69 Number | Easy | Math |  | * | 
@@ -54,7 +55,7 @@
 ### Topics
 - Array
     - Easy: 
-        1, 26, 27, 35, 53, 66, 88, 121, 122, 167, 283, 485, 977, 1295, 1346, 1351, 1365, 1389, 1394, 1399
+        1, 26, 27, 35, 53, 66, 88, 121, 122, 167, 283, 485, 977, 1089, 1295, 1346, 1351, 1365, 1389, 1394, 1399
     - Medium:
         33, 238
 
@@ -125,6 +126,7 @@ Easy
 - [283] Move Zeroes (30-Day LeetCoding Challenge[Day4]) *
 - [485] Max Consecutive Ones *
 - [977] Squares of a Sorted Array *
+- [1089] Duplicate Zeros *
 - [1295] Find Numbers with Even Number of Digits *
 - [1346] Check If N and Its Double Exist *
 - [1351] Count Negative Numbers in a Sorted Matrix *
