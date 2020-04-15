@@ -31,12 +31,15 @@
 | 260  | Single Number III | Medium | Bit Manipulation | | * | 
 | 263  | Ugly Number | Easy | Math | | | 
 | 283  | Move Zeroes | Easy | Array, Two Pointers | | * | 
+| 485  | Max Consecutive Ones | Easy | Array | | * | 
 | 525  | Contiguous Array | Medium | Hash Table | | | 
 | 543  | Diameter of Binary Tree | Easy | Tree | | | 
 | 844  | Backspace String Compare | Easy | Stack | Two Pointers | | 
 | 876  | Middle of the Linked List | Easy | Linked List | | | 
+| 977  | Squares of a Sorted Array | Easy | Array | | * | 
 | 1046  | Last Stone Weight | Easy | | Heap, Greedy | * | 
 | 1185 | Day of the Week | Easy | API | Array | | 
+| 1295 | Find Numbers with Even Number of Digits | Easy | Array |  | * | 
 | 1323 | Maximum 69 Number | Easy | Math |  | * | 
 | 1342 | Number of Steps to Reduce a Number to Zero | Easy | Bit Manipulation | | * | 
 | 1344 | Angle Between Hands of a Clock | Medium | Math | | | 
@@ -51,7 +54,7 @@
 ### Topics
 - Array
     - Easy: 
-        1, 26, 27, 35, 53, 66, 88, 121, 122, 167, 283, 1346, 1351, 1365, 1389, 1394, 1399
+        1, 26, 27, 35, 53, 66, 88, 121, 122, 167, 283, 485, 977, 1295, 1346, 1351, 1365, 1389, 1394, 1399
     - Medium:
         33, 238
 
@@ -120,6 +123,9 @@ Easy
 - [122] Best Time to Buy and Sell Stock II (30-Day LeetCoding Challenge[Day5])
 - [167] Two Sum II - Input array is sorted *
 - [283] Move Zeroes (30-Day LeetCoding Challenge[Day4]) *
+- [485] Max Consecutive Ones *
+- [977] Squares of a Sorted Array *
+- [1295] Find Numbers with Even Number of Digits *
 - [1346] Check If N and Its Double Exist *
 - [1351] Count Negative Numbers in a Sorted Matrix *
 - [1365] How Many Numbers Are Smaller Than the Current Number
@@ -223,6 +229,10 @@ Easy
     - [26] Remove Duplicates from Sorted Array
     - [27] Remove Element
     - [283] Move Zeroes
+
+- Array
+    - [485] Max Consecutive Ones
+
 
 ## Contest
 ### Biweekly Contest
