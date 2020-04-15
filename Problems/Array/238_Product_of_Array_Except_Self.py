@@ -18,4 +18,3 @@ class Solution:
             right = right * nums[i] 
 
         return output
-        
