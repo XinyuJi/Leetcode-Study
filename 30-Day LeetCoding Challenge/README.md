@@ -76,5 +76,4 @@ None
 ## Day15: [238] Product of Array Except Self
 [Solutions](https://www.youtube.com/watch?v=u3Y7gGySnzk)
 - Approach 1: [Left and Right product lists](https://www.youtube.com/watch?v=rpQhKorJRd8)
-- Approach 2: 
-- Approach 3: 
+- Approach 2: Optimization
