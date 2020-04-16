@@ -35,3 +35,17 @@ class Solution:
             else:
                 num = num + 1
         return len(nums)
+
+
+"""
+[My Solution 2] After 12 days from Solution 1
+Runtime: 28 ms, faster than 86.52% of Python3 online submissions for Remove Element.
+Memory Usage: 14.1 MB, less than 6.06% of Python3 online submissions for Remove Element.
+"""
+
+class Solution:
+    def removeElement(self, nums: List[int], val: int) -> int:
+        for i in range(len(nums)-1, -1, -1):
+            if nums[i] == val:
+                del nums[i]
+        return len(nums)
