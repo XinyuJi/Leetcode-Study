@@ -77,3 +77,5 @@ None
 [Solutions](https://www.youtube.com/watch?v=u3Y7gGySnzk)
 - Approach 1: [Left and Right product lists](https://www.youtube.com/watch?v=rpQhKorJRd8)
 - Approach 2: Optimization
+
+## Day16: [678] Valid Parenthesis String
