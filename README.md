@@ -33,7 +33,8 @@
 | 283  | Move Zeroes | Easy | Array, Two Pointers | | * | 
 | 485  | Max Consecutive Ones | Easy | Array | | * | 
 | 525  | Contiguous Array | Medium | Hash Table | | | 
-| 543  | Diameter of Binary Tree | Easy | Tree | | | 
+| 543  | Diameter of Binary Tree | Easy | Tree | | |
+| 678  | Valid Parenthesis String | Medium | String | | |
 | 844  | Backspace String Compare | Easy | Stack | Two Pointers | | 
 | 876  | Middle of the Linked List | Easy | Linked List | | | 
 | 977  | Squares of a Sorted Array | Easy | Array | | * | 
@@ -63,7 +64,7 @@
     - Easy: 
         13, 20, 58, 67
     - Medium:
-        49
+        49, 678
 
 - Math
     - Easy:
@@ -137,7 +138,7 @@ Easy
 
 Medium
 - [33] Search in Rotated Sorted Array *
-- [238] Product of Array Except Self
+- [238] Product of Array Except Self (30-Day LeetCoding Challenge[Day15])
 
 #### String
 Easy
@@ -145,6 +146,10 @@ Easy
 - [20] Valid Parentheses (stack video)
 - [58] Length of Last Word
 - [67] Add Binary *
+
+Medium
+- [49] Group Anagrams
+- [678] Valid Parenthesis String (30-Day LeetCoding Challenge[Day16])
 
 #### Math
 Easy
@@ -268,5 +273,6 @@ week 2
 
 week 3
 - [Day15]: [238] Product of Array Except Self
+- [Day16]: [678] Valid Parenthesis String
 
 https://www.youtube.com/playlist?list=PL2rWx9cCzU84eBz9Xfp9Rah5Fexq5yrh8
