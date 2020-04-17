@@ -25,6 +25,7 @@
 | 137  | Single Number II | Medium | Bit Manipulation | | | 
 | 155  | Min Stack | Easy | Stack, Design | | | 
 | 167  | Best Time to Buy and Sell Stock | Easy | Array, Two Pointers | Binary Search | | 
+| 200  | Number of Islands | Medium | Depth-first Search, Union Find | Breadth-first Search | | 
 | 202  | Happy Number | Easy | Math | Hash Table | | 
 | 238  | Product of Array Except Self | Medium | Array | | | 
 | 242  | Valid Anagram | Easy | Sort | Hash Table | * | 
@@ -56,7 +57,9 @@
 ### Topics
 - Array
     - Easy: 
-        1, 26, 27, 35, 53, 66, 88, 121, 122, 167, 283, 485, 977, 1089, 1295, 1346, 1351, 1365, 1389, 1394, 1399
+        1, 26, 27, 35, 53, 66, 88, 
+        121, 122, 167, 283, 485, 977, 
+        1089, 1295, 1346, 1351, 1365, 1389, 1394, 1399
     - Medium:
         33, 238
 
@@ -103,6 +106,18 @@
 - Tree
     - Easy:
         543
+
+- Union Find
+    - Medium:
+        200
+
+- Breadth-first Search
+    - Medium:
+        200
+
+- Depth-first Search
+    - Medium:
+        200
 
 - ?
     - Easy:
@@ -207,6 +222,17 @@ Easy
 Easy
 - [543] Diameter of Binary Tree (30-Day LeetCoding Challenge[Day11])
 
+#### Union Find
+Medium
+- [200] Number of Islands (30-Day LeetCoding Challenge[Day17])
+
+#### Breadth-first Search
+Medium
+- [200] Number of Islands
+
+#### Depth-first Search
+Medium
+- [200] Number of Islands
 
 
 #### ?
@@ -253,7 +279,7 @@ Easy
 
 ## Challenge
 ### 30-Day LeetCoding Challenge
-week 1
+Week 1: April 1st–April 7th
 - [Day1]: [136] Single Number
 - [Day2]: [202] Happy Number
 - [Day3]: [53]  Maximum Subarray
@@ -262,7 +288,7 @@ week 1
 - [Day6]: [49] Group Anagrams *
 - [Day7]: Counting Elements *
 
-week 2
+Week 2: April 8th–April 14th
 - [Day8]: [876] Middle of the Linked List
 - [Day9]: [844] Backspace String Compare
 - [Day10]: [155] Min Stack
@@ -271,8 +297,14 @@ week 2
 - [Day13]: [525] Contiguous Array
 - [Day14]: Perform String Shifts *
 
-week 3
+Week 3: April 15th–April 21st
 - [Day15]: [238] Product of Array Except Self
 - [Day16]: [678] Valid Parenthesis String
+- [Day17]: [200] Number of Islands
+
+Week 4: April 22nd–April 28th
+
+
+Week 5: April 29th–April 30th
 
 https://www.youtube.com/playlist?list=PL2rWx9cCzU84eBz9Xfp9Rah5Fexq5yrh8
