@@ -38,11 +38,13 @@
 | 678  | Valid Parenthesis String | Medium | String | | |
 | 844  | Backspace String Compare | Easy | Stack | Two Pointers | | 
 | 876  | Middle of the Linked List | Easy | Linked List | | | 
+| 941  | Valid Mountain Array | Easy | Array | | * | 
 | 977  | Squares of a Sorted Array | Easy | Array | | * | 
 | 1046  | Last Stone Weight | Easy | | Heap, Greedy | * | 
 | 1089  | Duplicate Zeros | Easy | | Array | * | 
 | 1185 | Day of the Week | Easy | API | Array | | 
-| 1295 | Find Numbers with Even Number of Digits | Easy | Array |  | * | 
+| 1295 | Find Numbers with Even Number of Digits | Easy | Array |  | * |
+| 1299 | Replace Elements with Greatest Element on Right Side | Easy | Array |  | |
 | 1323 | Maximum 69 Number | Easy | Math |  | * | 
 | 1342 | Number of Steps to Reduce a Number to Zero | Easy | Bit Manipulation | | * | 
 | 1344 | Angle Between Hands of a Clock | Medium | Math | | | 
@@ -52,16 +54,18 @@
 | 1389 | Create Target Array in the Given Order | Easy | Array | | | 
 | 1394 | Find Lucky Integer in an Array | Easy | Array | | * | 
 | 1399 | Count Largest Group | Easy | Array | | * | 
+| 1413 | Minimum Value to Get Positive Step by Step Sum | Easy | Array | | * | 
+| 1414 | Find the Minimum Number of Fibonacci Numbers Whose Sum Is K | Medium | Array, Greedy |  |  | 
 
 
 ### Topics
 - Array
     - Easy: 
         1, 26, 27, 35, 53, 66, 88, 
-        121, 122, 167, 283, 485, 977, 
-        1089, 1295, 1346, 1351, 1365, 1389, 1394, 1399
+        121, 122, 167, 283, 485, 941, 977, 
+        1089, 1295, 1299, 1346, 1351, 1365, 1389, 1394, 1399, 1413
     - Medium:
-        33, 238
+        33, 238, 1414
 
 - String
     - Easy: 
@@ -119,6 +123,10 @@
     - Medium:
         200
 
+- Greedy:
+    - Medium:
+        1414
+
 - ?
     - Easy:
         1046
@@ -141,15 +149,19 @@ Easy
 - [167] Two Sum II - Input array is sorted *
 - [283] Move Zeroes (30-Day LeetCoding Challenge[Day4]) *
 - [485] Max Consecutive Ones *
+- [941] Valid Mountain Array *
 - [977] Squares of a Sorted Array *
 - [1089] Duplicate Zeros *
 - [1295] Find Numbers with Even Number of Digits *
+- [1299] Replace Elements with Greatest Element on Right Side
 - [1346] Check If N and Its Double Exist *
 - [1351] Count Negative Numbers in a Sorted Matrix *
 - [1365] How Many Numbers Are Smaller Than the Current Number
 - [1389] Create Target Array in the Given Order
 - [1394] Find Lucky Integer in an Array *
 - [1399] Count Largest Group *
+- [1413] Minimum Value to Get Positive Step by Step Sum (Biweekly Contest 24) *
+- [1414] Find the Minimum Number of Fibonacci Numbers Whose Sum Is K (Biweekly Contest 24
 
 Medium
 - [33] Search in Rotated Sorted Array *
@@ -234,6 +246,9 @@ Medium
 Medium
 - [200] Number of Islands
 
+#### Greedy
+Medium
+- [1414] Find the Minimum Number of Fibonacci Numbers Whose Sum Is K (Biweekly Contest 24
 
 #### ?
 - Counting Elements
@@ -276,6 +291,12 @@ Easy
 
 - Biweekly Contest 20 [2020.02.22]
 
+- Biweekly Contest 24 [2020.04.18]
+    - Finished:
+        - Q1: [1413] Minimum Value to Get Positive Step by Step Sum
+    - Studied:
+        - Q2: [1414] Find the Minimum Number of Fibonacci Numbers Whose Sum Is K
+
 
 ## Challenge
 ### 30-Day LeetCoding Challenge
@@ -301,6 +322,7 @@ Week 3: April 15th–April 21st
 - [Day15]: [238] Product of Array Except Self
 - [Day16]: [678] Valid Parenthesis String
 - [Day17]: [200] Number of Islands
+- [Day18]: 
 
 Week 4: April 22nd–April 28th
 
