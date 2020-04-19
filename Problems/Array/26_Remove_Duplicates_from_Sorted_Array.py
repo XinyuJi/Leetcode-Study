@@ -31,11 +31,13 @@ class Solution:
             pos = pos +1 
         return len(nums)
 
+
 """
 [My Solution 2] After 13 days from 2nd Solution
 Runtime: 100 ms, faster than 30.55% of Python3 online submissions for Remove Duplicates from Sorted Array.
 Memory Usage: 15.4 MB, less than 5.74% of Python3 online submissions for Remove Duplicates from Sorted Array.
 """
+
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
         if not nums:
@@ -48,3 +50,23 @@ class Solution:
             else: 
                 del nums[a]
         return len(nums)
+
+
+"""
+[My Solution 3] Optimized based on Array Study - Use Two Pointers (2 days after last submission)
+Runtime: 80 ms, faster than 89.90% of Python3 online submissions for Remove Duplicates from Sorted Array.
+Memory Usage: 15.6 MB, less than 5.74% of Python3 online submissions for Remove Duplicates from Sorted Array.
+"""
+
+class Solution:
+    def removeDuplicates(self, nums: List[int]) -> int:
+        if not nums:
+            return 0
+        a = nums[0]
+        count = 1
+        for i in range(1, len(nums)):
+            if nums[i] != a:
+                count = count + 1
+                a = nums[i]
+                nums[count-1] = nums[i]
+        return count
