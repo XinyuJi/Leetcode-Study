@@ -39,6 +39,7 @@
 | 678  | Valid Parenthesis String | Medium | String | | |
 | 844  | Backspace String Compare | Easy | Stack | Two Pointers | | 
 | 876  | Middle of the Linked List | Easy | Linked List | | | 
+| 905  | Sort Array By Parity | Easy | Array | | * | 
 | 941  | Valid Mountain Array | Easy | Array | | * | 
 | 977  | Squares of a Sorted Array | Easy | Array | | * | 
 | 1046  | Last Stone Weight | Easy | | Heap, Greedy | * | 
@@ -63,7 +64,7 @@
 - Array
     - Easy: 
         1, 26, 27, 35, 53, 66, 88, 
-        121, 122, 167, 283, 485, 941, 977, 
+        121, 122, 167, 283, 485, 905, 941, 977, 
         1089, 1295, 1299, 1346, 1351, 1365, 1389, 1394, 1399, 1413
     - Medium:
         33, 64, 238, 1414
@@ -159,6 +160,7 @@ Easy
 - [167] Two Sum II - Input array is sorted *
 - [283] Move Zeroes (30-Day LeetCoding Challenge[Day4]) *
 - [485] Max Consecutive Ones *
+- [905] Sort Array By Parity *
 - [941] Valid Mountain Array *
 - [977] Squares of a Sorted Array *
 - [1089] Duplicate Zeros *
