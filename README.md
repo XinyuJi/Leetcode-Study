@@ -11,11 +11,12 @@
 | 20   | Valid Parentheses | Easy | String, Stack | | | 
 | 26   | Remove Duplicates from Sorted Array | Easy | Array, Two Pointers | | * | 
 | 27   | Remove Element | Easy | Array, Two Pointers | | * | 
-| 33   | Search in Rotated Sorted Array | Medium | Array | Binary Search | * | 
+| 33   | Search in Rotated Sorted Array | Medium | Array, Binary Search | | *(Array) | 
 | 35   | Search Insert Position | Easy | Array |Binary Search| * | 
 | 49   | Group Anagrams | Medium | String, Hash Table | | * | 
 | 53   | Maximum Subarray | Easy | Array | Divide and Conquer, Dynamic Programming | | 
 | 58   | Length of Last Word | Easy | String | | | 
+| 64   | Minimum Path Sum | Medium | Array, Dynamic Programming | | | 
 | 66   | Plus One | Easy | Array | | | 
 | 67   | Add Binary | Easy | Math, String | | * | 
 | 88   | Merge Sorted Array | Easy | Array | Two Pointers | * | 
@@ -65,7 +66,7 @@
         121, 122, 167, 283, 485, 941, 977, 
         1089, 1295, 1299, 1346, 1351, 1365, 1389, 1394, 1399, 1413
     - Medium:
-        33, 238, 1414
+        33, 64, 238, 1414
 
 - String
     - Easy: 
@@ -127,6 +128,14 @@
     - Medium:
         1414
 
+- Dynamic Programming:
+    - Medium:
+        64
+
+- Binary Search:
+    - Medium:
+        33
+
 - ?
     - Easy:
         1046
@@ -142,6 +151,7 @@ Easy
 - [27] Remove Element *
 - [35] Search Insert Position *
 - [53] Maximum Subarray (30-Day LeetCoding Challenge[Day3])
+- [64] Minimum Path Sum (30-Day LeetCoding Challenge[Day18])
 - [66] Plus One
 - [88] Merge Sorted Array *
 - [121] Best Time to Buy and Sell Stock
@@ -161,7 +171,7 @@ Easy
 - [1394] Find Lucky Integer in an Array *
 - [1399] Count Largest Group *
 - [1413] Minimum Value to Get Positive Step by Step Sum (Biweekly Contest 24) *
-- [1414] Find the Minimum Number of Fibonacci Numbers Whose Sum Is K (Biweekly Contest 24
+- [1414] Find the Minimum Number of Fibonacci Numbers Whose Sum Is K (Biweekly Contest 24)
 
 Medium
 - [33] Search in Rotated Sorted Array *
@@ -248,7 +258,15 @@ Medium
 
 #### Greedy
 Medium
-- [1414] Find the Minimum Number of Fibonacci Numbers Whose Sum Is K (Biweekly Contest 24
+- [1414] Find the Minimum Number of Fibonacci Numbers Whose Sum Is K (Biweekly Contest 24)
+
+#### Dynamic Programming
+Medium
+- [64] Minimum Path Sum (30-Day LeetCoding Challenge[Day18])
+
+#### Binary Search
+Medium
+- [33] Search in Rotated Sorted Array (30-Day LeetCoding Challenge[Day19])
 
 #### ?
 - Counting Elements
@@ -322,7 +340,8 @@ Week 3: April 15th–April 21st
 - [Day15]: [238] Product of Array Except Self
 - [Day16]: [678] Valid Parenthesis String
 - [Day17]: [200] Number of Islands
-- [Day18]: 
+- [Day18]: [64] Minimum Path Sum
+- [Day19]: [33] Search in Rotated Sorted Array
 
 Week 4: April 22nd–April 28th
 
