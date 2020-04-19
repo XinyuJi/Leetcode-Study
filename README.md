@@ -33,6 +33,8 @@
 | 260  | Single Number III | Medium | Bit Manipulation | | * | 
 | 263  | Ugly Number | Easy | Math | | | 
 | 283  | Move Zeroes | Easy | Array, Two Pointers | | * | 
+| 414  | Third Maximum Number | Easy | Array | | * | 
+| 448  | Find All Numbers Disappeared in an Array | Easy | Array | | | 
 | 485  | Max Consecutive Ones | Easy | Array | | * | 
 | 525  | Contiguous Array | Medium | Hash Table | | | 
 | 543  | Diameter of Binary Tree | Easy | Tree | | |
@@ -43,6 +45,7 @@
 | 941  | Valid Mountain Array | Easy | Array | | * | 
 | 977  | Squares of a Sorted Array | Easy | Array | | * | 
 | 1046  | Last Stone Weight | Easy | | Heap, Greedy | * | 
+| 1051  | Height Checker | Easy | Array | | * | 
 | 1089  | Duplicate Zeros | Easy | | Array | * | 
 | 1185 | Day of the Week | Easy | API | Array | | 
 | 1295 | Find Numbers with Even Number of Digits | Easy | Array |  | * |
@@ -64,8 +67,8 @@
 - Array
     - Easy: 
         1, 26, 27, 35, 53, 66, 88, 
-        121, 122, 167, 283, 485, 905, 941, 977, 
-        1089, 1295, 1299, 1346, 1351, 1365, 1389, 1394, 1399, 1413
+        121, 122, 167, 283, 414, 448, 485, 905, 941, 977, 
+        1051, 1089, 1295, 1299, 1346, 1351, 1365, 1389, 1394, 1399, 1413
     - Medium:
         33, 64, 238, 1414
 
@@ -159,10 +162,13 @@ Easy
 - [122] Best Time to Buy and Sell Stock II (30-Day LeetCoding Challenge[Day5])
 - [167] Two Sum II - Input array is sorted *
 - [283] Move Zeroes (30-Day LeetCoding Challenge[Day4]) *
+- [414] Third Maximum Number *
+- [448] Find All Numbers Disappeared in an Array
 - [485] Max Consecutive Ones *
 - [905] Sort Array By Parity *
 - [941] Valid Mountain Array *
 - [977] Squares of a Sorted Array *
+- [1051] Height Checker *
 - [1089] Duplicate Zeros *
 - [1295] Find Numbers with Even Number of Digits *
 - [1299] Replace Elements with Greatest Element on Right Side
