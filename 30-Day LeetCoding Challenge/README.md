@@ -82,3 +82,9 @@ None
 
 ## Day17: [200] Numbers of Islands
 [Solution](https://www.youtube.com/watch?v=OMCZQe-oXe8)
+
+## Day18: [64] Minimum Path Sum
+[Solution](https://leetcode.com/problems/minimum-path-sum/discuss/584967/Python-Grid-reduction-(Sounds-fancy-but-a-simple-method)-no-additional-space)
+
+## Day19: [33] Search in Rotated Sorted Array
+[Solution](https://leetcode.com/problems/search-in-rotated-sorted-array/discuss/14437/Python-binary-search-solution-O(logn)-48ms)
