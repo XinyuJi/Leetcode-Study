@@ -88,3 +88,6 @@ None
 
 ## Day19: [33] Search in Rotated Sorted Array
 [Solution](https://leetcode.com/problems/search-in-rotated-sorted-array/discuss/14437/Python-binary-search-solution-O(logn)-48ms)
+
+## Day20: [1008] Construct Binary Search Tree from Preorder Traversal
+[Solution](https://blog.csdn.net/fuxuemingzhu/article/details/88379241)
