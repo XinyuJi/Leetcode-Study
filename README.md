@@ -44,6 +44,7 @@
 | 905  | Sort Array By Parity | Easy | Array | | * | 
 | 941  | Valid Mountain Array | Easy | Array | | * | 
 | 977  | Squares of a Sorted Array | Easy | Array | | * | 
+| 1008  | Construct Binary Search Tree from Preorder Traversal | Medium | Tree | | | 
 | 1046  | Last Stone Weight | Easy | | Heap, Greedy | * | 
 | 1051  | Height Checker | Easy | Array | | * | 
 | 1089  | Duplicate Zeros | Easy | | Array | * | 
@@ -115,6 +116,8 @@
 - Tree
     - Easy:
         543
+    - Medium:
+        1008
 
 - Union Find
     - Medium:
@@ -252,6 +255,9 @@ Easy
 Easy
 - [543] Diameter of Binary Tree (30-Day LeetCoding Challenge[Day11])
 
+Medium
+- [1008] Construct Binary Search Tree from Preorder Traversal (30-Day LeetCoding Challenge[Day20])
+
 #### Union Find
 Medium
 - [200] Number of Islands (30-Day LeetCoding Challenge[Day17])
@@ -350,6 +356,7 @@ Week 3: April 15th–April 21st
 - [Day17]: [200] Number of Islands
 - [Day18]: [64] Minimum Path Sum
 - [Day19]: [33] Search in Rotated Sorted Array
+- [Day20]: [1008] Construct Binary Search Tree from Preorder Traversal
 
 Week 4: April 22nd–April 28th
 
