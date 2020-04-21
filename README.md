@@ -64,6 +64,13 @@
 | 1414 | Find the Minimum Number of Fibonacci Numbers Whose Sum Is K | Medium | Array, Greedy |  |  | 
 
 
+
+?
+- Counting Elements
+- Perform String Shifts 
+- Leftmost Column with at Least a One
+
+
 ### Topics
 - Array
     - Easy: 
@@ -149,7 +156,7 @@
     
 - Counting Elements
 - Perform String Shifts 
-
+- Leftmost Column with at Least a One
 
 #### Arrays
 Easy
@@ -282,12 +289,16 @@ Medium
 Medium
 - [33] Search in Rotated Sorted Array (30-Day LeetCoding Challenge[Day19])
 
+
+
 #### ?
 - Counting Elements
-- Perform String Shifts 
-
+- Perform String Shifts
+- Leftmost Column with at Least a One
 Easy
 - [1046] Last Stone Weight (30-Day LeetCoding Challenge[Day12]) *
+
+
 
 ## Related Problems
 - Two Sum
@@ -357,6 +368,7 @@ Week 3: April 15th–April 21st
 - [Day18]: [64] Minimum Path Sum
 - [Day19]: [33] Search in Rotated Sorted Array
 - [Day20]: [1008] Construct Binary Search Tree from Preorder Traversal
+- [Day21]: Leftmost Column with at Least a One
 
 Week 4: April 22nd–April 28th
 
