@@ -91,3 +91,6 @@ None
 
 ## Day20: [1008] Construct Binary Search Tree from Preorder Traversal
 [Solution](https://blog.csdn.net/fuxuemingzhu/article/details/88379241)
+
+## Day21: [ ] Leftmost Column with at Least a One
+[Solution](https://www.youtube.com/watch?v=_xRnjwnIh8k)
