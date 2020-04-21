@@ -63,6 +63,7 @@
 | 1413 | Minimum Value to Get Positive Step by Step Sum | Easy | Array | | * | 
 | 1414 | Find the Minimum Number of Fibonacci Numbers Whose Sum Is K | Medium | Array, Greedy |  |  | 
 
+58
 
 
 ?
