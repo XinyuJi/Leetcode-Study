@@ -38,6 +38,7 @@
 | 485  | Max Consecutive Ones | Easy | Array | | * | 
 | 525  | Contiguous Array | Medium | Hash Table | | | 
 | 543  | Diameter of Binary Tree | Easy | Tree | | |
+| 560  | Subarray Sum Equals K | Medium | Array, Hash Table | | |
 | 678  | Valid Parenthesis String | Medium | String | | |
 | 844  | Backspace String Compare | Easy | Stack | Two Pointers | | 
 | 876  | Middle of the Linked List | Easy | Linked List | | | 
@@ -79,7 +80,7 @@
         121, 122, 167, 283, 414, 448, 485, 905, 941, 977, 
         1051, 1089, 1295, 1299, 1346, 1351, 1365, 1389, 1394, 1399, 1413
     - Medium:
-        33, 64, 238, 1414
+        33, 64, 238, 560, 1414
 
 - String
     - Easy: 
@@ -107,7 +108,7 @@
     - Easy:
         1, 136
     - Medium:
-        49, 525
+        49, 525, 560
 
 - Two Pointers
     - Easy:
@@ -195,6 +196,7 @@ Easy
 Medium
 - [33] Search in Rotated Sorted Array *
 - [238] Product of Array Except Self (30-Day LeetCoding Challenge[Day15])
+- [560] Subarray Sum Equals K (30-Day LeetCoding Challenge[Day22])
 
 #### String
 Easy
@@ -237,6 +239,7 @@ Easy
 Medium
 - [49] Group Anagrams (30-Day LeetCoding Challenge[Day6]) *
 - [525] Contiguous Array (30-Day LeetCoding Challenge[Day13])
+- [560] Subarray Sum Equals K (30-Day LeetCoding Challenge[Day22])
 
 #### Stack
 Easy
@@ -372,7 +375,7 @@ Week 3: April 15th–April 21st
 - [Day21]: Leftmost Column with at Least a One
 
 Week 4: April 22nd–April 28th
-
+- [Day22]: [560] Subarray Sum Equals K
 
 Week 5: April 29th–April 30th
 

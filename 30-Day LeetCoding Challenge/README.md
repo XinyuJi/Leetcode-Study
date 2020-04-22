@@ -94,3 +94,6 @@ None
 
 ## Day21: [ ] Leftmost Column with at Least a One
 [Solution](https://www.youtube.com/watch?v=_xRnjwnIh8k)
+
+## Day22: [560] Subarray Sum Equals K
+[Solution](https://leetcode.com/problems/subarray-sum-equals-k/discuss/341399/Python-clear-explanation-with-code-and-example)
