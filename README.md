@@ -27,6 +27,7 @@
 | 155  | Min Stack | Easy | Stack, Design | | | 
 | 167  | Best Time to Buy and Sell Stock | Easy | Array, Two Pointers | Binary Search | | 
 | 200  | Number of Islands | Medium | Depth-first Search, Union Find | Breadth-first Search | | 
+| 201  | Bitwise AND of Numbers Range | Medium | Bit Manipulation | | | 
 | 202  | Happy Number | Easy | Math | Hash Table | | 
 | 238  | Product of Array Except Self | Medium | Array | | | 
 | 242  | Valid Anagram | Easy | Sort | Hash Table | * | 
@@ -98,7 +99,7 @@
     - Easy:
         136, 1342
     - Medium
-        137, 260
+        137, 201, 260
  
  - Stack
     - Easy:
@@ -229,6 +230,7 @@ Easy
 
 Medium
 - [137] Single Number II
+- [201] Bitwise AND of Numbers Range (30-Day LeetCoding Challenge[Day23])
 - [260] Single Number III *
 
 #### Hash Table
@@ -376,6 +378,7 @@ Week 3: April 15th–April 21st
 
 Week 4: April 22nd–April 28th
 - [Day22]: [560] Subarray Sum Equals K
+- [Day23]: [201] Bitwise AND of Numbers Range
 
 Week 5: April 29th–April 30th
 
