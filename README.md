@@ -15,6 +15,7 @@
 | 35   | Search Insert Position | Easy | Array |Binary Search| * | 
 | 49   | Group Anagrams | Medium | String, Hash Table | | * | 
 | 53   | Maximum Subarray | Easy | Array | Divide and Conquer, Dynamic Programming | | 
+| 55   | Jump Game | Medium | Array | Greedy | | 
 | 58   | Length of Last Word | Easy | String | | | 
 | 64   | Minimum Path Sum | Medium | Array, Dynamic Programming | | | 
 | 66   | Plus One | Easy | Array | | | 
@@ -83,7 +84,7 @@
         121, 122, 167, 283, 414, 448, 485, 905, 941, 977, 
         1051, 1089, 1295, 1299, 1346, 1351, 1365, 1389, 1394, 1399, 1413
     - Medium:
-        33, 64, 238, 560, 1414
+        33, 55, 64, 238, 560, 1414
 
 - String
     - Easy: 
@@ -198,6 +199,7 @@ Easy
 
 Medium
 - [33] Search in Rotated Sorted Array *
+- [55] Jump Game (30-Day LeetCoding Challenge[Day25])
 - [238] Product of Array Except Self (30-Day LeetCoding Challenge[Day15])
 - [560] Subarray Sum Equals K (30-Day LeetCoding Challenge[Day22])
 
@@ -384,6 +386,7 @@ Week 4: April 22nd–April 28th
 - [Day22]: [560] Subarray Sum Equals K
 - [Day23]: [201] Bitwise AND of Numbers Range
 
+- [Day25]: [55] Jump Game
 - [Day26]: [1143] Longest Common Subsequence
 - [Day27]: [221] Maximal Square
 

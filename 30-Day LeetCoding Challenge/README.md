@@ -100,6 +100,7 @@ None
 
 ## Day23: [201] Bitwise AND of Numbers Range
 
+## Day25: [55] Jump Game
 
 ## Day26: [1143] Longest Common Subsequence
 [Solution](https://www.youtube.com/watch?v=FWyANT-7iq8)
