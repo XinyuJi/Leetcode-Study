@@ -104,3 +104,5 @@ None
 ## Day26: [1143] Longest Common Subsequence
 [Solution](https://www.youtube.com/watch?v=FWyANT-7iq8)
 
+## Day27: [221] Maximal Square
+[Solution](https://leetcode.com/problems/maximal-square/discuss/600149/Python-Thinking-Process-Diagrams-DP-Approach)

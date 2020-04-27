@@ -29,6 +29,7 @@
 | 200  | Number of Islands | Medium | Depth-first Search, Union Find | Breadth-first Search | | 
 | 201  | Bitwise AND of Numbers Range | Medium | Bit Manipulation | | | 
 | 202  | Happy Number | Easy | Math | Hash Table | | 
+| 221  | Maximal Square | Medium | Dynamic Programming | | | 
 | 238  | Product of Array Except Self | Medium | Array | | | 
 | 242  | Valid Anagram | Easy | Sort | Hash Table | * | 
 | 260  | Single Number III | Medium | Bit Manipulation | | * | 
@@ -148,7 +149,7 @@
 
 - Dynamic Programming:
     - Medium:
-        64, 1143
+        64, 221, 1143
 
 - Binary Search:
     - Medium:
@@ -292,6 +293,7 @@ Medium
 Medium
 - [64] Minimum Path Sum (30-Day LeetCoding Challenge[Day18])
 - [1143] Longest Common Subsequence (30-Day LeetCoding Challenge[Day26])
+- [221] Maximal Square (30-Day LeetCoding Challenge[Day27])
 
 #### Binary Search
 Medium
@@ -383,6 +385,7 @@ Week 4: April 22nd–April 28th
 - [Day23]: [201] Bitwise AND of Numbers Range
 
 - [Day26]: [1143] Longest Common Subsequence
+- [Day27]: [221] Maximal Square
 
 Week 5: April 29th–April 30th
 
