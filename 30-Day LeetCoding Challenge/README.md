@@ -99,3 +99,8 @@ None
 [Solution](https://leetcode.com/problems/subarray-sum-equals-k/discuss/341399/Python-clear-explanation-with-code-and-example)
 
 ## Day23: [201] Bitwise AND of Numbers Range
+
+
+## Day26: [1143] Longest Common Subsequence
+[Solution](https://www.youtube.com/watch?v=FWyANT-7iq8)
+

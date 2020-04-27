@@ -49,7 +49,8 @@
 | 1008  | Construct Binary Search Tree from Preorder Traversal | Medium | Tree | | | 
 | 1046  | Last Stone Weight | Easy | | Heap, Greedy | * | 
 | 1051  | Height Checker | Easy | Array | | * | 
-| 1089  | Duplicate Zeros | Easy | | Array | * | 
+| 1089  | Duplicate Zeros | Easy | Array | | * | 
+| 1143  | Longest Common Subsequence | Medium | Dynamic Programming | | | 
 | 1185 | Day of the Week | Easy | API | Array | | 
 | 1295 | Find Numbers with Even Number of Digits | Easy | Array |  | * |
 | 1299 | Replace Elements with Greatest Element on Right Side | Easy | Array |  | |
@@ -147,7 +148,7 @@
 
 - Dynamic Programming:
     - Medium:
-        64
+        64, 1143
 
 - Binary Search:
     - Medium:
@@ -290,6 +291,7 @@ Medium
 #### Dynamic Programming
 Medium
 - [64] Minimum Path Sum (30-Day LeetCoding Challenge[Day18])
+- [1143] Longest Common Subsequence (30-Day LeetCoding Challenge[Day26])
 
 #### Binary Search
 Medium
@@ -379,6 +381,8 @@ Week 3: April 15th–April 21st
 Week 4: April 22nd–April 28th
 - [Day22]: [560] Subarray Sum Equals K
 - [Day23]: [201] Bitwise AND of Numbers Range
+
+- [Day26]: [1143] Longest Common Subsequence
 
 Week 5: April 29th–April 30th
 
