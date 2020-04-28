@@ -75,6 +75,7 @@
 - Counting Elements
 - Perform String Shifts 
 - Leftmost Column with at Least a One
+- First Unique Number
 
 
 ### Topics
@@ -163,6 +164,7 @@
 - Counting Elements
 - Perform String Shifts 
 - Leftmost Column with at Least a One
+- First Unique Number
 
 #### Arrays
 Easy
@@ -389,6 +391,7 @@ Week 4: April 22nd–April 28th
 - [Day25]: [55] Jump Game
 - [Day26]: [1143] Longest Common Subsequence
 - [Day27]: [221] Maximal Square
+- [Day28]: First Unique Number
 
 Week 5: April 29th–April 30th
 

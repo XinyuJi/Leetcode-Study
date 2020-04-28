@@ -100,6 +100,10 @@ None
 
 ## Day23: [201] Bitwise AND of Numbers Range
 
+
+## Day24: [146] LRU Cache
+[Solution](https://www.youtube.com/watch?v=JlDd3n6GP3w)
+
 ## Day25: [55] Jump Game
 
 ## Day26: [1143] Longest Common Subsequence
@@ -107,3 +111,6 @@ None
 
 ## Day27: [221] Maximal Square
 [Solution](https://leetcode.com/problems/maximal-square/discuss/600149/Python-Thinking-Process-Diagrams-DP-Approach)
+
+## Day28: [] First Unique Number
+[Solution](https://www.youtube.com/watch?v=JlDd3n6GP3w)
