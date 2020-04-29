@@ -23,8 +23,10 @@
 | 88   | Merge Sorted Array | Easy | Array | Two Pointers | * | 
 | 121  | Best Time to Buy and Sell Stock | Easy | Array | Dynamic Programming | | 
 | 122  | Best Time to Buy and Sell Stock II | Easy | Array | Greedy | | 
+| 124  | Binary Tree Maximum Path Sum | Hard | Tree | Depth-first Search | | 
 | 136  | Single Number | Easy | Hash Table, Bit Manipulation | | | 
 | 137  | Single Number II | Medium | Bit Manipulation | | | 
+| 146  | LRU Cache | Medium | Design | | | 
 | 155  | Min Stack | Easy | Stack, Design | | | 
 | 167  | Best Time to Buy and Sell Stock | Easy | Array, Two Pointers | Binary Search | | 
 | 200  | Number of Islands | Medium | Depth-first Search, Union Find | Breadth-first Search | | 
@@ -132,6 +134,8 @@
         543
     - Medium:
         1008
+    - Hard:
+        124
 
 - Union Find
     - Medium:
@@ -156,6 +160,10 @@
 - Binary Search:
     - Medium:
         33
+
+- Design:
+    - Medium:
+        146
 
 - ?
     - Easy:
@@ -277,6 +285,9 @@ Easy
 Medium
 - [1008] Construct Binary Search Tree from Preorder Traversal (30-Day LeetCoding Challenge[Day20])
 
+Hard
+- [124] Binary Tree Maximum Path Sum (30-Day LeetCoding Challenge[Day29])
+
 #### Union Find
 Medium
 - [200] Number of Islands (30-Day LeetCoding Challenge[Day17])
@@ -303,6 +314,9 @@ Medium
 Medium
 - [33] Search in Rotated Sorted Array (30-Day LeetCoding Challenge[Day19])
 
+#### Design
+Medium
+- [146] LRU Cache (30-Day LeetCoding Challenge[Day24])
 
 
 #### ?
@@ -387,12 +401,12 @@ Week 3: April 15th–April 21st
 Week 4: April 22nd–April 28th
 - [Day22]: [560] Subarray Sum Equals K
 - [Day23]: [201] Bitwise AND of Numbers Range
-
+- [Day24]: [146] LRU Cache
 - [Day25]: [55] Jump Game
 - [Day26]: [1143] Longest Common Subsequence
 - [Day27]: [221] Maximal Square
 - [Day28]: First Unique Number
 
 Week 5: April 29th–April 30th
-
-https://www.youtube.com/playlist?list=PL2rWx9cCzU84eBz9Xfp9Rah5Fexq5yrh8
+- [Day29]: [124] Binary Tree Maximum Path Sum
+- [Day30]:

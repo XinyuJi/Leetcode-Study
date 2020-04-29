@@ -99,10 +99,11 @@ None
 [Solution](https://leetcode.com/problems/subarray-sum-equals-k/discuss/341399/Python-clear-explanation-with-code-and-example)
 
 ## Day23: [201] Bitwise AND of Numbers Range
-
-
+ 
 ## Day24: [146] LRU Cache
-[Solution](https://www.youtube.com/watch?v=JlDd3n6GP3w)
+[Solution](https://www.youtube.com/watch?v=-lENpOxpSIE)
+- Approach 1: Ordered Dict
+- Approach 2: Ordered Dict
 
 ## Day25: [55] Jump Game
 
@@ -114,3 +115,6 @@ None
 
 ## Day28: [] First Unique Number
 [Solution](https://www.youtube.com/watch?v=JlDd3n6GP3w)
+
+## Day29: [124] Binary Tree Maximum Path Sum
+[Solution](https://www.bilibili.com/video/BV1CT4y1g7bR?from=search&seid=16005751768998846596)
