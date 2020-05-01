@@ -37,6 +37,7 @@
 | 242  | Valid Anagram | Easy | Sort | Hash Table | * | 
 | 260  | Single Number III | Medium | Bit Manipulation | | * | 
 | 263  | Ugly Number | Easy | Math | | | 
+| 278  | First Bad Version | Easy | Binary Search | | | 
 | 283  | Move Zeroes | Easy | Array, Two Pointers | | * | 
 | 414  | Third Maximum Number | Easy | Array | | * | 
 | 448  | Find All Numbers Disappeared in an Array | Easy | Array | | | 
@@ -159,6 +160,8 @@
         64, 221, 1143
 
 - Binary Search:
+    - Easy:
+        278
     - Medium:
         33
 
@@ -313,6 +316,8 @@ Medium
 - [221] Maximal Square (30-Day LeetCoding Challenge[Day27])
 
 #### Binary Search
+Easy
+- [278] First Bad Version (May LeetCoding Challenge[Day1])
 Medium
 - [33] Search in Rotated Sorted Array (30-Day LeetCoding Challenge[Day19])
 
@@ -322,11 +327,11 @@ Medium
 
 
 #### ?
-- Counting Elements
-- Perform String Shifts
-- Leftmost Column with at Least a One
-- First Unique Number
-- Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree
+- Counting Elements (30-Day LeetCoding Challenge[Day7])
+- Perform String Shifts (30-Day LeetCoding Challenge[Day14])
+- Leftmost Column with at Least a One (30-Day LeetCoding Challenge[Day21])
+- First Unique Number (30-Day LeetCoding Challenge[Day28])
+- Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree (30-Day LeetCoding Challenge[Day30])
 Easy
 - [1046] Last Stone Weight (30-Day LeetCoding Challenge[Day12]) *
 
@@ -412,5 +417,51 @@ Week 4: April 22nd–April 28th
 - [Day28]: First Unique Number
 
 Week 5: April 29th–April 30th
+- [Day29]: [124] Binary Tree Maximum Path Sum
+- [Day30]: Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree
+
+
+### May LeetCoding Challenge
+Week 1: May 1st–May 7th
+- [Day1]: [278] First Bad Version
+
+
+
+
+- [Day2]: [202] Happy Number
+- [Day3]: [53]  Maximum Subarray
+- [Day4]: [283] Move Zeroes *
+- [Day5]: [122] Best Time to Buy and Sell Stock II
+- [Day6]: [49] Group Anagrams *
+- [Day7]: Counting Elements *
+
+Week 2: May 8th–May 14th
+- [Day8]: [876] Middle of the Linked List
+- [Day9]: [844] Backspace String Compare
+- [Day10]: [155] Min Stack
+- [Day11]: [543] Diameter of Binary Tree
+- [Day12]: [1046] Last Stone Weight *
+- [Day13]: [525] Contiguous Array
+- [Day14]: Perform String Shifts *
+
+Week 3: May 15th–May 21st
+- [Day15]: [238] Product of Array Except Self
+- [Day16]: [678] Valid Parenthesis String
+- [Day17]: [200] Number of Islands
+- [Day18]: [64] Minimum Path Sum
+- [Day19]: [33] Search in Rotated Sorted Array
+- [Day20]: [1008] Construct Binary Search Tree from Preorder Traversal
+- [Day21]: Leftmost Column with at Least a One
+
+Week 4: May 22nd–May 28th
+- [Day22]: [560] Subarray Sum Equals K
+- [Day23]: [201] Bitwise AND of Numbers Range
+- [Day24]: [146] LRU Cache
+- [Day25]: [55] Jump Game
+- [Day26]: [1143] Longest Common Subsequence
+- [Day27]: [221] Maximal Square
+- [Day28]: First Unique Number
+
+Week 5: May 29th–May 31st
 - [Day29]: [124] Binary Tree Maximum Path Sum
 - [Day30]: Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree
