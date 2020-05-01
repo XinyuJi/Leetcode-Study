@@ -118,3 +118,5 @@ None
 
 ## Day29: [124] Binary Tree Maximum Path Sum
 [Solution](https://www.bilibili.com/video/BV1CT4y1g7bR?from=search&seid=16005751768998846596)
+
+## Day30: [] Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree
