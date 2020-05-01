@@ -78,6 +78,7 @@
 - Perform String Shifts 
 - Leftmost Column with at Least a One
 - First Unique Number
+- Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree
 
 
 ### Topics
@@ -173,6 +174,7 @@
 - Perform String Shifts 
 - Leftmost Column with at Least a One
 - First Unique Number
+- Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree
 
 #### Arrays
 Easy
@@ -323,6 +325,8 @@ Medium
 - Counting Elements
 - Perform String Shifts
 - Leftmost Column with at Least a One
+- First Unique Number
+- Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree
 Easy
 - [1046] Last Stone Weight (30-Day LeetCoding Challenge[Day12]) *
 
@@ -409,4 +413,4 @@ Week 4: April 22nd–April 28th
 
 Week 5: April 29th–April 30th
 - [Day29]: [124] Binary Tree Maximum Path Sum
-- [Day30]:
+- [Day30]: Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree
