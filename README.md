@@ -71,9 +71,10 @@
 | 1399 | Count Largest Group | Easy | Array | | * | 
 | 1413 | Minimum Value to Get Positive Step by Step Sum | Easy | Array | | * | 
 | 1414 | Find the Minimum Number of Fibonacci Numbers Whose Sum Is K | Medium | Array, Greedy |  |  | 
+| 1431 | Kids With the Greatest Number of Candies | Easy | Array |  | * | 
+| 1432 | Max Difference You Can Get From Changing an Integer | Medium | String |  |  | 
 
 58
-
 
 ?
 - Counting Elements
@@ -88,7 +89,7 @@
     - Easy: 
         1, 26, 27, 35, 53, 66, 88, 
         121, 122, 167, 283, 414, 448, 485, 905, 941, 977, 
-        1051, 1089, 1295, 1299, 1346, 1351, 1365, 1389, 1394, 1399, 1413
+        1051, 1089, 1295, 1299, 1346, 1351, 1365, 1389, 1394, 1399, 1413, 1431
     - Medium:
         33, 55, 64, 238, 560, 1414
 
@@ -96,7 +97,7 @@
     - Easy: 
         13, 20, 58, 67
     - Medium:
-        49, 678
+        49, 678, 1432
 
 - Math
     - Easy:
@@ -212,6 +213,8 @@ Easy
 - [1399] Count Largest Group *
 - [1413] Minimum Value to Get Positive Step by Step Sum (Biweekly Contest 24) *
 - [1414] Find the Minimum Number of Fibonacci Numbers Whose Sum Is K (Biweekly Contest 24)
+- [1431] Kids With the Greatest Number of Candies (Biweekly Contest 25) *
+
 
 Medium
 - [33] Search in Rotated Sorted Array *
@@ -229,6 +232,7 @@ Easy
 Medium
 - [49] Group Anagrams
 - [678] Valid Parenthesis String (30-Day LeetCoding Challenge[Day16])
+- [1432] Max Difference You Can Get From Changing an Integer (Biweekly Contest 25)
 
 #### Math
 Easy
@@ -378,6 +382,14 @@ Easy
         - Q1: [1413] Minimum Value to Get Positive Step by Step Sum
     - Studied:
         - Q2: [1414] Find the Minimum Number of Fibonacci Numbers Whose Sum Is K
+
+- Biweekly Contest 25 [2020.05.02]
+    - Finished:
+        - Q1: [1431] Kids With the Greatest Number of Candies
+    - Studied:
+        - Q2: [1432] Max Difference You Can Get From Changing an Integer
+
+
 
 
 ## Challenge
