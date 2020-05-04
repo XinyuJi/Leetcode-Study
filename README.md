@@ -39,8 +39,10 @@
 | 263  | Ugly Number | Easy | Math | | | 
 | 278  | First Bad Version | Easy | Binary Search | | | 
 | 283  | Move Zeroes | Easy | Array, Two Pointers | | * | 
+| 383  | Ransom Note | Easy | String | | | 
 | 414  | Third Maximum Number | Easy | Array | | * | 
 | 448  | Find All Numbers Disappeared in an Array | Easy | Array | | | 
+| 476  | Number Complement | Easy | Bit Manipulation  | | | 
 | 485  | Max Consecutive Ones | Easy | Array | | * | 
 | 525  | Contiguous Array | Medium | Hash Table | | | 
 | 543  | Diameter of Binary Tree | Easy | Tree | | |
@@ -95,7 +97,7 @@
 
 - String
     - Easy: 
-        13, 20, 58, 67
+        13, 20, 58, 67, 383
     - Medium:
         49, 678, 1432
 
@@ -107,7 +109,7 @@
 
 - Bit Manipulation
     - Easy:
-        136, 1342
+        136, 476, 1342
     - Medium
         137, 201, 260
  
@@ -228,6 +230,7 @@ Easy
 - [20] Valid Parentheses (stack video)
 - [58] Length of Last Word
 - [67] Add Binary *
+- [383] Ransom Note (May LeetCoding Challenge[Day3])
 
 Medium
 - [49] Group Anagrams
@@ -250,6 +253,7 @@ Medium
 #### Bit Manipulation
 Easy
 - [136] Single Number (30-Day LeetCoding Challenge[Day1])
+- [476] Number Complement (May LeetCoding Challenge[Day4])
 - [1342] Number of Steps to Reduce a Number to Zero (Biweekly Contest 19) *
 
 Medium
@@ -397,43 +401,40 @@ Easy
 Week 1: May 1st–May 7th
 - [Day1]: [278] First Bad Version
 - [Day2]: [771] Jewels and Stones *
-
-
-
-
-- [Day3]: [53]  Maximum Subarray
-- [Day4]: [283] Move Zeroes *
-- [Day5]: [122] Best Time to Buy and Sell Stock II
-- [Day6]: [49] Group Anagrams *
-- [Day7]: Counting Elements *
+- [Day3]: [383] Ransom Note
+- [Day4]: [476] Number Complement
+- [Day5]:
+- [Day6]:
+- [Day7]:
 
 Week 2: May 8th–May 14th
-- [Day8]: [876] Middle of the Linked List
-- [Day9]: [844] Backspace String Compare
-- [Day10]: [155] Min Stack
-- [Day11]: [543] Diameter of Binary Tree
-- [Day12]: [1046] Last Stone Weight *
-- [Day13]: [525] Contiguous Array
-- [Day14]: Perform String Shifts *
+- [Day8]: 
+- [Day9]: 
+- [Day10]: 
+- [Day11]: 
+- [Day12]: 
+- [Day13]: 
+- [Day14]: 
 
 Week 3: May 15th–May 21st
-- [Day15]: [238] Product of Array Except Self
-- [Day16]: [678] Valid Parenthesis String
-- [Day17]: [200] Number of Islands
-- [Day18]: [64] Minimum Path Sum
-- [Day19]: [33] Search in Rotated Sorted Array
-- [Day20]: [1008] Construct Binary Search Tree from Preorder Traversal
-- [Day21]: Leftmost Column with at Least a One
+- [Day15]: 
+- [Day16]: 
+- [Day17]: 
+- [Day18]: 
+- [Day19]: 
+- [Day20]: 
+- [Day21]: 
 
 Week 4: May 22nd–May 28th
-- [Day22]: [560] Subarray Sum Equals K
-- [Day23]: [201] Bitwise AND of Numbers Range
-- [Day24]: [146] LRU Cache
-- [Day25]: [55] Jump Game
-- [Day26]: [1143] Longest Common Subsequence
-- [Day27]: [221] Maximal Square
-- [Day28]: First Unique Number
+- [Day22]: 
+- [Day23]: 
+- [Day24]: 
+- [Day25]: 
+- [Day26]: 
+- [Day27]: 
+- [Day28]: 
 
 Week 5: May 29th–May 31st
-- [Day29]: [124] Binary Tree Maximum Path Sum
-- [Day30]: Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree
+- [Day29]: 
+- [Day30]: 
+- [Day31]:
