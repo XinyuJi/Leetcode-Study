@@ -8,3 +8,7 @@
 
 ## Day4: [476] Number Complement
 [Solution](https://www.bilibili.com/video/BV1Lg4y167NB)
+
+## Day5: [387] First Unique Character in a String *
+
+## Day6:

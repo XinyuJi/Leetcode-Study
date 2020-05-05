@@ -40,6 +40,7 @@
 | 278  | First Bad Version | Easy | Binary Search | | | 
 | 283  | Move Zeroes | Easy | Array, Two Pointers | | * | 
 | 383  | Ransom Note | Easy | String | | | 
+| 387  | First Unique Character in a String | Easy | String, Hash Table | | * | 
 | 414  | Third Maximum Number | Easy | Array | | * | 
 | 448  | Find All Numbers Disappeared in an Array | Easy | Array | | | 
 | 476  | Number Complement | Easy | Bit Manipulation  | | | 
@@ -97,7 +98,7 @@
 
 - String
     - Easy: 
-        13, 20, 58, 67, 383
+        13, 20, 58, 67, 383, 387
     - Medium:
         49, 678, 1432
 
@@ -119,7 +120,7 @@
 
 - Hash Table
     - Easy:
-        1, 136, 771
+        1, 136, 387, 771
     - Medium:
         49, 525, 560
 
@@ -231,6 +232,7 @@ Easy
 - [58] Length of Last Word
 - [67] Add Binary *
 - [383] Ransom Note (May LeetCoding Challenge[Day3])
+- [387] First Unique Character in a String (May LeetCoding Challenge[Day5]) *
 
 Medium
 - [49] Group Anagrams
@@ -265,6 +267,7 @@ Medium
 Easy
 - [1] Two Sum
 - [136] Single Number
+- [387] First Unique Character in a String (May LeetCoding Challenge[Day5]) *
 - [771] Jewels and Stones (May LeetCoding Challenge[Day2]) *
 
 Medium
@@ -403,7 +406,7 @@ Week 1: May 1st–May 7th
 - [Day2]: [771] Jewels and Stones *
 - [Day3]: [383] Ransom Note
 - [Day4]: [476] Number Complement
-- [Day5]:
+- [Day5]: [387] First Unique Character in a String *
 - [Day6]:
 - [Day7]:
 
