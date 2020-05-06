@@ -1,4 +1,6 @@
 """
+Runtime: 156 ms, faster than 31.36% of Python3 online submissions for First Unique Character in a String.
+Memory Usage: 13.9 MB, less than 6.52% of Python3 online submissions for First Unique Character in a String.
 """
 
 class Solution:
