@@ -11,4 +11,4 @@
 
 ## Day5: [387] First Unique Character in a String *
 
-## Day6:
+## Day6: [169] Majority Element *

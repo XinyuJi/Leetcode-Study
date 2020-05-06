@@ -29,6 +29,7 @@
 | 146  | LRU Cache | Medium | Design | | | 
 | 155  | Min Stack | Easy | Stack, Design | | | 
 | 167  | Best Time to Buy and Sell Stock | Easy | Array, Two Pointers | Binary Search | | 
+| 169  | Majority Element | Easy | Array | Divide and Conquer, Bit Manipulation | * | 
 | 200  | Number of Islands | Medium | Depth-first Search, Union Find | Breadth-first Search | | 
 | 201  | Bitwise AND of Numbers Range | Medium | Bit Manipulation | | | 
 | 202  | Happy Number | Easy | Math | Hash Table | | 
@@ -91,7 +92,7 @@
 - Array
     - Easy: 
         1, 26, 27, 35, 53, 66, 88, 
-        121, 122, 167, 283, 414, 448, 485, 905, 941, 977, 
+        121, 122, 167, 169, 283, 414, 448, 485, 905, 941, 977, 
         1051, 1089, 1295, 1299, 1346, 1351, 1365, 1389, 1394, 1399, 1413, 1431
     - Medium:
         33, 55, 64, 238, 560, 1414
@@ -197,6 +198,7 @@ Easy
 - [121] Best Time to Buy and Sell Stock
 - [122] Best Time to Buy and Sell Stock II (30-Day LeetCoding Challenge[Day5])
 - [167] Two Sum II - Input array is sorted *
+- [169] Majority Element (May LeetCoding Challenge[Day6]) *
 - [283] Move Zeroes (30-Day LeetCoding Challenge[Day4]) *
 - [414] Third Maximum Number *
 - [448] Find All Numbers Disappeared in an Array
@@ -407,7 +409,7 @@ Week 1: May 1st–May 7th
 - [Day3]: [383] Ransom Note
 - [Day4]: [476] Number Complement
 - [Day5]: [387] First Unique Character in a String *
-- [Day6]:
+- [Day6]: [169] Majority Element *
 - [Day7]:
 
 Week 2: May 8th–May 14th
