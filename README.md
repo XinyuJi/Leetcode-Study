@@ -86,6 +86,7 @@
 - Leftmost Column with at Least a One
 - First Unique Number
 - Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree
+- Cousins in Binary Tree
 
 
 ### Topics
@@ -184,6 +185,7 @@
 - Leftmost Column with at Least a One
 - First Unique Number
 - Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree
+- Cousins in Binary Tree
 
 #### Arrays
 Easy
@@ -347,6 +349,8 @@ Medium
 - Leftmost Column with at Least a One (30-Day LeetCoding Challenge[Day21])
 - First Unique Number (30-Day LeetCoding Challenge[Day28])
 - Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree (30-Day LeetCoding Challenge[Day30])
+- Cousins in Binary Tree (May LeetCoding Challenge[Day7])
+
 Easy
 - [1046] Last Stone Weight (30-Day LeetCoding Challenge[Day12]) *
 
@@ -410,7 +414,7 @@ Week 1: May 1st–May 7th
 - [Day4]: [476] Number Complement
 - [Day5]: [387] First Unique Character in a String *
 - [Day6]: [169] Majority Element *
-- [Day7]:
+- [Day7]: Cousins in Binary Tree
 
 Week 2: May 8th–May 14th
 - [Day8]: 

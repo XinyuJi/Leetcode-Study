@@ -12,3 +12,6 @@
 ## Day5: [387] First Unique Character in a String *
 
 ## Day6: [169] Majority Element *
+
+## Day7: [] Cousins in Binary Tree
+[Solution](https://www.youtube.com/watch?v=PyfLrJvoC_s)
