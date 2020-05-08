@@ -62,6 +62,7 @@
 | 1089  | Duplicate Zeros | Easy | Array | | * | 
 | 1143  | Longest Common Subsequence | Medium | Dynamic Programming | | | 
 | 1185 | Day of the Week | Easy | API | Array | | 
+| 1232 | Check If It Is a Straight Line | Easy | Array, Math, Geometry | | | 
 | 1295 | Find Numbers with Even Number of Digits | Easy | Array |  | * |
 | 1299 | Replace Elements with Greatest Element on Right Side | Easy | Array |  | |
 | 1323 | Maximum 69 Number | Easy | Math |  | * | 
@@ -94,7 +95,7 @@
     - Easy: 
         1, 26, 27, 35, 53, 66, 88, 
         121, 122, 167, 169, 283, 414, 448, 485, 905, 941, 977, 
-        1051, 1089, 1295, 1299, 1346, 1351, 1365, 1389, 1394, 1399, 1413, 1431
+        1051, 1089, 1232, 1295, 1299, 1346, 1351, 1365, 1389, 1394, 1399, 1413, 1431
     - Medium:
         33, 55, 64, 238, 560, 1414
 
@@ -106,7 +107,7 @@
 
 - Math
     - Easy:
-        7, 9, 13, 67, 202, 263, 1323
+        7, 9, 13, 67, 202, 263, 1232, 1323
     - Medium:
         1344
 
@@ -176,6 +177,10 @@
     - Medium:
         146
 
+- Geometry:
+    - Easy:
+        1232
+
 - ?
     - Easy:
         1046
@@ -210,6 +215,7 @@ Easy
 - [977] Squares of a Sorted Array *
 - [1051] Height Checker *
 - [1089] Duplicate Zeros *
+- [1232] Check If It Is a Straight Line (May LeetCoding Challenge[Day8])
 - [1295] Find Numbers with Even Number of Digits *
 - [1299] Replace Elements with Greatest Element on Right Side
 - [1346] Check If N and Its Double Exist *
@@ -251,6 +257,7 @@ Easy
 - [67] Add Binary *
 - [202] Happy Number (30-Day LeetCoding Challenge[Day2])
 - [263] Ugly Number
+- [1232] Check If It Is a Straight Line (May LeetCoding Challenge[Day8])
 - [1323] Maximum 69 Number *
 
 Medium
@@ -342,6 +349,11 @@ Medium
 Medium
 - [146] LRU Cache (30-Day LeetCoding Challenge[Day24])
 
+#### Geometry
+Easy
+- [1232] Check If It Is a Straight Line (May LeetCoding Challenge[Day8])
+
+
 
 #### ?
 - Counting Elements (30-Day LeetCoding Challenge[Day7])
@@ -417,7 +429,7 @@ Week 1: May 1st–May 7th
 - [Day7]: Cousins in Binary Tree
 
 Week 2: May 8th–May 14th
-- [Day8]: 
+- [Day8]: Check If It Is a Straight Line
 - [Day9]: 
 - [Day10]: 
 - [Day11]: 

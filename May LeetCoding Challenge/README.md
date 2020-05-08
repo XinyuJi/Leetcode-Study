@@ -15,3 +15,5 @@
 
 ## Day7: [] Cousins in Binary Tree
 [Solution](https://www.youtube.com/watch?v=PyfLrJvoC_s)
+
+## Day8: [1232] Check If It Is a Straight Line
