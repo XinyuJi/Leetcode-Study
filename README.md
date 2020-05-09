@@ -40,6 +40,7 @@
 | 263  | Ugly Number | Easy | Math | | | 
 | 278  | First Bad Version | Easy | Binary Search | | | 
 | 283  | Move Zeroes | Easy | Array, Two Pointers | | * | 
+| 367  | Valid Perfect Square | Easy | Math, Binary Search| | | 
 | 383  | Ransom Note | Easy | String | | | 
 | 387  | First Unique Character in a String | Easy | String, Hash Table | | * | 
 | 414  | Third Maximum Number | Easy | Array | | * | 
@@ -107,7 +108,7 @@
 
 - Math
     - Easy:
-        7, 9, 13, 67, 202, 263, 1232, 1323
+        7, 9, 13, 67, 202, 263, 367, 1232, 1323
     - Medium:
         1344
 
@@ -169,7 +170,7 @@
 
 - Binary Search:
     - Easy:
-        278
+        278, 367
     - Medium:
         33
 
@@ -257,6 +258,7 @@ Easy
 - [67] Add Binary *
 - [202] Happy Number (30-Day LeetCoding Challenge[Day2])
 - [263] Ugly Number
+- [367] Valid Perfect Square (May LeetCoding Challenge[Day9])
 - [1232] Check If It Is a Straight Line (May LeetCoding Challenge[Day8])
 - [1323] Maximum 69 Number *
 
@@ -342,6 +344,7 @@ Medium
 #### Binary Search
 Easy
 - [278] First Bad Version (May LeetCoding Challenge[Day1])
+- [367] Valid Perfect Square (May LeetCoding Challenge[Day9])
 Medium
 - [33] Search in Rotated Sorted Array (30-Day LeetCoding Challenge[Day19])
 
@@ -430,7 +433,7 @@ Week 1: May 1st–May 7th
 
 Week 2: May 8th–May 14th
 - [Day8]: Check If It Is a Straight Line
-- [Day9]: 
+- [Day9]: [367] Valid Perfect Square
 - [Day10]: 
 - [Day11]: 
 - [Day12]: 
