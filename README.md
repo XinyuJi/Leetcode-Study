@@ -57,6 +57,7 @@
 | 905  | Sort Array By Parity | Easy | Array | | * | 
 | 941  | Valid Mountain Array | Easy | Array | | * | 
 | 977  | Squares of a Sorted Array | Easy | Array | | * | 
+| 993  | Cousins in Binary Tree | Easy | Tree, Breadth-first Search | | * | 
 | 1008  | Construct Binary Search Tree from Preorder Traversal | Medium | Tree | | | 
 | 1046  | Last Stone Weight | Easy | | Heap, Greedy | * | 
 | 1051  | Height Checker | Easy | Array | | * | 
@@ -80,7 +81,6 @@
 | 1431 | Kids With the Greatest Number of Candies | Easy | Array |  | * | 
 | 1432 | Max Difference You Can Get From Changing an Integer | Medium | String |  |  | 
 
-58
 
 ?
 - Counting Elements
@@ -88,7 +88,6 @@
 - Leftmost Column with at Least a One
 - First Unique Number
 - Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree
-- Cousins in Binary Tree
 
 
 ### Topics
@@ -142,7 +141,7 @@
 
 - Tree
     - Easy:
-        543
+        543, 993
     - Medium:
         1008
     - Hard:
@@ -153,6 +152,8 @@
         200
 
 - Breadth-first Search
+    - Easy:
+        993
     - Medium:
         200
 
@@ -191,7 +192,7 @@
 - Leftmost Column with at Least a One
 - First Unique Number
 - Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree
-- Cousins in Binary Tree
+
 
 #### Arrays
 Easy
@@ -312,6 +313,7 @@ Easy
 #### Tree
 Easy
 - [543] Diameter of Binary Tree (30-Day LeetCoding Challenge[Day11])
+- [993] Cousins in Binary Tree (May LeetCoding Challenge[Day7])
 
 Medium
 - [1008] Construct Binary Search Tree from Preorder Traversal (30-Day LeetCoding Challenge[Day20])
@@ -324,6 +326,8 @@ Medium
 - [200] Number of Islands (30-Day LeetCoding Challenge[Day17])
 
 #### Breadth-first Search
+Easy
+- [993] Cousins in Binary Tree (May LeetCoding Challenge[Day7])
 Medium
 - [200] Number of Islands
 
@@ -364,7 +368,7 @@ Easy
 - Leftmost Column with at Least a One (30-Day LeetCoding Challenge[Day21])
 - First Unique Number (30-Day LeetCoding Challenge[Day28])
 - Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree (30-Day LeetCoding Challenge[Day30])
-- Cousins in Binary Tree (May LeetCoding Challenge[Day7])
+
 
 Easy
 - [1046] Last Stone Weight (30-Day LeetCoding Challenge[Day12]) *
@@ -429,10 +433,10 @@ Week 1: May 1st–May 7th
 - [Day4]: [476] Number Complement
 - [Day5]: [387] First Unique Character in a String *
 - [Day6]: [169] Majority Element *
-- [Day7]: Cousins in Binary Tree
+- [Day7]: [993] Cousins in Binary Tree
 
 Week 2: May 8th–May 14th
-- [Day8]: Check If It Is a Straight Line
+- [Day8]: [1232] Check If It Is a Straight Line
 - [Day9]: [367] Valid Perfect Square
 - [Day10]: 
 - [Day11]: 
