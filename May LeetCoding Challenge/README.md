@@ -19,3 +19,6 @@
 ## Day8: [1232] Check If It Is a Straight Line
 
 ## Day9: [367] Valid Perfect Square
+
+## Day10: [997] Find the Town Judge
+[Solution](https://www.bilibili.com/video/BV1Ka4y1i7Qt)

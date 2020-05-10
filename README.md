@@ -58,8 +58,9 @@
 | 941  | Valid Mountain Array | Easy | Array | | * | 
 | 977  | Squares of a Sorted Array | Easy | Array | | * | 
 | 993  | Cousins in Binary Tree | Easy | Tree, Breadth-first Search | | |
+| 997  | Find the Town Judge | Easy | Graph | | |
 | 1008  | Construct Binary Search Tree from Preorder Traversal | Medium | Tree | | | 
-| 1046  | Last Stone Weight | Easy | | Heap, Greedy | * | 
+| 1046  | Last Stone Weight | Easy | Greedy | Heap | * | 
 | 1051  | Height Checker | Easy | Array | | * | 
 | 1089  | Duplicate Zeros | Easy | Array | | * | 
 | 1143  | Longest Common Subsequence | Medium | Dynamic Programming | | | 
@@ -182,10 +183,16 @@
     - Easy:
         1232
 
-- ?
+- Greedy:
     - Easy:
         1046
-    
+
+- Graph:
+    - Easy:
+        997
+
+
+- ?????   
 - Counting Elements
 - Perform String Shifts 
 - Leftmost Column with at Least a One
@@ -358,6 +365,15 @@ Medium
 Easy
 - [1232] Check If It Is a Straight Line (May LeetCoding Challenge[Day8])
 
+#### Greedy
+Easy
+- [1046] Last Stone Weight (30-Day LeetCoding Challenge[Day12]) *
+
+#### Graph
+Easy
+- [997] Find the Town Judge (May LeetCoding Challenge[Day10])
+
+
 
 
 #### ?
@@ -367,8 +383,6 @@ Easy
 - First Unique Number (30-Day LeetCoding Challenge[Day28])
 - Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree (30-Day LeetCoding Challenge[Day30])
 
-Easy
-- [1046] Last Stone Weight (30-Day LeetCoding Challenge[Day12]) *
 
 
 
@@ -435,7 +449,7 @@ Week 1: May 1st–May 7th
 Week 2: May 8th–May 14th
 - [Day8]: [1232] Check If It Is a Straight Line
 - [Day9]: [367] Valid Perfect Square
-- [Day10]: 
+- [Day10]: [997] Find the Town Judge
 - [Day11]: 
 - [Day12]: 
 - [Day13]: 
