@@ -18,7 +18,7 @@
 | 55   | Jump Game | Medium | Array | Greedy | | 
 | 58   | Length of Last Word | Easy | String | | | 
 | 64   | Minimum Path Sum | Medium | Array, Dynamic Programming | | | 
-| 66   | Plus One | Easy | Array | | | 
+| 66   | Plus One | Easy | Array | | * | 
 | 67   | Add Binary | Easy | Math, String | | * | 
 | 88   | Merge Sorted Array | Easy | Array | Two Pointers | * | 
 | 121  | Best Time to Buy and Sell Stock | Easy | Array | Dynamic Programming | | 
@@ -44,6 +44,7 @@
 | 383  | Ransom Note | Easy | String | | | 
 | 387  | First Unique Character in a String | Easy | String, Hash Table | | * | 
 | 414  | Third Maximum Number | Easy | Array | | * | 
+| 434  | Number of Segments in a String | Easy | String | | | 
 | 448  | Find All Numbers Disappeared in an Array | Easy | Array | | | 
 | 476  | Number Complement | Easy | Bit Manipulation  | | | 
 | 485  | Max Consecutive Ones | Easy | Array | | * | 
@@ -51,6 +52,9 @@
 | 543  | Diameter of Binary Tree | Easy | Tree | | |
 | 560  | Subarray Sum Equals K | Medium | Array, Hash Table | | |
 | 678  | Valid Parenthesis String | Medium | String | | |
+| 724  | Find Pivot Index | Easy | Array | | * |
+| 733  | Flood Fill | Easy | Depth-first Search | | |
+| 747  | Largest Number At Least Twice of Others | Easy | Array | | * |
 | 771  | Jewels and Stones | Easy | Hash Table | | * |
 | 844  | Backspace String Compare | Easy | Stack | Two Pointers | | 
 | 876  | Middle of the Linked List | Easy | Linked List | | | 
@@ -94,14 +98,14 @@
 - Array
     - Easy: 
         1, 26, 27, 35, 53, 66, 88, 
-        121, 122, 167, 169, 283, 414, 448, 485, 905, 941, 977, 
+        121, 122, 167, 169, 283, 414, 448, 485, 724, 747, 905, 941, 977, 
         1051, 1089, 1232, 1295, 1299, 1346, 1351, 1365, 1389, 1394, 1399, 1413, 1431
     - Medium:
         33, 55, 64, 238, 560, 1414
 
 - String
     - Easy: 
-        13, 20, 58, 67, 383, 387
+        13, 20, 58, 67, 383, 387, 434
     - Medium:
         49, 678, 1432
 
@@ -158,6 +162,8 @@
         200
 
 - Depth-first Search
+    - Easy:
+        733
     - Medium:
         200
 
@@ -217,6 +223,8 @@ Easy
 - [414] Third Maximum Number *
 - [448] Find All Numbers Disappeared in an Array
 - [485] Max Consecutive Ones *
+- [724] Find Pivot Index *
+- [747] Largest Number At Least Twice of Others *
 - [905] Sort Array By Parity *
 - [941] Valid Mountain Array *
 - [977] Squares of a Sorted Array *
@@ -250,6 +258,7 @@ Easy
 - [67] Add Binary *
 - [383] Ransom Note (May LeetCoding Challenge[Day3])
 - [387] First Unique Character in a String (May LeetCoding Challenge[Day5]) *
+- [434] Number of Segments in a String
 
 Medium
 - [49] Group Anagrams
@@ -337,6 +346,8 @@ Medium
 - [200] Number of Islands
 
 #### Depth-first Search
+Easy
+- [733] Flood Fill (May LeetCoding Challenge[Day11])
 Medium
 - [200] Number of Islands
 
@@ -450,7 +461,7 @@ Week 2: May 8th–May 14th
 - [Day8]: [1232] Check If It Is a Straight Line
 - [Day9]: [367] Valid Perfect Square
 - [Day10]: [997] Find the Town Judge
-- [Day11]: 
+- [Day11]: [733] Flood Fill
 - [Day12]: 
 - [Day13]: 
 - [Day14]: 
