@@ -49,6 +49,7 @@
 | 476  | Number Complement | Easy | Bit Manipulation  | | | 
 | 485  | Max Consecutive Ones | Easy | Array | | * | 
 | 525  | Contiguous Array | Medium | Hash Table | | | 
+| 540  | Single Element in a Sorted Array | Medium | (Array, Binary Search) | | (Array *) | 
 | 543  | Diameter of Binary Tree | Easy | Tree | | |
 | 560  | Subarray Sum Equals K | Medium | Array, Hash Table | | |
 | 678  | Valid Parenthesis String | Medium | String | | |
@@ -179,7 +180,7 @@
     - Easy:
         278, 367
     - Medium:
-        33
+        33, 540
 
 - Design:
     - Medium:
@@ -196,6 +197,7 @@
 - Graph:
     - Easy:
         997
+
 
 
 - ?????   
@@ -367,6 +369,7 @@ Easy
 - [367] Valid Perfect Square (May LeetCoding Challenge[Day9])
 Medium
 - [33] Search in Rotated Sorted Array (30-Day LeetCoding Challenge[Day19])
+- [540] Single Element in a Sorted Array (May LeetCoding Challenge[Day12])
 
 #### Design
 Medium
@@ -383,7 +386,6 @@ Easy
 #### Graph
 Easy
 - [997] Find the Town Judge (May LeetCoding Challenge[Day10])
-
 
 
 
@@ -462,7 +464,7 @@ Week 2: May 8th–May 14th
 - [Day9]: [367] Valid Perfect Square
 - [Day10]: [997] Find the Town Judge
 - [Day11]: [733] Flood Fill
-- [Day12]: 
+- [Day12]: [540] Single Element in a Sorted Array *
 - [Day13]: 
 - [Day14]: 
 

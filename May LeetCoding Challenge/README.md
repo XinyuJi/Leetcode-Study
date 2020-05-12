@@ -25,3 +25,6 @@
 
 ## Day11: [733] Flood Fill
 [Solution](https://www.bilibili.com/video/BV1HZ4y1p7vH)
+
+## Day12: [540] Single Element in a Sorted Array *
+[Solution](https://leetcode.com/problems/single-element-in-a-sorted-array/discuss/628036/Python-Binary-Search-O(logn)-explained)
