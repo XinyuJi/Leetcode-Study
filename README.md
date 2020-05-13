@@ -43,6 +43,7 @@
 | 367  | Valid Perfect Square | Easy | Math, Binary Search| | | 
 | 383  | Ransom Note | Easy | String | | | 
 | 387  | First Unique Character in a String | Easy | String, Hash Table | | * | 
+| 402  | Remove K Digits | Medium | Stack, Greedy | |  | 
 | 414  | Third Maximum Number | Easy | Array | | * | 
 | 434  | Number of Segments in a String | Easy | String | | | 
 | 448  | Find All Numbers Disappeared in an Array | Easy | Array | | | 
@@ -125,6 +126,8 @@
  - Stack
     - Easy:
         20, 155, 844
+    - Medium:
+        402
 
 - Hash Table
     - Easy:
@@ -170,7 +173,7 @@
 
 - Greedy:
     - Medium:
-        1414
+        402, 1414
 
 - Dynamic Programming:
     - Medium:
@@ -310,6 +313,8 @@ Easy
 - [20] Valid Parentheses (stack video)
 - [155] Min Stack (30-Day LeetCoding Challenge[Day10])
 - [844] Backspace String Compare (30-Day LeetCoding Challenge[Day9])
+Medium
+- [402] Remove K Digits (May LeetCoding Challenge[Day13])
 
 #### Two Pointers
 Easy
@@ -355,6 +360,7 @@ Medium
 
 #### Greedy
 Medium
+- [402] Remove K Digits (May LeetCoding Challenge[Day13])
 - [1414] Find the Minimum Number of Fibonacci Numbers Whose Sum Is K (Biweekly Contest 24)
 
 #### Dynamic Programming
@@ -465,7 +471,7 @@ Week 2: May 8th–May 14th
 - [Day10]: [997] Find the Town Judge
 - [Day11]: [733] Flood Fill
 - [Day12]: [540] Single Element in a Sorted Array *
-- [Day13]: 
+- [Day13]: [402] Remove K Digits
 - [Day14]: 
 
 Week 3: May 15th–May 21st

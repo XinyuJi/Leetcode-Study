@@ -28,3 +28,6 @@
 
 ## Day12: [540] Single Element in a Sorted Array *
 [Solution](https://leetcode.com/problems/single-element-in-a-sorted-array/discuss/628036/Python-Binary-Search-O(logn)-explained)
+
+## Day13: [402] Remove K Digits
+[Solution](https://www.bilibili.com/video/BV1PV411C79X)
