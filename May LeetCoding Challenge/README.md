@@ -31,3 +31,9 @@
 
 ## Day13: [402] Remove K Digits
 [Solution](https://www.bilibili.com/video/BV1PV411C79X)
+
+## Day14: [208] Implement Trie (Prefix Tree)
+[Solution](https://www.bilibili.com/video/BV1Zz4y1R7j8)
+
+## Day15: [918] Maximum Sum Circular Subarray
+[Solution](https://www.bilibili.com/video/BV1c5411s7jZ)

@@ -33,6 +33,7 @@
 | 200  | Number of Islands | Medium | Depth-first Search, Union Find | Breadth-first Search | | 
 | 201  | Bitwise AND of Numbers Range | Medium | Bit Manipulation | | | 
 | 202  | Happy Number | Easy | Math | Hash Table | | 
+| 208  | Implement Trie (Prefix Tree) | Medium | Design, Trie | | * (not Trie) | 
 | 221  | Maximal Square | Medium | Dynamic Programming | | | 
 | 238  | Product of Array Except Self | Medium | Array | | | 
 | 242  | Valid Anagram | Easy | Sort | Hash Table | * | 
@@ -61,6 +62,7 @@
 | 844  | Backspace String Compare | Easy | Stack | Two Pointers | | 
 | 876  | Middle of the Linked List | Easy | Linked List | | | 
 | 905  | Sort Array By Parity | Easy | Array | | * | 
+| 918  | Maximum Sum Circular Subarray | Medium | Array | | | 
 | 941  | Valid Mountain Array | Easy | Array | | * | 
 | 977  | Squares of a Sorted Array | Easy | Array | | * | 
 | 993  | Cousins in Binary Tree | Easy | Tree, Breadth-first Search | | |
@@ -103,7 +105,7 @@
         121, 122, 167, 169, 283, 414, 448, 485, 724, 747, 905, 941, 977, 
         1051, 1089, 1232, 1295, 1299, 1346, 1351, 1365, 1389, 1394, 1399, 1413, 1431
     - Medium:
-        33, 55, 64, 238, 560, 1414
+        33, 55, 64, 238, 560, 918, 1414
 
 - String
     - Easy: 
@@ -187,7 +189,7 @@
 
 - Design:
     - Medium:
-        146
+        146, 208
 
 - Geometry:
     - Easy:
@@ -201,6 +203,9 @@
     - Easy:
         997
 
+- Trie:
+    - Medium:
+        208
 
 
 - ?????   
@@ -254,6 +259,7 @@ Medium
 - [55] Jump Game (30-Day LeetCoding Challenge[Day25])
 - [238] Product of Array Except Self (30-Day LeetCoding Challenge[Day15])
 - [560] Subarray Sum Equals K (30-Day LeetCoding Challenge[Day22])
+- [918] Maximum Sum Circular Subarray (May LeetCoding Challenge[Day15])
 
 #### String
 Easy
@@ -380,6 +386,7 @@ Medium
 #### Design
 Medium
 - [146] LRU Cache (30-Day LeetCoding Challenge[Day24])
+- [208] Implement Trie (Prefix Tree) (May LeetCoding Challenge[Day14]) *
 
 #### Geometry
 Easy
@@ -393,7 +400,9 @@ Easy
 Easy
 - [997] Find the Town Judge (May LeetCoding Challenge[Day10])
 
-
+#### Trie
+Medium
+- [208] Implement Trie (Prefix Tree) (May LeetCoding Challenge[Day14]) *
 
 #### ?
 - Counting Elements (30-Day LeetCoding Challenge[Day7])
@@ -472,10 +481,10 @@ Week 2: May 8th–May 14th
 - [Day11]: [733] Flood Fill
 - [Day12]: [540] Single Element in a Sorted Array *
 - [Day13]: [402] Remove K Digits
-- [Day14]: 
+- [Day14]: [208] Implement Trie (Prefix Tree) *
 
 Week 3: May 15th–May 21st
-- [Day15]: 
+- [Day15]: [918] Maximum Sum Circular Subarray
 - [Day16]: 
 - [Day17]: 
 - [Day18]: 
