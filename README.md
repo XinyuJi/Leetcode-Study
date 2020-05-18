@@ -92,6 +92,11 @@
 | 1414 | Find the Minimum Number of Fibonacci Numbers Whose Sum Is K | Medium | Array, Greedy |  |  | 
 | 1431 | Kids With the Greatest Number of Candies | Easy | Array |  | * | 
 | 1432 | Max Difference You Can Get From Changing an Integer | Medium | String |  |  | 
+| 1441 | Build an Array With Stack Operations | Easy | Stack |  | * | 
+| 1446 | Consecutive Characters | Easy | String |  | * | 
+| 1450 | Number of Students Doing Homework at a Given Time | Easy | Array |  | * | 
+
+
 
 ?
 - Counting Elements
@@ -106,13 +111,13 @@
     - Easy: 
         1, 26, 27, 35, 53, 66, 88, 
         121, 122, 167, 169, 283, 414, 448, 485, 724, 747, 905, 941, 977, 
-        1051, 1089, 1232, 1295, 1299, 1346, 1351, 1365, 1389, 1394, 1399, 1413, 1431
+        1051, 1089, 1232, 1295, 1299, 1346, 1351, 1365, 1389, 1394, 1399, 1413, 1431, 1450
     - Medium:
         33, 55, 64, 238, 560, 918, 1414
 
 - String
     - Easy: 
-        13, 20, 58, 67, 383, 387, 434
+        13, 20, 58, 67, 383, 387, 434, 1446
     - Medium:
         49, 678, 1432
 
@@ -130,7 +135,7 @@
  
  - Stack
     - Easy:
-        20, 155, 844
+        20, 155, 844, 1441
     - Medium:
         402
 
@@ -263,6 +268,7 @@ Easy
 - [1413] Minimum Value to Get Positive Step by Step Sum (Biweekly Contest 24) *
 - [1414] Find the Minimum Number of Fibonacci Numbers Whose Sum Is K (Biweekly Contest 24)
 - [1431] Kids With the Greatest Number of Candies (Biweekly Contest 25) *
+- [1450] Number of Students Doing Homework at a Given Time *
 
 
 Medium
@@ -281,6 +287,7 @@ Easy
 - [383] Ransom Note (May LeetCoding Challenge[Day3])
 - [387] First Unique Character in a String (May LeetCoding Challenge[Day5]) *
 - [434] Number of Segments in a String
+- [1446] Consecutive Characters *
 
 Medium
 - [49] Group Anagrams
@@ -331,6 +338,7 @@ Easy
 - [20] Valid Parentheses (stack video)
 - [155] Min Stack (30-Day LeetCoding Challenge[Day10])
 - [844] Backspace String Compare (30-Day LeetCoding Challenge[Day9])
+- [1441] Build an Array With Stack Operations *
 Medium
 - [402] Remove K Digits (May LeetCoding Challenge[Day13])
 
