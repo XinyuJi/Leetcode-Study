@@ -47,6 +47,7 @@
 | 402  | Remove K Digits | Medium | Stack, Greedy | |  | 
 | 414  | Third Maximum Number | Easy | Array | | * | 
 | 434  | Number of Segments in a String | Easy | String | | | 
+| 438  | Find All Anagrams in a String | Medium | Hash Table | | | 
 | 448  | Find All Numbers Disappeared in an Array | Easy | Array | | | 
 | 476  | Number Complement | Easy | Bit Manipulation  | | | 
 | 485  | Max Consecutive Ones | Easy | Array | | * | 
@@ -135,7 +136,7 @@
     - Easy:
         1, 136, 387, 771
     - Medium:
-        49, 525, 560
+        49, 438, 525, 560
 
 - Two Pointers
     - Easy:
@@ -307,6 +308,7 @@ Easy
 - [1] Two Sum
 - [136] Single Number
 - [387] First Unique Character in a String (May LeetCoding Challenge[Day5]) *
+- [438] Find All Anagrams in a String (May LeetCoding Challenge[Day17])
 - [771] Jewels and Stones (May LeetCoding Challenge[Day2]) *
 
 Medium
@@ -486,7 +488,7 @@ Week 2: May 8th–May 14th
 Week 3: May 15th–May 21st
 - [Day15]: [918] Maximum Sum Circular Subarray
 - [Day16]: 
-- [Day17]: 
+- [Day17]: [438] Find All Anagrams in a String
 - [Day18]: 
 - [Day19]: 
 - [Day20]: 
