@@ -43,3 +43,6 @@
 ## Day17: [438] Find All Anagrams in a String
 [Solution](https://www.bilibili.com/video/BV1254y1X7HV)
 [Solution2:Dictionary](https://leetcode.com/problems/find-all-anagrams-in-a-string/discuss/425720/Python-dictionary-unrolling)
+
+## Day18: [567] Permutation in String *
+(same as Day17)

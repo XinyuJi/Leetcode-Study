@@ -55,6 +55,7 @@
 | 540  | Single Element in a Sorted Array | Medium | (Array, Binary Search) | | (Array *) | 
 | 543  | Diameter of Binary Tree | Easy | Tree | | |
 | 560  | Subarray Sum Equals K | Medium | Array, Hash Table | | |
+| 567  | Permutation in String | Medium | Two Pointers, Sliding Window | | * |
 | 678  | Valid Parenthesis String | Medium | String | | |
 | 724  | Find Pivot Index | Easy | Array | | * |
 | 733  | Flood Fill | Easy | Depth-first Search | | |
@@ -141,6 +142,8 @@
 - Two Pointers
     - Easy:
         26, 27, 167, 183
+    - Medium:
+        567
 
 - Linked List
     - Easy:
@@ -207,6 +210,10 @@
 - Trie:
     - Medium:
         208
+
+- Sliding Window:
+    - Medium:
+        567
 
 
 - ?????   
@@ -330,6 +337,8 @@ Easy
 - [27]  Remove Element
 - [167] Best Time to Buy and Sell Stock
 - [283] Move Zeroes
+Medium
+- [567] Permutation in String (May LeetCoding Challenge[Day18]) *
 
 #### Linked List
 Easy
@@ -405,6 +414,11 @@ Easy
 #### Trie
 Medium
 - [208] Implement Trie (Prefix Tree) (May LeetCoding Challenge[Day14]) *
+
+#### Sliding Window
+Medium
+- [567] Permutation in String (May LeetCoding Challenge[Day18]) *
+
 
 #### ?
 - Counting Elements (30-Day LeetCoding Challenge[Day7])
@@ -489,7 +503,7 @@ Week 3: May 15th–May 21st
 - [Day15]: [918] Maximum Sum Circular Subarray
 - [Day16]: 
 - [Day17]: [438] Find All Anagrams in a String
-- [Day18]: 
+- [Day18]: [567] Permutation in String *
 - [Day19]: 
 - [Day20]: 
 - [Day21]: 
