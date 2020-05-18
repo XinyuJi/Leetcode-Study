@@ -41,6 +41,7 @@
 | 263  | Ugly Number | Easy | Math | | | 
 | 278  | First Bad Version | Easy | Binary Search | | | 
 | 283  | Move Zeroes | Easy | Array, Two Pointers | | * | 
+| 328  | Odd Even Linked List | Medium | Linked List | |  | 
 | 367  | Valid Perfect Square | Easy | Math, Binary Search| | | 
 | 383  | Ransom Note | Easy | String | | | 
 | 387  | First Unique Character in a String | Easy | String, Hash Table | | * | 
@@ -148,6 +149,8 @@
 - Linked List
     - Easy:
         876
+    - Medium:
+        328
 
 - Sort
     - Easy:
@@ -343,6 +346,8 @@ Medium
 #### Linked List
 Easy
 - [876] Middle of the Linked List (30-Day LeetCoding Challenge[Day8])
+Medium
+- [328] Odd Even Linked List (May LeetCoding Challenge[Day16])
 
 #### Sort
 Easy
@@ -501,7 +506,7 @@ Week 2: May 8th–May 14th
 
 Week 3: May 15th–May 21st
 - [Day15]: [918] Maximum Sum Circular Subarray
-- [Day16]: 
+- [Day16]: [328] Odd Even Linked List
 - [Day17]: [438] Find All Anagrams in a String
 - [Day18]: [567] Permutation in String *
 - [Day19]: 

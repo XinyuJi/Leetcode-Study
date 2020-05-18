@@ -38,7 +38,9 @@
 ## Day15: [918] Maximum Sum Circular Subarray
 [Solution](https://www.bilibili.com/video/BV1c5411s7jZ)
 
-## Day16:
+## Day16: [328] Odd Even Linked List
+[Solution](https://www.bilibili.com/video/BV1ag4y1B78z)
+[Solution](https://www.youtube.com/watch?v=UUw3H2khRa8)
 
 ## Day17: [438] Find All Anagrams in a String
 [Solution](https://www.bilibili.com/video/BV1254y1X7HV)
