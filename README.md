@@ -64,6 +64,7 @@
 | 771  | Jewels and Stones | Easy | Hash Table | | * |
 | 844  | Backspace String Compare | Easy | Stack | Two Pointers | | 
 | 876  | Middle of the Linked List | Easy | Linked List | | | 
+| 901  | Online Stock Span | Medium | Stack | | | 
 | 905  | Sort Array By Parity | Easy | Array | | * | 
 | 918  | Maximum Sum Circular Subarray | Medium | Array | | | 
 | 941  | Valid Mountain Array | Easy | Array | | * | 
@@ -137,7 +138,7 @@
     - Easy:
         20, 155, 844, 1441
     - Medium:
-        402
+        402, 901
 
 - Hash Table
     - Easy:
@@ -341,6 +342,7 @@ Easy
 - [1441] Build an Array With Stack Operations *
 Medium
 - [402] Remove K Digits (May LeetCoding Challenge[Day13])
+- [901] Online Stock Span (May LeetCoding Challenge[Day19])
 
 #### Two Pointers
 Easy
@@ -517,7 +519,7 @@ Week 3: May 15th–May 21st
 - [Day16]: [328] Odd Even Linked List
 - [Day17]: [438] Find All Anagrams in a String
 - [Day18]: [567] Permutation in String *
-- [Day19]: 
+- [Day19]: [901] Online Stock Span
 - [Day20]: 
 - [Day21]: 
 
