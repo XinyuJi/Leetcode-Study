@@ -51,3 +51,6 @@
 
 ## Day19: [901] Online Stock Span
 [Solution](https://www.bilibili.com/video/BV1Jg4y1B74H)
+
+## Day20: [230] Kth Smallest Element in a BST
+[Solution](https://www.bilibili.com/video/BV1ha4y1i7dZ)

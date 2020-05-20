@@ -35,6 +35,7 @@
 | 202  | Happy Number | Easy | Math | Hash Table | | 
 | 208  | Implement Trie (Prefix Tree) | Medium | Design, Trie | | * (not Trie) | 
 | 221  | Maximal Square | Medium | Dynamic Programming | | | 
+| 230  | Kth Smallest Element in a BST Solution | Medium | Tree, Binary Search | | | 
 | 238  | Product of Array Except Self | Medium | Array | | | 
 | 242  | Valid Anagram | Easy | Sort | Hash Table | * | 
 | 260  | Single Number III | Medium | Bit Manipulation | | * | 
@@ -166,7 +167,7 @@
     - Easy:
         543, 993
     - Medium:
-        1008
+        230, 1008
     - Hard:
         124
 
@@ -198,7 +199,7 @@
     - Easy:
         278, 367
     - Medium:
-        33, 540
+        33, 230, 540
 
 - Design:
     - Medium:
@@ -369,6 +370,7 @@ Easy
 - [993] Cousins in Binary Tree (May LeetCoding Challenge[Day7])
 
 Medium
+- [230] Kth Smallest Element in a BST Solution (May LeetCoding Challenge[Day20])
 - [1008] Construct Binary Search Tree from Preorder Traversal (30-Day LeetCoding Challenge[Day20])
 
 Hard
@@ -407,6 +409,7 @@ Easy
 - [367] Valid Perfect Square (May LeetCoding Challenge[Day9])
 Medium
 - [33] Search in Rotated Sorted Array (30-Day LeetCoding Challenge[Day19])
+- [230] Kth Smallest Element in a BST Solution (May LeetCoding Challenge[Day20])
 - [540] Single Element in a Sorted Array (May LeetCoding Challenge[Day12])
 
 #### Design
@@ -520,7 +523,7 @@ Week 3: May 15th–May 21st
 - [Day17]: [438] Find All Anagrams in a String
 - [Day18]: [567] Permutation in String *
 - [Day19]: [901] Online Stock Span
-- [Day20]: 
+- [Day20]: [230] Kth Smallest Element in a BST Solution
 - [Day21]: 
 
 Week 4: May 22nd–May 28th
