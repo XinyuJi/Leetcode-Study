@@ -54,3 +54,8 @@
 
 ## Day20: [230] Kth Smallest Element in a BST
 [Solution](https://www.bilibili.com/video/BV1ha4y1i7dZ)
+
+## Day21: [1277] Count Square Submatrices with All Ones
+[Solution](https://www.youtube.com/watch?v=ojz8xZc8pog)
+
+## Day22: [451] Sort Characters By Frequency

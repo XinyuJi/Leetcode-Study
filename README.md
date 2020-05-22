@@ -51,6 +51,7 @@
 | 434  | Number of Segments in a String | Easy | String | | | 
 | 438  | Find All Anagrams in a String | Medium | Hash Table | | | 
 | 448  | Find All Numbers Disappeared in an Array | Easy | Array | | | 
+| 451  | Sort Characters By Frequency | Medium | Hash Table | Heap | | 
 | 476  | Number Complement | Easy | Bit Manipulation  | | | 
 | 485  | Max Consecutive Ones | Easy | Array | | * | 
 | 525  | Contiguous Array | Medium | Hash Table | | | 
@@ -78,7 +79,8 @@
 | 1089  | Duplicate Zeros | Easy | Array | | * | 
 | 1143  | Longest Common Subsequence | Medium | Dynamic Programming | | | 
 | 1185 | Day of the Week | Easy | API | Array | | 
-| 1232 | Check If It Is a Straight Line | Easy | Array, Math, Geometry | | | 
+| 1232 | Check If It Is a Straight Line | Easy | Array, Math, Geometry | | |
+| 1277 | Count Square Submatrices with All Ones | Medium | Array, Dynamic Programming | | |
 | 1295 | Find Numbers with Even Number of Digits | Easy | Array |  | * |
 | 1299 | Replace Elements with Greatest Element on Right Side | Easy | Array |  | |
 | 1323 | Maximum 69 Number | Easy | Math |  | * | 
@@ -115,7 +117,7 @@
         121, 122, 167, 169, 283, 414, 448, 485, 724, 747, 905, 941, 977, 
         1051, 1089, 1232, 1295, 1299, 1346, 1351, 1365, 1389, 1394, 1399, 1413, 1431, 1450
     - Medium:
-        33, 55, 64, 238, 560, 918, 1414
+        33, 55, 64, 238, 560, 918, 1277, 1414
 
 - String
     - Easy: 
@@ -145,7 +147,7 @@
     - Easy:
         1, 136, 387, 771
     - Medium:
-        49, 438, 525, 560
+        49, 438, 451, 525, 560
 
 - Two Pointers
     - Easy:
@@ -193,7 +195,7 @@
 
 - Dynamic Programming:
     - Medium:
-        64, 221, 1143
+        64, 221, 1143, 1277
 
 - Binary Search:
     - Easy:
@@ -279,6 +281,7 @@ Medium
 - [238] Product of Array Except Self (30-Day LeetCoding Challenge[Day15])
 - [560] Subarray Sum Equals K (30-Day LeetCoding Challenge[Day22])
 - [918] Maximum Sum Circular Subarray (May LeetCoding Challenge[Day15])
+- [1277] Count Square Submatrices with All Ones (May LeetCoding Challenge[Day21])
 
 #### String
 Easy
@@ -332,6 +335,7 @@ Easy
 
 Medium
 - [49] Group Anagrams (30-Day LeetCoding Challenge[Day6]) *
+- [451] Sort Characters By Frequency (May LeetCoding Challenge[Day22])
 - [525] Contiguous Array (30-Day LeetCoding Challenge[Day13])
 - [560] Subarray Sum Equals K (30-Day LeetCoding Challenge[Day22])
 
@@ -400,8 +404,9 @@ Medium
 #### Dynamic Programming
 Medium
 - [64] Minimum Path Sum (30-Day LeetCoding Challenge[Day18])
-- [1143] Longest Common Subsequence (30-Day LeetCoding Challenge[Day26])
 - [221] Maximal Square (30-Day LeetCoding Challenge[Day27])
+- [1143] Longest Common Subsequence (30-Day LeetCoding Challenge[Day26])
+- [1277] Count Square Submatrices with All Ones (May LeetCoding Challenge[Day21])
 
 #### Binary Search
 Easy
@@ -524,10 +529,10 @@ Week 3: May 15th–May 21st
 - [Day18]: [567] Permutation in String *
 - [Day19]: [901] Online Stock Span
 - [Day20]: [230] Kth Smallest Element in a BST Solution
-- [Day21]: 
+- [Day21]: [1277] Count Square Submatrices with All Ones
 
 Week 4: May 22nd–May 28th
-- [Day22]: 
+- [Day22]: [451] Sort Characters By Frequency
 - [Day23]: 
 - [Day24]: 
 - [Day25]: 
