@@ -377,7 +377,7 @@ Easy
 
 Medium
 - [230] Kth Smallest Element in a BST Solution (May LeetCoding Challenge[Day20])
-- [1008] Construct Binary Search Tree from Preorder Traversal (30-Day LeetCoding Challenge[Day20])
+- [1008] Construct Binary Search Tree from Preorder Traversal (30-Day LeetCoding Challenge[Day20], May LeetCoding Challenge[Day24])
 
 Hard
 - [124] Binary Tree Maximum Path Sum (30-Day LeetCoding Challenge[Day29])
@@ -536,7 +536,7 @@ Week 3: May 15th–May 21st
 Week 4: May 22nd–May 28th
 - [Day22]: [451] Sort Characters By Frequency
 - [Day23]: [986] Interval List Intersections
-- [Day24]: 
+- [Day24]: [1008] Construct Binary Search Tree from Preorder Traversal
 - [Day25]: 
 - [Day26]: 
 - [Day27]: 
