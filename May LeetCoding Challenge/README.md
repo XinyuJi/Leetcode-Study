@@ -62,3 +62,13 @@
 
 ## Day23: [986] Interval List Intersections
 [Solution](https://www.bilibili.com/video/BV1wg4y1z7Xz)
+
+## Day24: [1008] Construct Binary Search Tree from Preorder Traversal
+与上个月重复
+
+## Day25: 【1035】Uncrossed Lines
+[Solution](https://www.bilibili.com/video/BV1si4y1s79e)
+
+## Day26: [525] Contiguous Array
+与上个月重复
+

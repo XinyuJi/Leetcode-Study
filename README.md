@@ -20,6 +20,7 @@
 | 64   | Minimum Path Sum | Medium | Array, Dynamic Programming | | | 
 | 66   | Plus One | Easy | Array | | * | 
 | 67   | Add Binary | Easy | Math, String | | * | 
+| 70   | Climbing Stairs | Easy | Dynamic Programming | | | 
 | 88   | Merge Sorted Array | Easy | Array | Two Pointers | * | 
 | 121  | Best Time to Buy and Sell Stock | Easy | Array | Dynamic Programming | | 
 | 122  | Best Time to Buy and Sell Stock II | Easy | Array | Greedy | | 
@@ -54,6 +55,7 @@
 | 451  | Sort Characters By Frequency | Medium | Hash Table | Heap | | 
 | 476  | Number Complement | Easy | Bit Manipulation  | | | 
 | 485  | Max Consecutive Ones | Easy | Array | | * | 
+| 509  | Fibonacci Number | Easy | Array | | * | 
 | 525  | Contiguous Array | Medium | Hash Table | | | 
 | 540  | Single Element in a Sorted Array | Medium | (Array, Binary Search) | | (Array *) | 
 | 543  | Diameter of Binary Tree | Easy | Tree | | |
@@ -75,6 +77,8 @@
 | 993  | Cousins in Binary Tree | Easy | Tree, Breadth-first Search | | |
 | 997  | Find the Town Judge | Easy | Graph | | |
 | 1008  | Construct Binary Search Tree from Preorder Traversal | Medium | Tree | | | 
+| 1025  | Divisor Game | Easy | Math | Dynamic Programming | | 
+| 1035  | Uncrossed Lines | Medium | Array (Dynamic Programming) |  | | 
 | 1046  | Last Stone Weight | Easy | Greedy | Heap | * | 
 | 1051  | Height Checker | Easy | Array | | * | 
 | 1089  | Duplicate Zeros | Easy | Array | | * | 
@@ -97,9 +101,11 @@
 | 1414 | Find the Minimum Number of Fibonacci Numbers Whose Sum Is K | Medium | Array, Greedy |  |  | 
 | 1431 | Kids With the Greatest Number of Candies | Easy | Array |  | * | 
 | 1432 | Max Difference You Can Get From Changing an Integer | Medium | String |  |  | 
+| 1436 | Destination City | Easy | String |  |  | 
 | 1441 | Build an Array With Stack Operations | Easy | Stack |  | * | 
 | 1446 | Consecutive Characters | Easy | String |  | * | 
 | 1450 | Number of Students Doing Homework at a Given Time | Easy | Array |  | * | 
+| 1455 | Check If a Word Occurs As a Prefix of Any Word in a Sentence | Easy | String |  | * | 
 
 
 
@@ -115,20 +121,26 @@
 - Array
     - Easy: 
         1, 26, 27, 35, 53, 66, 88, 
-        121, 122, 167, 169, 283, 414, 448, 485, 724, 747, 905, 941, 977, 
+        121, 122, 167, 169, 283, 414, 448, 485, 509, 724, 747, 905, 941, 977, 
         1051, 1089, 1232, 1295, 1299, 1346, 1351, 1365, 1389, 1394, 1399, 1413, 1431, 1450
     - Medium:
-        33, 55, 64, 238, 560, 918, 1277, 1414
+        33, 55, 64, 238, 560, 918, 1035, 1277, 1414
 
 - String
     - Easy: 
-        13, 20, 58, 67, 383, 387, 434, 1446
+        13, 20, 58, 67, 383, 387, 434, 1436, 1446, 1455
     - Medium:
         49, 678, 1432
 
+- Dynamic Programming:
+    - Easy:
+        70
+    - Medium:
+        64, 221, 1143, 1277
+
 - Math
     - Easy:
-        7, 9, 13, 67, 202, 263, 367, 1232, 1323
+        7, 9, 13, 67, 202, 263, 367, 1025, 1232, 1323
     - Medium:
         1344
 
@@ -194,10 +206,6 @@
     - Medium:
         402, 1414
 
-- Dynamic Programming:
-    - Medium:
-        64, 221, 1143, 1277
-
 - Binary Search:
     - Easy:
         278, 367
@@ -254,6 +262,7 @@ Easy
 - [414] Third Maximum Number *
 - [448] Find All Numbers Disappeared in an Array
 - [485] Max Consecutive Ones *
+- [509] Fibonacci Number *
 - [724] Find Pivot Index *
 - [747] Largest Number At Least Twice of Others *
 - [905] Sort Array By Parity *
@@ -282,6 +291,7 @@ Medium
 - [238] Product of Array Except Self (30-Day LeetCoding Challenge[Day15])
 - [560] Subarray Sum Equals K (30-Day LeetCoding Challenge[Day22])
 - [918] Maximum Sum Circular Subarray (May LeetCoding Challenge[Day15])
+- [1035] Uncrossed Lines (May LeetCoding Challenge[Day25])
 - [1277] Count Square Submatrices with All Ones (May LeetCoding Challenge[Day21])
 
 #### String
@@ -293,12 +303,23 @@ Easy
 - [383] Ransom Note (May LeetCoding Challenge[Day3])
 - [387] First Unique Character in a String (May LeetCoding Challenge[Day5]) *
 - [434] Number of Segments in a String
+- [1436] Destination City
 - [1446] Consecutive Characters *
+- [1455] Check If a Word Occurs As a Prefix of Any Word in a Sentence *
 
 Medium
 - [49] Group Anagrams
 - [678] Valid Parenthesis String (30-Day LeetCoding Challenge[Day16])
 - [1432] Max Difference You Can Get From Changing an Integer (Biweekly Contest 25)
+
+#### Dynamic Programming
+Easy
+- [70] Climbing Stairs
+Medium
+- [64] Minimum Path Sum (30-Day LeetCoding Challenge[Day18])
+- [221] Maximal Square (30-Day LeetCoding Challenge[Day27])
+- [1143] Longest Common Subsequence (30-Day LeetCoding Challenge[Day26])
+- [1277] Count Square Submatrices with All Ones (May LeetCoding Challenge[Day21])
 
 #### Math
 Easy
@@ -309,6 +330,7 @@ Easy
 - [202] Happy Number (30-Day LeetCoding Challenge[Day2])
 - [263] Ugly Number
 - [367] Valid Perfect Square (May LeetCoding Challenge[Day9])
+- [1025] Divisor Game
 - [1232] Check If It Is a Straight Line (May LeetCoding Challenge[Day8])
 - [1323] Maximum 69 Number *
 
@@ -337,7 +359,7 @@ Easy
 Medium
 - [49] Group Anagrams (30-Day LeetCoding Challenge[Day6]) *
 - [451] Sort Characters By Frequency (May LeetCoding Challenge[Day22])
-- [525] Contiguous Array (30-Day LeetCoding Challenge[Day13])
+- [525] Contiguous Array (30-Day LeetCoding Challenge[Day13], May LeetCoding Challenge[Day26])
 - [560] Subarray Sum Equals K (30-Day LeetCoding Challenge[Day22])
 
 #### Stack
@@ -402,13 +424,6 @@ Medium
 Medium
 - [402] Remove K Digits (May LeetCoding Challenge[Day13])
 - [1414] Find the Minimum Number of Fibonacci Numbers Whose Sum Is K (Biweekly Contest 24)
-
-#### Dynamic Programming
-Medium
-- [64] Minimum Path Sum (30-Day LeetCoding Challenge[Day18])
-- [221] Maximal Square (30-Day LeetCoding Challenge[Day27])
-- [1143] Longest Common Subsequence (30-Day LeetCoding Challenge[Day26])
-- [1277] Count Square Submatrices with All Ones (May LeetCoding Challenge[Day21])
 
 #### Binary Search
 Easy
@@ -537,8 +552,8 @@ Week 4: May 22nd–May 28th
 - [Day22]: [451] Sort Characters By Frequency
 - [Day23]: [986] Interval List Intersections
 - [Day24]: [1008] Construct Binary Search Tree from Preorder Traversal
-- [Day25]: 
-- [Day26]: 
+- [Day25]: [1035] Uncrossed Lines
+- [Day26]: [525] Contiguous Array
 - [Day27]: 
 - [Day28]: 
 
