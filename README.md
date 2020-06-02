@@ -36,7 +36,9 @@
 | 202  | Happy Number | Easy | Math | Hash Table | | 
 | 208  | Implement Trie (Prefix Tree) | Medium | Design, Trie | | * (not Trie) | 
 | 221  | Maximal Square | Medium | Dynamic Programming | | | 
+| 226  | Invert Binary Tree | Easy | Tree | | | 
 | 230  | Kth Smallest Element in a BST Solution | Medium | Tree, Binary Search | | | 
+| 237  | Delete Node in a Linked List | Easy | Linked List | | | 
 | 238  | Product of Array Except Self | Medium | Array | | | 
 | 242  | Valid Anagram | Easy | Sort | Hash Table | * | 
 | 260  | Single Number III | Medium | Bit Manipulation | | * | 
@@ -170,7 +172,7 @@
 
 - Linked List
     - Easy:
-        876
+        237, 876
     - Medium:
         328
 
@@ -180,7 +182,7 @@
 
 - Tree
     - Easy:
-        543, 993
+        226, 543, 993
     - Medium:
         230, 1008
     - Hard:
@@ -384,6 +386,7 @@ Medium
 
 #### Linked List
 Easy
+- [237] Delete Node in a Linked List (June LeetCoding Challenge[Day2])
 - [876] Middle of the Linked List (30-Day LeetCoding Challenge[Day8])
 Medium
 - [328] Odd Even Linked List (May LeetCoding Challenge[Day16])
@@ -394,6 +397,7 @@ Easy
 
 #### Tree
 Easy
+- [226] Invert Binary Tree (June LeetCoding Challenge[Day1])
 - [543] Diameter of Binary Tree (30-Day LeetCoding Challenge[Day11])
 - [993] Cousins in Binary Tree (May LeetCoding Challenge[Day7])
 
@@ -561,3 +565,13 @@ Week 5: May 29th–May 31st
 - [Day29]: 
 - [Day30]: 
 - [Day31]:
+
+### June LeetCoding Challenge
+Week 1: June 1st–June 7th
+- [Day1]: [226] Invert Binary Tree
+- [Day2]: [237] Delete Node in a Linked List
+- [Day3]: 
+- [Day4]: 
+- [Day5]: 
+- [Day6]: 
+- [Day7]: 
