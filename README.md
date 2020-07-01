@@ -53,6 +53,7 @@
 | 414  | Third Maximum Number | Easy | Array | | * | 
 | 434  | Number of Segments in a String | Easy | String | | | 
 | 438  | Find All Anagrams in a String | Medium | Hash Table | | | 
+| 441  | Arranging Coins | Easy | Math | Binary Search | | 
 | 448  | Find All Numbers Disappeared in an Array | Easy | Array | | | 
 | 451  | Sort Characters By Frequency | Medium | Hash Table | Heap | | 
 | 476  | Number Complement | Easy | Bit Manipulation  | | | 
@@ -142,7 +143,7 @@
 
 - Math
     - Easy:
-        7, 9, 13, 67, 202, 263, 367, 1025, 1232, 1323
+        7, 9, 13, 67, 202, 263, 367, 441, 1025, 1232, 1323
     - Medium:
         1344
 
@@ -332,6 +333,7 @@ Easy
 - [202] Happy Number (30-Day LeetCoding Challenge[Day2])
 - [263] Ugly Number
 - [367] Valid Perfect Square (May LeetCoding Challenge[Day9])
+- [441] Arranging Coins (July LeetCoding Challenge[Day1])
 - [1025] Divisor Game
 - [1232] Check If It Is a Straight Line (May LeetCoding Challenge[Day8])
 - [1323] Maximum 69 Number *
@@ -570,6 +572,16 @@ Week 5: May 29th–May 31st
 Week 1: June 1st–June 7th
 - [Day1]: [226] Invert Binary Tree
 - [Day2]: [237] Delete Node in a Linked List
+- [Day3]: 
+- [Day4]: 
+- [Day5]: 
+- [Day6]: 
+- [Day7]: 
+
+### July LeetCoding Challenge
+Week 1: July 1st–July 7th
+- [Day1]: [441] Arranging Coins
+- [Day2]: 
 - [Day3]: 
 - [Day4]: 
 - [Day5]: 
