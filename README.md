@@ -22,6 +22,7 @@
 | 67   | Add Binary | Easy | Math, String | | * | 
 | 70   | Climbing Stairs | Easy | Dynamic Programming | | | 
 | 88   | Merge Sorted Array | Easy | Array | Two Pointers | * | 
+| 107  | Binary Tree Level Order Traversal II | Easy | Tree, Breadth-first Search | | | 
 | 121  | Best Time to Buy and Sell Stock | Easy | Array | Dynamic Programming | | 
 | 122  | Best Time to Buy and Sell Stock II | Easy | Array | Greedy | | 
 | 124  | Binary Tree Maximum Path Sum | Hard | Tree | Depth-first Search | | 
@@ -56,6 +57,7 @@
 | 441  | Arranging Coins | Easy | Math | Binary Search | | 
 | 448  | Find All Numbers Disappeared in an Array | Easy | Array | | | 
 | 451  | Sort Characters By Frequency | Medium | Hash Table | Heap | | 
+| 461  | Hamming Distance | Easy | Bit Manipulation | | | 
 | 476  | Number Complement | Easy | Bit Manipulation  | | | 
 | 485  | Max Consecutive Ones | Easy | Array | | * | 
 | 509  | Fibonacci Number | Easy | Array | | * | 
@@ -149,7 +151,7 @@
 
 - Bit Manipulation
     - Easy:
-        136, 476, 1342
+        136, 461, 476, 1342
     - Medium
         137, 201, 260
  
@@ -183,7 +185,7 @@
 
 - Tree
     - Easy:
-        226, 543, 993
+        107, 226, 543, 993
     - Medium:
         230, 1008
     - Hard:
@@ -195,7 +197,7 @@
 
 - Breadth-first Search
     - Easy:
-        993
+        107, 993
     - Medium:
         200
 
@@ -344,6 +346,7 @@ Medium
 #### Bit Manipulation
 Easy
 - [136] Single Number (30-Day LeetCoding Challenge[Day1])
+- [461] Hamming Distance (July LeetCoding Challenge[Day4])
 - [476] Number Complement (May LeetCoding Challenge[Day4])
 - [1342] Number of Steps to Reduce a Number to Zero (Biweekly Contest 19) *
 
@@ -399,6 +402,7 @@ Easy
 
 #### Tree
 Easy
+- [107] Binary Tree Level Order Traversal II (June LeetCoding Challenge[Day2])
 - [226] Invert Binary Tree (June LeetCoding Challenge[Day1])
 - [543] Diameter of Binary Tree (30-Day LeetCoding Challenge[Day11])
 - [993] Cousins in Binary Tree (May LeetCoding Challenge[Day7])
@@ -416,6 +420,7 @@ Medium
 
 #### Breadth-first Search
 Easy
+- [107] Binary Tree Level Order Traversal II (June LeetCoding Challenge[Day2])
 - [993] Cousins in Binary Tree (May LeetCoding Challenge[Day7])
 Medium
 - [200] Number of Islands
@@ -581,9 +586,9 @@ Week 1: June 1st–June 7th
 ### July LeetCoding Challenge
 Week 1: July 1st–July 7th
 - [Day1]: [441] Arranging Coins
-- [Day2]: 
+- [Day2]: [107] Binary Tree Level Order Traversal II
 - [Day3]: 
-- [Day4]: 
+- [Day4]: [461] Hamming Distance
 - [Day5]: 
 - [Day6]: 
 - [Day7]: 
