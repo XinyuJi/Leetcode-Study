@@ -91,6 +91,7 @@
 | 1185 | Day of the Week | Easy | API | Array | | 
 | 1232 | Check If It Is a Straight Line | Easy | Array, Math, Geometry | | |
 | 1277 | Count Square Submatrices with All Ones | Medium | Array, Dynamic Programming | | |
+| 1290 | Convert Binary Number in a Linked List to Integer | Easy | Linked List, Bit Manipulation | | |
 | 1295 | Find Numbers with Even Number of Digits | Easy | Array |  | * |
 | 1299 | Replace Elements with Greatest Element on Right Side | Easy | Array |  | |
 | 1323 | Maximum 69 Number | Easy | Math |  | * | 
@@ -151,7 +152,7 @@
 
 - Bit Manipulation
     - Easy:
-        136, 461, 476, 1342
+        136, 461, 476, 1290, 1342
     - Medium
         137, 201, 260
  
@@ -175,7 +176,7 @@
 
 - Linked List
     - Easy:
-        237, 876
+        237, 876, 1290
     - Medium:
         328
 
@@ -348,6 +349,7 @@ Easy
 - [136] Single Number (30-Day LeetCoding Challenge[Day1])
 - [461] Hamming Distance (July LeetCoding Challenge[Day4])
 - [476] Number Complement (May LeetCoding Challenge[Day4])
+- [1290] Convert Binary Number in a Linked List to Integer (November LeetCoding Challenge[Day1])
 - [1342] Number of Steps to Reduce a Number to Zero (Biweekly Contest 19) *
 
 Medium
@@ -393,6 +395,7 @@ Medium
 Easy
 - [237] Delete Node in a Linked List (June LeetCoding Challenge[Day2])
 - [876] Middle of the Linked List (30-Day LeetCoding Challenge[Day8])
+- [1290] Convert Binary Number in a Linked List to Integer (November LeetCoding Challenge[Day1])
 Medium
 - [328] Odd Even Linked List (May LeetCoding Challenge[Day16])
 
@@ -589,6 +592,16 @@ Week 1: July 1st–July 7th
 - [Day2]: [107] Binary Tree Level Order Traversal II
 - [Day3]: 
 - [Day4]: [461] Hamming Distance
+- [Day5]: 
+- [Day6]: 
+- [Day7]: 
+
+### November LeetCoding Challenge
+Week 1: November 1st-November 7th
+- [Day1]: [1290] Convert Binary Number in a Linked List to Integer
+- [Day2]: 
+- [Day3]: 
+- [Day4]: 
 - [Day5]: 
 - [Day6]: 
 - [Day7]: 
