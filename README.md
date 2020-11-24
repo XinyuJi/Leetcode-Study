@@ -55,6 +55,7 @@
 | 434  | Number of Segments in a String | Easy | String | | | 
 | 438  | Find All Anagrams in a String | Medium | Hash Table | | | 
 | 441  | Arranging Coins | Easy | Math | Binary Search | | 
+| 443  | String Compression | Medium | String | | | 
 | 448  | Find All Numbers Disappeared in an Array | Easy | Array | | | 
 | 451  | Sort Characters By Frequency | Medium | Hash Table | Heap | | 
 | 461  | Hamming Distance | Easy | Bit Manipulation | | | 
@@ -136,7 +137,7 @@
     - Easy: 
         13, 20, 58, 67, 383, 387, 434, 1436, 1446, 1455
     - Medium:
-        49, 678, 1432
+        49, 443, 678, 1432
 
 - Dynamic Programming:
     - Easy:
@@ -315,6 +316,7 @@ Easy
 
 Medium
 - [49] Group Anagrams
+- [443] String Compression
 - [678] Valid Parenthesis String (30-Day LeetCoding Challenge[Day16])
 - [1432] Max Difference You Can Get From Changing an Integer (Biweekly Contest 25)
 
