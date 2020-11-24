@@ -2,6 +2,7 @@
 Runtime: 44 ms, faster than 47.94% of Python online submissions for String Compression.
 Memory Usage: 13.6 MB, less than 93.07% of Python online submissions for String Compression.
 """
+
 class Solution(object):
     def compress(self, chars):
         """
