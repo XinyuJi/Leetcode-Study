@@ -70,6 +70,7 @@
 | 560  | Subarray Sum Equals K | Medium | Array, Hash Table | | |
 | 567  | Permutation in String | Medium | Two Pointers, Sliding Window | | * |
 | 678  | Valid Parenthesis String | Medium | String | | |
+| 722  | Remove Comments | Medium | String | | |
 | 724  | Find Pivot Index | Easy | Array | | * |
 | 733  | Flood Fill | Easy | Depth-first Search | | |
 | 747  | Largest Number At Least Twice of Others | Easy | Array | | * |
@@ -141,7 +142,7 @@
     - Easy: 
         13, 20, 58, 67, 383, 387, 434, 1436, 1446, 1455
     - Medium:
-        49, 443, 678, 1432
+        49, 443, 678, 722，1432
 
 - Dynamic Programming:
     - Easy:
@@ -328,6 +329,7 @@ Medium
 - [49] Group Anagrams
 - [443] String Compression
 - [678] Valid Parenthesis String (30-Day LeetCoding Challenge[Day16])
+- [722] Remove Comments
 - [1432] Max Difference You Can Get From Changing an Integer (Biweekly Contest 25)
 
 #### Dynamic Programming
