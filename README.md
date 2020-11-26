@@ -13,6 +13,7 @@
 | 27   | Remove Element | Easy | Array, Two Pointers | | * | 
 | 33   | Search in Rotated Sorted Array | Medium | Array, Binary Search | | *(Array) | 
 | 35   | Search Insert Position | Easy | Array |Binary Search| * | 
+| 42   | Trapping Rain Water | Hard | Array, Two Pointers | Stack |  |
 | 49   | Group Anagrams | Medium | String, Hash Table | | * | 
 | 53   | Maximum Subarray | Easy | Array | Divide and Conquer, Dynamic Programming | | 
 | 55   | Jump Game | Medium | Array | Greedy | | 
@@ -36,6 +37,7 @@
 | 201  | Bitwise AND of Numbers Range | Medium | Bit Manipulation | | | 
 | 202  | Happy Number | Easy | Math | Hash Table | | 
 | 208  | Implement Trie (Prefix Tree) | Medium | Design, Trie | | * (not Trie) | 
+| 209  | Minimum Size Subarray Sum | Medium | Array, Two Pointers, Binary Search | |  |
 | 221  | Maximal Square | Medium | Dynamic Programming | | | 
 | 226  | Invert Binary Tree | Easy | Tree | | | 
 | 230  | Kth Smallest Element in a BST Solution | Medium | Tree, Binary Search | | | 
@@ -131,7 +133,9 @@
         121, 122, 167, 169, 283, 414, 448, 485, 509, 724, 747, 905, 941, 977, 
         1051, 1089, 1232, 1295, 1299, 1346, 1351, 1365, 1389, 1394, 1399, 1413, 1431, 1450
     - Medium:
-        33, 55, 64, 238, 560, 918, 1035, 1277, 1414
+        33, 55, 64, 209, 238, 560, 918, 1035, 1277, 1414
+    - Hard:
+        42
 
 - String
     - Easy: 
@@ -173,7 +177,9 @@
     - Easy:
         26, 27, 167, 183
     - Medium:
-        567, 923
+        209, 567, 923
+    - Hard:
+        42
 
 - Linked List
     - Easy:
@@ -295,11 +301,15 @@ Easy
 Medium
 - [33] Search in Rotated Sorted Array *
 - [55] Jump Game (30-Day LeetCoding Challenge[Day25])
+- [209] Minimum Size Subarray Sum
 - [238] Product of Array Except Self (30-Day LeetCoding Challenge[Day15])
 - [560] Subarray Sum Equals K (30-Day LeetCoding Challenge[Day22])
 - [918] Maximum Sum Circular Subarray (May LeetCoding Challenge[Day15])
 - [1035] Uncrossed Lines (May LeetCoding Challenge[Day25])
 - [1277] Count Square Submatrices with All Ones (May LeetCoding Challenge[Day21])
+
+Hard
+- [42] Trapping Rain Water
 
 #### String
 Easy
@@ -390,8 +400,11 @@ Easy
 - [167] Best Time to Buy and Sell Stock
 - [283] Move Zeroes
 Medium
+- [209] Minimum Size Subarray Sum
 - [567] Permutation in String (May LeetCoding Challenge[Day18]) *
 - [986] Interval List Intersections (May LeetCoding Challenge[Day23])
+Hard
+- [42] Trapping Rain Water
 
 #### Linked List
 Easy
