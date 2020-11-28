@@ -6,4 +6,5 @@
 |?| [4](https://medium.com/@hch.hkcontact/goldman-sachs-top-50-leetcode-questions-q4-game-of-life-673ab73646c3)| 289 |[ Game of Life](https://leetcode.com/problems/climbing-stairs/) | Medium | Array | | |
 |❌| [5](https://medium.com/@hch.hkcontact/goldman-sachs-top-50-leetcode-questions-q5-remove-comments-879a91a482e2)| 722 |[Remove Comments](https://leetcode.com/problems/remove-comments/) | Medium | String | | |
 |?| [6](https://medium.com/@hch.hkcontact/goldman-sachs-top-50-leetcode-questions-q6-knight-probability-in-chessboard-34b74a4acdb3)| 688 |[Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/) | Medium | Dynamic Programming | | |
-
+| | [7](https://medium.com/@hch.hkcontact/goldman-sachs-top-50-leetcode-questions-q7-high-five-a933247c219a)| 688 |[Hive Five]() | Easy |  | | |
+| | [8](https://medium.com/@hch.hkcontact/goldman-sachs-top-50-leetcode-questions-q7-high-five-a933247c219a)| 387 |[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | Hash Table, String  | | |
