@@ -8,3 +8,4 @@
 |?| [6](https://medium.com/@hch.hkcontact/goldman-sachs-top-50-leetcode-questions-q6-knight-probability-in-chessboard-34b74a4acdb3)| 688 |[Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/) | Medium | Dynamic Programming | | |
 | | [7](https://medium.com/@hch.hkcontact/goldman-sachs-top-50-leetcode-questions-q7-high-five-a933247c219a)| 688 |[Hive Five]() | Easy |  | | |
 | | [8](https://medium.com/@hch.hkcontact/goldman-sachs-top-50-leetcode-questions-q7-high-five-a933247c219a)| 387 |[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | Hash Table, String  | | |
+| | [9](https://medium.com/@hch.hkcontact/goldman-sachs-top-50-leetcode-questions-q7-high-five-a933247c219a)| 592 |[Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/) | Medium | Math  | | |
