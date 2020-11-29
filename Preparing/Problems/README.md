@@ -17,5 +17,6 @@
 <!-- | | [15](https://medium.com/@hch.hkcontact/goldman-sachs-top-50-leetcode-questions-q15-design-hashmap-966007fd9bb6)| 166 |[Design Hashmap](https://leetcode.com/problems/design-hashmap/) | Easy|   | | | -->
 | | [16](https://medium.com/@hch.hkcontact/goldman-sachs-top-50-leetcode-questions-q16-product-of-array-except-self-d2371cb3ca42)| 238 |[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | Array  | | |
 | | [17](https://medium.com/@hch.hkcontact/goldman-sachs-top-50-leetcode-questions-q17-find-minimum-in-rotated-sorted-array-cf666f7f7a6a)| 153 |[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | Array, Binary Search  | | |
-
+| | [17.5]()| 33 |[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | Array, Binary Search  | | |
+| | [18](https://medium.com/@hch.hkcontact/goldman-sachs-top-50-leetcode-questions-q18-string-to-integer-atoi-8bd7f142784f)| 8 |[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | Medium | Math, String  | | |
 <!-- | | []()| 4 |[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | Array, Binary Search, Divide and Conquer | | | -->
