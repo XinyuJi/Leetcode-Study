@@ -33,33 +33,3 @@ class Solution(object):
         if m == 0 and n > 0:
             nums1[:n] = nums2[:n]
 
-######################################################################
-#443. String Compression
-
-class Solution(object):
-    def compress(self, chars):
-        """
-        :type chars: List[str]
-        :rtype: int
-        """
-        walker = 0
-        runner = 0
-        
-        if len(chars) == 1:
-            return 1
-        
-        while runner < len(chars):
-            chars[walker] = chars[runner]
-            count = 1
-            while runner + 1 < len(chars) and chars[runner] == chars[runner+1]:
-                count += 1
-                runner += 1
-            if count > 1:
-                for i in str(count):
-                    chars[walker+1] = i
-                    walker += 1
-            
-            walker += 1
-            runner += 1
-            
-        return walker
