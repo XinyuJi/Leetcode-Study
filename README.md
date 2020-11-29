@@ -30,6 +30,7 @@
 | 136  | Single Number | Easy | Hash Table, Bit Manipulation | | | 
 | 137  | Single Number II | Medium | Bit Manipulation | | | 
 | 146  | LRU Cache | Medium | Design | | | 
+| 153  | Find Minimum in Rotated Sorted Array | Medium | Array, Binary Search | | | 
 | 155  | Min Stack | Easy | Stack, Design | | | 
 | 167  | Best Time to Buy and Sell Stock | Easy | Array, Two Pointers | Binary Search | | 
 | 169  | Majority Element | Easy | Array | Divide and Conquer, Bit Manipulation | * | 
@@ -134,7 +135,7 @@
         121, 122, 167, 169, 283, 414, 448, 485, 509, 724, 747, 905, 941, 977, 
         1051, 1089, 1232, 1295, 1299, 1346, 1351, 1365, 1389, 1394, 1399, 1413, 1431, 1450
     - Medium:
-        33, 55, 64, 209, 238, 560, 918, 1035, 1277, 1414
+        33, 55, 64, 153, 209, 238, 560, 918, 1035, 1277, 1414
     - Hard:
         42
 
@@ -224,7 +225,7 @@
     - Easy:
         278, 367
     - Medium:
-        33, 230, 540
+        33, 153, 230, 540
 
 - Design:
     - Medium:
@@ -302,6 +303,7 @@ Easy
 Medium
 - [33] Search in Rotated Sorted Array *
 - [55] Jump Game (30-Day LeetCoding Challenge[Day25])
+- [153] Find Minimum in Rotated Sorted Array 
 - [209] Minimum Size Subarray Sum
 - [238] Product of Array Except Self (30-Day LeetCoding Challenge[Day15])
 - [560] Subarray Sum Equals K (30-Day LeetCoding Challenge[Day22])
