@@ -19,7 +19,10 @@
 | | [17](https://medium.com/@hch.hkcontact/goldman-sachs-top-50-leetcode-questions-q17-find-minimum-in-rotated-sorted-array-cf666f7f7a6a)| 153 |[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | Array, Binary Search  | | |
 | | [17.5]()| 33 |[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | Array, Binary Search  | | |
 | | [18](https://medium.com/@hch.hkcontact/goldman-sachs-top-50-leetcode-questions-q18-string-to-integer-atoi-8bd7f142784f)| 8 |[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | Medium | Math, String  | | |
-
-
+| | [19](https://medium.com/@hch.hkcontact/goldman-sachs-top-50-leetcode-questions-q19-container-with-most-water-75ba0e261392)| 11 |[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | Array, Two Pointers  | | |
+| | [20](https://medium.com/@hch.hkcontact/goldman-sachs-top-50-leetcode-questions-q20-lru-cache-ea5fe23f4f5c)| 146 |[LRU Cache](https://leetcode.com/problems/lru-cache/) | Medium | Design | | |
+| | [21](https://medium.com/@hch.hkcontact/goldman-sachs-top-50-leetcode-questions-q21-minimum-path-sum-43c112f9f25e)| 64 |[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Medium | Array, Dynamic Programming | | |
+| | [22](https://medium.com/@hch.hkcontact/goldman-sachs-top-50-leetcode-questions-q21-pairs-of-songs-with-total-durations-divisible-by-60-4c578f1223f)| 1010 |[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | Easy | Array | | |
+| | [23]()| 54 |[Spiral Matrix](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | Medium | Array | | |
 
 <!-- | | []()| 4 |[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | Array, Binary Search, Divide and Conquer | | | -->

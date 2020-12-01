@@ -6,7 +6,9 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | 
 | 1    | Two Sum | Easy | Array, Hash Table | | | 
 | 7    | Reverse Integer | Easy | Math | | | 
+| 8    | String to Integer (atoi) | Medium | Math, String | | | 
 | 9    | Palindrome Number | Easy | Math | | | 
+| 11   | Container With Most Water | Medium | Array, Two Pointers | | | 
 | 13   | Roman to Integer | Easy | Math, String | | | 
 | 20   | Valid Parentheses | Easy | String, Stack | | | 
 | 26   | Remove Duplicates from Sorted Array | Easy | Array, Two Pointers | | * | 
@@ -16,6 +18,7 @@
 | 42   | Trapping Rain Water | Hard | Array, Two Pointers | Stack |  |
 | 49   | Group Anagrams | Medium | String, Hash Table | | * | 
 | 53   | Maximum Subarray | Easy | Array | Divide and Conquer, Dynamic Programming | | 
+| 54   | Spiral Matrix | Medium | Array |  | | 
 | 55   | Jump Game | Medium | Array | Greedy | | 
 | 58   | Length of Last Word | Easy | String | | | 
 | 64   | Minimum Path Sum | Medium | Array, Dynamic Programming | | | 
@@ -87,6 +90,7 @@
 | 993  | Cousins in Binary Tree | Easy | Tree, Breadth-first Search | | |
 | 997  | Find the Town Judge | Easy | Graph | | |
 | 1008  | Construct Binary Search Tree from Preorder Traversal | Medium | Tree | | | 
+| 1010  | Pairs of Songs With Total Durations Divisible by 60 | Easy | Array | | | 
 | 1025  | Divisor Game | Easy | Math | Dynamic Programming | | 
 | 1035  | Uncrossed Lines | Medium | Array (Dynamic Programming) |  | | 
 | 1046  | Last Stone Weight | Easy | Greedy | Heap | * | 
@@ -132,10 +136,10 @@
 - Array
     - Easy: 
         1, 26, 27, 35, 53, 66, 88, 
-        121, 122, 167, 169, 283, 414, 448, 485, 509, 724, 747, 905, 941, 977, 
-        1051, 1089, 1232, 1295, 1299, 1346, 1351, 1365, 1389, 1394, 1399, 1413, 1431, 1450
+        121, 122, 167, 169, 283, 414, 448, 485, 509, 724, 747, 905, 941, 977,  
+        1010, 1051, 1089, 1232, 1295, 1299, 1346, 1351, 1365, 1389, 1394, 1399, 1413, 1431, 1450
     - Medium:
-        33, 55, 64, 153, 209, 238, 560, 918, 1035, 1277, 1414
+        11, 33, 54, 55, 64, 153, 209, 238, 560, 918, 1035, 1277, 1414
     - Hard:
         42
 
@@ -143,7 +147,7 @@
     - Easy: 
         13, 20, 58, 67, 383, 387, 434, 1436, 1446, 1455
     - Medium:
-        49, 443, 678, 722，1432
+        8, 49, 443, 678, 722，1432
 
 - Dynamic Programming:
     - Easy:
@@ -155,7 +159,7 @@
     - Easy:
         7, 9, 13, 67, 202, 263, 367, 441, 1025, 1232, 1323
     - Medium:
-        1344
+        8, 1344
 
 - Bit Manipulation
     - Easy:
@@ -179,7 +183,7 @@
     - Easy:
         26, 27, 167, 183
     - Medium:
-        209, 567, 923
+        11, 209, 567, 923
     - Hard:
         42
 
@@ -283,6 +287,7 @@ Easy
 - [905] Sort Array By Parity *
 - [941] Valid Mountain Array *
 - [977] Squares of a Sorted Array *
+- [1010] Pairs of Songs With Total Durations Divisible by 60
 - [1051] Height Checker *
 - [1089] Duplicate Zeros *
 - [1232] Check If It Is a Straight Line (May LeetCoding Challenge[Day8])
@@ -301,7 +306,9 @@ Easy
 
 
 Medium
+- [11] Container With Most Water
 - [33] Search in Rotated Sorted Array *
+- [54] Spiral Matrix
 - [55] Jump Game (30-Day LeetCoding Challenge[Day25])
 - [153] Find Minimum in Rotated Sorted Array 
 - [209] Minimum Size Subarray Sum
@@ -328,6 +335,7 @@ Easy
 - [1455] Check If a Word Occurs As a Prefix of Any Word in a Sentence *
 
 Medium
+- [8]String to Integer (atoi)
 - [49] Group Anagrams
 - [443] String Compression
 - [678] Valid Parenthesis String (30-Day LeetCoding Challenge[Day16])
@@ -358,6 +366,7 @@ Easy
 - [1323] Maximum 69 Number *
 
 Medium
+- [8]String to Integer (atoi)
 - [1344] Angle Between Hands of a Clock (Biweekly Contest 19)
 
 #### Bit Manipulation
@@ -404,6 +413,7 @@ Easy
 - [167] Best Time to Buy and Sell Stock
 - [283] Move Zeroes
 Medium
+- [11] Container With Most Water
 - [209] Minimum Size Subarray Sum
 - [567] Permutation in String (May LeetCoding Challenge[Day18]) *
 - [986] Interval List Intersections (May LeetCoding Challenge[Day23])

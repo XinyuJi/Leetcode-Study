@@ -1,8 +1,3 @@
-"""
-Runtime: 72 ms, faster than 90.13% of Python online submissions for Minimum Path Sum.
-Memory Usage: 14.7 MB, less than 76.00% of Python online submissions for Minimum Path Sum.
-"""
-
 class Solution(object):
     def minPathSum(self, grid):
         """
