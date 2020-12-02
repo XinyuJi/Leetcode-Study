@@ -53,6 +53,7 @@
 | 278  | First Bad Version | Easy | Binary Search | | | 
 | 283  | Move Zeroes | Easy | Array, Two Pointers | | * | 
 | 328  | Odd Even Linked List | Medium | Linked List | |  | 
+| 340  | Longest Substring with At Most K Distinct Characters | Hard | Hash Table, Two Pointers, Sliding Window | |  | 
 | 367  | Valid Perfect Square | Easy | Math, Binary Search| | | 
 | 383  | Ransom Note | Easy | String | | | 
 | 387  | First Unique Character in a String | Easy | String, Hash Table | | * | 
@@ -87,6 +88,7 @@
 | 923  | Interval List Intersections | Medium | Two Pointers | | | 
 | 941  | Valid Mountain Array | Easy | Array | | * | 
 | 977  | Squares of a Sorted Array | Easy | Array | | * | 
+| 992  | Subarrays with K Different Integers | Hard | Hash Table, Two Pointers, Sliding Window | |  | 
 | 993  | Cousins in Binary Tree | Easy | Tree, Breadth-first Search | | |
 | 997  | Find the Town Judge | Easy | Graph | | |
 | 1008  | Construct Binary Search Tree from Preorder Traversal | Medium | Tree | | | 
@@ -178,6 +180,8 @@
         1, 136, 387, 771
     - Medium:
         49, 438, 451, 525, 560
+    - Hard:
+        340, 992
 
 - Two Pointers
     - Easy:
@@ -185,7 +189,7 @@
     - Medium:
         11, 209, 567, 923
     - Hard:
-        42
+        42, 340, 992
 
 - Linked List
     - Easy:
@@ -254,6 +258,8 @@
 - Sliding Window:
     - Medium:
         567
+    - Hard:
+        340, 992
 
 
 - ?????   
@@ -396,6 +402,10 @@ Medium
 - [525] Contiguous Array (30-Day LeetCoding Challenge[Day13], May LeetCoding Challenge[Day26])
 - [560] Subarray Sum Equals K (30-Day LeetCoding Challenge[Day22])
 
+Hard
+- [340] Longest Substring with At Most K Distinct Characters
+- [992] Subarrays with K Different Integers
+
 #### Stack
 Easy
 - [20] Valid Parentheses (stack video)
@@ -419,6 +429,8 @@ Medium
 - [986] Interval List Intersections (May LeetCoding Challenge[Day23])
 Hard
 - [42] Trapping Rain Water
+- [340] Longest Substring with At Most K Distinct Characters
+- [992] Subarrays with K Different Integers
 
 #### Linked List
 Easy
@@ -501,6 +513,10 @@ Medium
 #### Sliding Window
 Medium
 - [567] Permutation in String (May LeetCoding Challenge[Day18]) *
+
+Hard
+- [340] Longest Substring with At Most K Distinct Characters
+- [992] Subarrays with K Different Integers
 
 
 #### ?
