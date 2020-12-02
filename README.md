@@ -32,6 +32,7 @@
 | 124  | Binary Tree Maximum Path Sum | Hard | Tree | Depth-first Search | | 
 | 136  | Single Number | Easy | Hash Table, Bit Manipulation | | | 
 | 137  | Single Number II | Medium | Bit Manipulation | | | 
+| 141  | Linked List Cycle | Easy | Linked List, Two Pointers | | | 
 | 146  | LRU Cache | Medium | Design | | | 
 | 153  | Find Minimum in Rotated Sorted Array | Medium | Array, Binary Search | | | 
 | 155  | Min Stack | Easy | Stack, Design | | | 
@@ -185,7 +186,7 @@
 
 - Two Pointers
     - Easy:
-        26, 27, 167, 183
+        26, 27, 141, 167, 183
     - Medium:
         11, 209, 567, 923
     - Hard:
@@ -193,7 +194,7 @@
 
 - Linked List
     - Easy:
-        237, 876, 1290
+        141, 237, 876, 1290
     - Medium:
         328
 
@@ -420,6 +421,7 @@ Medium
 Easy
 - [26]  Remove Duplicates from Sorted Array
 - [27]  Remove Element
+- [141] Linked List Cycle
 - [167] Best Time to Buy and Sell Stock
 - [283] Move Zeroes
 Medium
@@ -434,6 +436,7 @@ Hard
 
 #### Linked List
 Easy
+- [141] Linked List Cycle
 - [237] Delete Node in a Linked List (June LeetCoding Challenge[Day2])
 - [876] Middle of the Linked List (30-Day LeetCoding Challenge[Day8])
 - [1290] Convert Binary Number in a Linked List to Integer (November LeetCoding Challenge[Day1])
