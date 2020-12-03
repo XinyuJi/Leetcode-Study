@@ -24,7 +24,8 @@
 | | [21](https://medium.com/@hch.hkcontact/goldman-sachs-top-50-leetcode-questions-q21-minimum-path-sum-43c112f9f25e)| 64 |[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Medium | Array, Dynamic Programming | | |
 | | [22](https://medium.com/@hch.hkcontact/goldman-sachs-top-50-leetcode-questions-q21-pairs-of-songs-with-total-durations-divisible-by-60-4c578f1223f)| 1010 |[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | Easy | Array | | |
 | | [23]()| 54 |[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium | Array | | |
-| | [24]()| 992 |[Subarrays with K Different Integers](https://leetcode.com/problems/spiral-matrix/) | Medium | Array | | |
+| | [24](https://leetcode.com/problems/subarrays-with-k-different-integers/discuss/523136/JavaC%2B%2BPython-Sliding-Window)| 992 |[Subarrays with K Different Integers](https://leetcode.com/problems/spiral-matrix/) | Medium | Array | | |
 | | [24.1](https://www.youtube.com/watch?v=xSRktgNwHKw&ab_channel=HappyCoding)| 340 |[Longest Substring with At Most K Distinct Characters]() | Hard | Array | | |
-
+| | [25]()| 141 |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | Linked List, Two Pointers | | |
+| | [26]()| 33 |[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | Array, Binary Search | | |
 <!-- | | []()| 4 |[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | Array, Binary Search, Divide and Conquer | | | -->
