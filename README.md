@@ -26,6 +26,7 @@
 | 67   | Add Binary | Easy | Math, String | | * | 
 | 70   | Climbing Stairs | Easy | Dynamic Programming | | | 
 | 88   | Merge Sorted Array | Easy | Array | Two Pointers | * | 
+| 91   | Decode Ways | Medium | String, Dynamic Programming | |  | 
 | 107  | Binary Tree Level Order Traversal II | Easy | Tree, Breadth-first Search | | | 
 | 121  | Best Time to Buy and Sell Stock | Easy | Array | Dynamic Programming | | 
 | 122  | Best Time to Buy and Sell Stock II | Easy | Array | Greedy | | 
@@ -150,13 +151,13 @@
     - Easy: 
         13, 20, 58, 67, 383, 387, 434, 1436, 1446, 1455
     - Medium:
-        8, 49, 443, 678, 722，1432
+        8, 49, 91, 443, 678, 722，1432
 
 - Dynamic Programming:
     - Easy:
         70
     - Medium:
-        64, 221, 1143, 1277
+        64, 91, 221, 1143, 1277
 
 - Math
     - Easy:
@@ -344,6 +345,7 @@ Easy
 Medium
 - [8]String to Integer (atoi)
 - [49] Group Anagrams
+- [91] Decode Ways
 - [443] String Compression
 - [678] Valid Parenthesis String (30-Day LeetCoding Challenge[Day16])
 - [722] Remove Comments
@@ -354,6 +356,7 @@ Easy
 - [70] Climbing Stairs
 Medium
 - [64] Minimum Path Sum (30-Day LeetCoding Challenge[Day18])
+- [91] Decode Ways
 - [221] Maximal Square (30-Day LeetCoding Challenge[Day27])
 - [1143] Longest Common Subsequence (30-Day LeetCoding Challenge[Day26])
 - [1277] Count Square Submatrices with All Ones (May LeetCoding Challenge[Day21])
@@ -628,11 +631,6 @@ Week 5: May 29th–May 31st
 Week 1: June 1st–June 7th
 - [Day1]: [226] Invert Binary Tree
 - [Day2]: [237] Delete Node in a Linked List
-- [Day3]: 
-- [Day4]: 
-- [Day5]: 
-- [Day6]: 
-- [Day7]: 
 
 ### July LeetCoding Challenge
 Week 1: July 1st–July 7th
@@ -640,16 +638,7 @@ Week 1: July 1st–July 7th
 - [Day2]: [107] Binary Tree Level Order Traversal II
 - [Day3]: 
 - [Day4]: [461] Hamming Distance
-- [Day5]: 
-- [Day6]: 
-- [Day7]: 
 
 ### November LeetCoding Challenge
 Week 1: November 1st-November 7th
 - [Day1]: [1290] Convert Binary Number in a Linked List to Integer
-- [Day2]: 
-- [Day3]: 
-- [Day4]: 
-- [Day5]: 
-- [Day6]: 
-- [Day7]: 
