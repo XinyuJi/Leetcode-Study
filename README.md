@@ -55,6 +55,7 @@
 | 278  | First Bad Version | Easy | Binary Search | | | 
 | 283  | Move Zeroes | Easy | Array, Two Pointers | | * | 
 | 328  | Odd Even Linked List | Medium | Linked List | |  | 
+| 332  | Reconstruct Itinerary | Medium | Depth-first Search, Graph | |  | 
 | 340  | Longest Substring with At Most K Distinct Characters | Hard | Hash Table, Two Pointers, Sliding Window | |  | 
 | 367  | Valid Perfect Square | Easy | Math, Binary Search| | | 
 | 383  | Ransom Note | Easy | String | | | 
@@ -225,7 +226,7 @@
     - Easy:
         733
     - Medium:
-        200
+        200, 332
 
 - Greedy:
     - Medium:
@@ -252,6 +253,8 @@
 - Graph:
     - Easy:
         997
+    - Medium:
+        332
 
 - Trie:
     - Medium:
@@ -480,6 +483,7 @@ Easy
 - [733] Flood Fill (May LeetCoding Challenge[Day11])
 Medium
 - [200] Number of Islands
+- [332] Reconstruct Itinerary
 
 #### Greedy
 Medium
@@ -511,6 +515,9 @@ Easy
 #### Graph
 Easy
 - [997] Find the Town Judge (May LeetCoding Challenge[Day10])
+
+Medium
+- [332] Reconstruct Itinerary
 
 #### Trie
 Medium
