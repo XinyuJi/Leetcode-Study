@@ -28,4 +28,5 @@
 | | [24.1](https://www.youtube.com/watch?v=xSRktgNwHKw&ab_channel=HappyCoding)| 340 |[Longest Substring with At Most K Distinct Characters]() | Hard | Array | | |
 | | [25]()| 141 |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | Linked List, Two Pointers | | |
 | | [26]()| 33 |[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | Array, Binary Search | | |
+| | [27](https://www.youtube.com/watch?v=W4rYz-kd-cY&ab_channel=Knapsak)| 91 |[Decode Ways](https://leetcode.com/problems/decode-ways/) | Medium | String, Dynamic Programming | | |
 <!-- | | []()| 4 |[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | Array, Binary Search, Divide and Conquer | | | -->
