@@ -56,6 +56,7 @@
 | 263  | Ugly Number | Easy | Math | | | 
 | 278  | First Bad Version | Easy | Binary Search | | | 
 | 283  | Move Zeroes | Easy | Array, Two Pointers | | * | 
+| 322  | Coin Change | Medium | Dynamic Programming | |  | 
 | 328  | Odd Even Linked List | Medium | Linked List | |  | 
 | 332  | Reconstruct Itinerary | Medium | Depth-first Search, Graph | |  | 
 | 340  | Longest Substring with At Most K Distinct Characters | Hard | Hash Table, Two Pointers, Sliding Window | |  | 
@@ -160,7 +161,7 @@
     - Easy:
         70
     - Medium:
-        64, 91, 221, 1143, 1277
+        64, 91, 221, 322, 1143, 1277
 
 - Math
     - Easy:
@@ -366,6 +367,7 @@ Medium
 - [64] Minimum Path Sum (30-Day LeetCoding Challenge[Day18])
 - [91] Decode Ways
 - [221] Maximal Square (30-Day LeetCoding Challenge[Day27])
+- [322] Coin Change
 - [1143] Longest Common Subsequence (30-Day LeetCoding Challenge[Day26])
 - [1277] Count Square Submatrices with All Ones (May LeetCoding Challenge[Day21])
 
