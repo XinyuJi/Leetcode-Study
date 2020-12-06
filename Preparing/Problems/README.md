@@ -6,7 +6,7 @@
 |?| [4](https://medium.com/@hch.hkcontact/goldman-sachs-top-50-leetcode-questions-q4-game-of-life-673ab73646c3)| 289 |[ Game of Life](https://leetcode.com/problems/climbing-stairs/) | Medium | Array | | |
 |❌| [5](https://medium.com/@hch.hkcontact/goldman-sachs-top-50-leetcode-questions-q5-remove-comments-879a91a482e2)| 722 |[Remove Comments](https://leetcode.com/problems/remove-comments/) | Medium | String | | |
 |?| [6](https://medium.com/@hch.hkcontact/goldman-sachs-top-50-leetcode-questions-q6-knight-probability-in-chessboard-34b74a4acdb3)| 688 |[Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/) | Medium | Dynamic Programming | | |
-| | [7](https://medium.com/@hch.hkcontact/goldman-sachs-top-50-leetcode-questions-q7-high-five-a933247c219a)| 688 |[Hive Five]() | Easy |  | | |
+| | [7](https://medium.com/@hch.hkcontact/goldman-sachs-top-50-leetcode-questions-q7-high-five-a933247c219a)| 1086 |[Hive Five]() | Easy |  | | |
 | | [8](https://medium.com/@hch.hkcontact/goldman-sachs-top-50-leetcode-questions-q7-high-five-a933247c219a)| 387 |[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | Hash Table, String  | | |
 | | [9](https://medium.com/@hch.hkcontact/goldman-sachs-top-50-leetcode-questions-q9-fraction-addition-and-subtraction-eed82a3e3fd3)| 592 |[Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/) | Medium | Math  | | |
 | | [10](https://medium.com/@hch.hkcontact/goldman-sachs-top-50-leetcode-questions-q10-string-compression-a2dc0c3c99be)| 443 |[String Compression](https://leetcode.com/problems/string-compression/) | Medium | String  | |O(1)|
@@ -28,7 +28,7 @@
 | | [24.1](https://www.youtube.com/watch?v=xSRktgNwHKw&ab_channel=HappyCoding)| 340 |[Longest Substring with At Most K Distinct Characters]() | Hard | Array | | |
 | | [25]()| 141 |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | Linked List, Two Pointers | | |
 | | [26]()| 33 |[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | Array, Binary Search | | |
-| | [27](https://www.youtube.com/watch?v=W4rYz-kd-cY&ab_channel=Knapsak)| 91 |[Decode Ways](https://leetcode.com/problems/decode-ways/) | Medium | String, Dynamic Programming | | |
+|1 | [27](https://www.youtube.com/watch?v=W4rYz-kd-cY&ab_channel=Knapsak)| 91 |[Decode Ways](https://leetcode.com/problems/decode-ways/) | Medium | String, Dynamic Programming | | |
 | | [28]()| 332 |[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | Medium | Depth-first Search, Graph | | |
 | | [29]()| 200 |[Numbers of Island](https://leetcode.com/problems/number-of-islands/) | Medium | Depth-first Search, Breadth-first Search, Union Find | | |
 | | [30]()| 240 |[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | Medium | Binary Search, Divide and Conquer | | |
