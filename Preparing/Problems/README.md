@@ -30,4 +30,8 @@
 | | [26]()| 33 |[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | Array, Binary Search | | |
 | | [27](https://www.youtube.com/watch?v=W4rYz-kd-cY&ab_channel=Knapsak)| 91 |[Decode Ways](https://leetcode.com/problems/decode-ways/) | Medium | String, Dynamic Programming | | |
 | | [28]()| 332 |[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | Medium | Depth-first Search, Graph | | |
+| | [29]()| 200 |[Numbers of Island](https://leetcode.com/problems/number-of-islands/) | Medium | Depth-first Search, Breadth-first Search, Union Find | | |
+| | [30]()| 240 |[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | Medium | Binary Search, Divide and Conquer | | |
+| | [30]()| 78 |[Subsets](https://leetcode.com/problems/subsets/) | Medium | Array, Backtracing, Bit Manipulation | | |
+| | [31]()| 322 |[Coin Change](https://leetcode.com/problems/coin-change/) | Medium | Binary Search, Divide and Conquer | | |
 <!-- | | []()| 4 |[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | Array, Binary Search, Divide and Conquer | | | -->

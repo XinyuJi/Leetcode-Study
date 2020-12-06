@@ -25,6 +25,7 @@
 | 66   | Plus One | Easy | Array | | * | 
 | 67   | Add Binary | Easy | Math, String | | * | 
 | 70   | Climbing Stairs | Easy | Dynamic Programming | | | 
+| 78   | Subsets | Medium | Array, Backtracing, Bit Manipulation | | | 
 | 88   | Merge Sorted Array | Easy | Array | Two Pointers | * | 
 | 91   | Decode Ways | Medium | String, Dynamic Programming | |  | 
 | 107  | Binary Tree Level Order Traversal II | Easy | Tree, Breadth-first Search | | | 
@@ -49,6 +50,7 @@
 | 230  | Kth Smallest Element in a BST Solution | Medium | Tree, Binary Search | | | 
 | 237  | Delete Node in a Linked List | Easy | Linked List | | | 
 | 238  | Product of Array Except Self | Medium | Array | | | 
+| 240  | Search a 2D Matrix II | Medium | Binary Search, Divide and Conquer | | | 
 | 242  | Valid Anagram | Easy | Sort | Hash Table | * | 
 | 260  | Single Number III | Medium | Bit Manipulation | | * | 
 | 263  | Ugly Number | Easy | Math | | | 
@@ -236,7 +238,7 @@
     - Easy:
         278, 367
     - Medium:
-        33, 153, 230, 540
+        33, 153, 230, 240, 540
 
 - Design:
     - Medium:
@@ -266,6 +268,9 @@
     - Hard:
         340, 992
 
+ - Divide and Conquer:
+    - Medium:
+        240
 
 - ?????   
 - Counting Elements
@@ -497,6 +502,7 @@ Easy
 Medium
 - [33] Search in Rotated Sorted Array (30-Day LeetCoding Challenge[Day19])
 - [230] Kth Smallest Element in a BST Solution (May LeetCoding Challenge[Day20])
+- [240] Search a 2D Matrix II
 - [540] Single Element in a Sorted Array (May LeetCoding Challenge[Day12])
 
 #### Design
@@ -531,6 +537,9 @@ Hard
 - [340] Longest Substring with At Most K Distinct Characters
 - [992] Subarrays with K Different Integers
 
+#### Divide and Conquer
+Medium
+- [240] Search a 2D Matrix II
 
 #### ?
 - Counting Elements (30-Day LeetCoding Challenge[Day7])
