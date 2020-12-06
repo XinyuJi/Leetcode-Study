@@ -94,6 +94,7 @@
 | 923  | Interval List Intersections | Medium | Two Pointers | | | 
 | 941  | Valid Mountain Array | Easy | Array | | * | 
 | 977  | Squares of a Sorted Array | Easy | Array | | * | 
+| 983  | Minimum Cost For Tickets | Medium | Dynamic Programming | | | 
 | 992  | Subarrays with K Different Integers | Hard | Hash Table, Two Pointers, Sliding Window | |  | 
 | 993  | Cousins in Binary Tree | Easy | Tree, Breadth-first Search | | |
 | 997  | Find the Town Judge | Easy | Graph | | |
@@ -161,7 +162,7 @@
     - Easy:
         70
     - Medium:
-        64, 91, 221, 322, 1143, 1277
+        64, 91, 221, 322, 983, 1143, 1277
 
 - Math
     - Easy:
@@ -368,6 +369,7 @@ Medium
 - [91] Decode Ways
 - [221] Maximal Square (30-Day LeetCoding Challenge[Day27])
 - [322] Coin Change
+- [983] Minimum Cost For Tickets
 - [1143] Longest Common Subsequence (30-Day LeetCoding Challenge[Day26])
 - [1277] Count Square Submatrices with All Ones (May LeetCoding Challenge[Day21])
 

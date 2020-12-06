@@ -1,3 +1,8 @@
+"""
+Runtime: 1104 ms, faster than 66.74% of Python online submissions for Coin Change.
+Memory Usage: 13.7 MB, less than 92.09% of Python online submissions for Coin Change.
+"""
+
 class Solution(object):
     def coinChange(self, coins, amount):
         """
