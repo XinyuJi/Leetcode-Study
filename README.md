@@ -130,6 +130,7 @@
 | 1446 | Consecutive Characters | Easy | String |  | * | 
 | 1450 | Number of Students Doing Homework at a Given Time | Easy | Array |  | * | 
 | 1455 | Check If a Word Occurs As a Prefix of Any Word in a Sentence | Easy | String |  | * | 
+| 1512 | Number of Good Pairs | Easy | Array, Hash Table, Math |  |  | 
 
 
 
@@ -146,7 +147,7 @@
     - Easy: 
         1, 26, 27, 35, 53, 66, 88, 
         121, 122, 167, 169, 283, 414, 448, 485, 509, 724, 747, 905, 941, 977,  
-        1010, 1051, 1089, 1232, 1295, 1299, 1346, 1351, 1365, 1389, 1394, 1399, 1413, 1431, 1450
+        1010, 1051, 1089, 1232, 1295, 1299, 1346, 1351, 1365, 1389, 1394, 1399, 1413, 1431, 1450, 1512
     - Medium:
         11, 33, 54, 55, 64, 153, 209, 238, 560, 918, 1035, 1277, 1414
     - Hard:
@@ -166,7 +167,7 @@
 
 - Math
     - Easy:
-        7, 9, 13, 67, 202, 263, 367, 441, 1025, 1232, 1323
+        7, 9, 13, 67, 202, 263, 367, 441, 1025, 1232, 1323, 1512
     - Medium:
         8, 1344
 
@@ -184,7 +185,7 @@
 
 - Hash Table
     - Easy:
-        1, 136, 387, 771
+        1, 136, 387, 771, 1512
     - Medium:
         49, 438, 451, 525, 560
     - Hard:
@@ -321,7 +322,7 @@ Easy
 - [1414] Find the Minimum Number of Fibonacci Numbers Whose Sum Is K (Biweekly Contest 24)
 - [1431] Kids With the Greatest Number of Candies (Biweekly Contest 25) *
 - [1450] Number of Students Doing Homework at a Given Time *
-
+- [1512] Number of Good Pairs
 
 Medium
 - [11] Container With Most Water
@@ -386,6 +387,7 @@ Easy
 - [1025] Divisor Game
 - [1232] Check If It Is a Straight Line (May LeetCoding Challenge[Day8])
 - [1323] Maximum 69 Number *
+- [1512] Number of Good Pairs
 
 Medium
 - [8]String to Integer (atoi)
@@ -411,6 +413,7 @@ Easy
 - [387] First Unique Character in a String (May LeetCoding Challenge[Day5]) *
 - [438] Find All Anagrams in a String (May LeetCoding Challenge[Day17])
 - [771] Jewels and Stones (May LeetCoding Challenge[Day2]) *
+- [1512] Number of Good Pairs
 
 Medium
 - [49] Group Anagrams (30-Day LeetCoding Challenge[Day6]) *
