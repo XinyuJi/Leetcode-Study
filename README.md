@@ -5,6 +5,7 @@
 |   #   | Title | Difficulty | Topic | Unfinished Topic | * | 
 | :---: | :---: | :---: | :---: | :---: | :---: | 
 | 1    | Two Sum | Easy | Array, Hash Table | | | 
+| 3    | Longest Substring Without Repeating Characters | Medium | Hash Table, Two Pointers, String, Sliding Window | | | 
 | 7    | Reverse Integer | Easy | Math | | | 
 | 8    | String to Integer (atoi) | Medium | Math, String | | | 
 | 9    | Palindrome Number | Easy | Math | | | 
@@ -157,7 +158,7 @@
     - Easy: 
         13, 20, 58, 67, 383, 387, 434, 1436, 1446, 1455
     - Medium:
-        8, 49, 91, 443, 678, 722，1432
+        3, 8, 49, 91, 443, 678, 722，1432
 
 - Dynamic Programming:
     - Easy:
@@ -187,7 +188,7 @@
     - Easy:
         1, 136, 387, 771, 1512
     - Medium:
-        49, 438, 451, 525, 560
+        3, 49, 438, 451, 525, 560
     - Hard:
         340, 992
 
@@ -195,9 +196,15 @@
     - Easy:
         26, 27, 141, 167, 183
     - Medium:
-        11, 209, 567, 923
+        3, 11, 209, 567, 923
     - Hard:
         42, 340, 992
+
+- Sliding Window:
+    - Medium:
+        3, 567
+    - Hard:
+        340, 992
 
 - Linked List
     - Easy:
@@ -264,12 +271,6 @@
 - Trie:
     - Medium:
         208
-
-- Sliding Window:
-    - Medium:
-        567
-    - Hard:
-        340, 992
 
  - Divide and Conquer:
     - Medium:
@@ -354,6 +355,7 @@ Easy
 - [1455] Check If a Word Occurs As a Prefix of Any Word in a Sentence *
 
 Medium
+- [3] Longest Substring Without Repeating Character
 - [8]String to Integer (atoi)
 - [49] Group Anagrams
 - [91] Decode Ways
@@ -416,6 +418,7 @@ Easy
 - [1512] Number of Good Pairs
 
 Medium
+- [3] Longest Substring Without Repeating Character
 - [49] Group Anagrams (30-Day LeetCoding Challenge[Day6]) *
 - [451] Sort Characters By Frequency (May LeetCoding Challenge[Day22])
 - [525] Contiguous Array (30-Day LeetCoding Challenge[Day13], May LeetCoding Challenge[Day26])
@@ -442,13 +445,25 @@ Easy
 - [141] Linked List Cycle
 - [167] Best Time to Buy and Sell Stock
 - [283] Move Zeroes
+
 Medium
+- [3] Longest Substring Without Repeating Character
 - [11] Container With Most Water
 - [209] Minimum Size Subarray Sum
 - [567] Permutation in String (May LeetCoding Challenge[Day18]) *
 - [986] Interval List Intersections (May LeetCoding Challenge[Day23])
+
 Hard
 - [42] Trapping Rain Water
+- [340] Longest Substring with At Most K Distinct Characters
+- [992] Subarrays with K Different Integers
+
+#### Sliding Window
+Medium
+- [3] Longest Substring Without Repeating Character
+- [567] Permutation in String (May LeetCoding Challenge[Day18]) *
+
+Hard
 - [340] Longest Substring with At Most K Distinct Characters
 - [992] Subarrays with K Different Integers
 
@@ -535,14 +550,6 @@ Medium
 #### Trie
 Medium
 - [208] Implement Trie (Prefix Tree) (May LeetCoding Challenge[Day14]) *
-
-#### Sliding Window
-Medium
-- [567] Permutation in String (May LeetCoding Challenge[Day18]) *
-
-Hard
-- [340] Longest Substring with At Most K Distinct Characters
-- [992] Subarrays with K Different Integers
 
 #### Divide and Conquer
 Medium
