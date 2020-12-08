@@ -1,6 +1,6 @@
 """
-Runtime: 36 ms, faster than 94.71% of Python online submissions for Longest Substring Without Repeating Characters.
-Memory Usage: 14.4 MB, less than 17.22% of Python online submissions for Longest Substring Without Repeating Characters.
+Runtime: 32 ms, faster than 98.08% of Python online submissions for Longest Substring Without Repeating Characters.
+Memory Usage: 13.6 MB, less than 86.17% of Python online submissions for Longest Substring Without Repeating Characters.
 """
 
 class Solution(object):
@@ -12,10 +12,10 @@ class Solution(object):
         dic = {}
         count = 0
         slow = 0
-        for i in range(len(s)):
-            if s[i] in dic and slow <= dic[s[i]]:
-                slow = dic[s[i]] + 1
+        for i, letter in enumerate(s):
+            if letter in dic and slow <= dic[letter]:
+                slow = dic[letter] + 1
             else:
                 count = max(count, i-slow+1)
-            dic[s[i]] = i
+            dic[letter] = i
         return count
