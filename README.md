@@ -12,6 +12,7 @@
 | 11   | Container With Most Water | Medium | Array, Two Pointers | | | 
 | 13   | Roman to Integer | Easy | Math, String | | | 
 | 20   | Valid Parentheses | Easy | String, Stack | | | 
+| 21   | Merge Two Sorted Lists | Easy | Linked List | | | 
 | 26   | Remove Duplicates from Sorted Array | Easy | Array, Two Pointers | | * | 
 | 27   | Remove Element | Easy | Array, Two Pointers | | * | 
 | 33   | Search in Rotated Sorted Array | Medium | Array, Binary Search | | *(Array) | 
@@ -208,7 +209,7 @@
 
 - Linked List
     - Easy:
-        141, 237, 876, 1290
+        21, 141, 237, 876, 1290
     - Medium:
         328
 
@@ -469,6 +470,7 @@ Hard
 
 #### Linked List
 Easy
+- [21] Merge Two Sorted Lists
 - [141] Linked List Cycle
 - [237] Delete Node in a Linked List (June LeetCoding Challenge[Day2])
 - [876] Middle of the Linked List (30-Day LeetCoding Challenge[Day8])
