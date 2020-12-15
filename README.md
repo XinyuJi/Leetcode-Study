@@ -15,7 +15,8 @@
 | 20   | Valid Parentheses | Easy | String, Stack | | | 
 | 21   | Merge Two Sorted Lists | Easy | Linked List | | | 
 | 26   | Remove Duplicates from Sorted Array | Easy | Array, Two Pointers | | * | 
-| 27   | Remove Element | Easy | Array, Two Pointers | | * | 
+| 27   | Remove Element | Easy | Array, Two Pointers | | * |
+| 28   | Implement strStr() | Easy | String, Two Pointers | | |
 | 33   | Search in Rotated Sorted Array | Medium | Array, Binary Search | | *(Array) | 
 | 35   | Search Insert Position | Easy | Array |Binary Search| * | 
 | 42   | Trapping Rain Water | Hard | Array, Two Pointers | Stack |  |
@@ -158,7 +159,7 @@
 
 - String
     - Easy: 
-        13, 14, 20, 58, 67, 383, 387, 434, 1436, 1446, 1455
+        13, 14, 20, 28, 58, 67, 383, 387, 434, 1436, 1446, 1455
     - Medium:
         3, 8, 49, 91, 443, 678, 722，1432
 
@@ -196,7 +197,7 @@
 
 - Two Pointers
     - Easy:
-        26, 27, 141, 167, 183
+        26, 27, 28, 141, 167, 183
     - Medium:
         3, 11, 209, 567, 923
     - Hard:
@@ -348,6 +349,7 @@ Easy
 - [13] Roman to Integer
 - [14] Longest Common Prefix
 - [20] Valid Parentheses (stack video)
+- [28] Implement strStr()
 - [58] Length of Last Word
 - [67] Add Binary *
 - [383] Ransom Note (May LeetCoding Challenge[Day3])
@@ -443,8 +445,9 @@ Medium
 
 #### Two Pointers
 Easy
-- [26]  Remove Duplicates from Sorted Array
-- [27]  Remove Element
+- [26] Remove Duplicates from Sorted Array
+- [27] Remove Element
+- [28] Implement strStr()
 - [141] Linked List Cycle
 - [167] Best Time to Buy and Sell Stock
 - [283] Move Zeroes
