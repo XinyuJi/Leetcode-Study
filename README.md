@@ -11,6 +11,7 @@
 | 9    | Palindrome Number | Easy | Math | | | 
 | 11   | Container With Most Water | Medium | Array, Two Pointers | | | 
 | 13   | Roman to Integer | Easy | Math, String | | | 
+| 14   | Longest Common Prefix | Easy | String | | | 
 | 20   | Valid Parentheses | Easy | String, Stack | | | 
 | 21   | Merge Two Sorted Lists | Easy | Linked List | | | 
 | 26   | Remove Duplicates from Sorted Array | Easy | Array, Two Pointers | | * | 
@@ -157,7 +158,7 @@
 
 - String
     - Easy: 
-        13, 20, 58, 67, 383, 387, 434, 1436, 1446, 1455
+        13, 14, 20, 58, 67, 383, 387, 434, 1436, 1446, 1455
     - Medium:
         3, 8, 49, 91, 443, 678, 722，1432
 
@@ -345,6 +346,7 @@ Hard
 #### String
 Easy
 - [13] Roman to Integer
+- [14] Longest Common Prefix
 - [20] Valid Parentheses (stack video)
 - [58] Length of Last Word
 - [67] Add Binary *
