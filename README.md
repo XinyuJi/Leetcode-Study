@@ -75,6 +75,7 @@
 | 443  | String Compression | Medium | String | | | 
 | 448  | Find All Numbers Disappeared in an Array | Easy | Array | | | 
 | 451  | Sort Characters By Frequency | Medium | Hash Table | Heap | | 
+| 459  | Repeated Substring Pattern | Easy | String | | | 
 | 461  | Hamming Distance | Easy | Bit Manipulation | | | 
 | 476  | Number Complement | Easy | Bit Manipulation  | | | 
 | 485  | Max Consecutive Ones | Easy | Array | | * | 
@@ -159,7 +160,7 @@
 
 - String
     - Easy: 
-        13, 14, 20, 28, 58, 67, 383, 387, 434, 1436, 1446, 1455
+        13, 14, 20, 28, 58, 67, 383, 387, 434, 459, 1436, 1446, 1455
     - Medium:
         3, 8, 49, 91, 443, 678, 722，1432
 
@@ -355,6 +356,7 @@ Easy
 - [383] Ransom Note (May LeetCoding Challenge[Day3])
 - [387] First Unique Character in a String (May LeetCoding Challenge[Day5]) *
 - [434] Number of Segments in a String
+- [459] Repeated Substring Pattern
 - [1436] Destination City
 - [1446] Consecutive Characters *
 - [1455] Check If a Word Occurs As a Prefix of Any Word in a Sentence *
