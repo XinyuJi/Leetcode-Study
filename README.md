@@ -30,6 +30,7 @@
 | 67   | Add Binary | Easy | Math, String | | * | 
 | 70   | Climbing Stairs | Easy | Dynamic Programming | | | 
 | 78   | Subsets | Medium | Array, Backtracing, Bit Manipulation | | | 
+| 83   | Remove Duplicates from Sorted List | Easy | Linked List | | | 
 | 88   | Merge Sorted Array | Easy | Array | Two Pointers | * | 
 | 91   | Decode Ways | Medium | String, Dynamic Programming | |  | 
 | 107  | Binary Tree Level Order Traversal II | Easy | Tree, Breadth-first Search | | | 
@@ -212,7 +213,7 @@
 
 - Linked List
     - Easy:
-        21, 141, 237, 876, 1290
+        21, 83, 141, 237, 876, 1290
     - Medium:
         328
 
@@ -478,6 +479,7 @@ Hard
 #### Linked List
 Easy
 - [21] Merge Two Sorted Lists
+- [83] Remove Duplicates from Sorted List
 - [141] Linked List Cycle
 - [237] Delete Node in a Linked List (June LeetCoding Challenge[Day2])
 - [876] Middle of the Linked List (30-Day LeetCoding Challenge[Day8])
