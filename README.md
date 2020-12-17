@@ -28,6 +28,7 @@
 | 64   | Minimum Path Sum | Medium | Array, Dynamic Programming | | | 
 | 66   | Plus One | Easy | Array | | * | 
 | 67   | Add Binary | Easy | Math, String | | * | 
+| 69   | Sqrt(x) | Easy | Math, Binary Search | |  | 
 | 70   | Climbing Stairs | Easy | Dynamic Programming | | | 
 | 78   | Subsets | Medium | Array, Backtracing, Bit Manipulation | | | 
 | 83   | Remove Duplicates from Sorted List | Easy | Linked List | | | 
@@ -251,7 +252,7 @@
 
 - Binary Search:
     - Easy:
-        278, 367
+        69, 278, 367
     - Medium:
         33, 153, 230, 240, 540
 
@@ -530,6 +531,7 @@ Medium
 
 #### Binary Search
 Easy
+- [69] Sqrt(x)
 - [278] First Bad Version (May LeetCoding Challenge[Day1])
 - [367] Valid Perfect Square (May LeetCoding Challenge[Day9])
 Medium
