@@ -34,6 +34,7 @@
 | 83   | Remove Duplicates from Sorted List | Easy | Linked List | | | 
 | 88   | Merge Sorted Array | Easy | Array | Two Pointers | * | 
 | 91   | Decode Ways | Medium | String, Dynamic Programming | |  | 
+| 100  | Same Tree | Easy | Tree | Depth-first Search |  | 
 | 107  | Binary Tree Level Order Traversal II | Easy | Tree, Breadth-first Search | | | 
 | 121  | Best Time to Buy and Sell Stock | Easy | Array | Dynamic Programming | | 
 | 122  | Best Time to Buy and Sell Stock II | Easy | Array | Greedy | | 
