@@ -4,7 +4,8 @@
 
 |   #   | Title | Difficulty | Topic | Unfinished Topic | * | 
 | :---: | :---: | :---: | :---: | :---: | :---: | 
-| 1    | Two Sum | Easy | Array, Hash Table | | | 
+| 1    | Two Sum | Easy | Array, Hash Table | | |
+| 2    | Add Two Numbers | Medium | Linked List | Math, Recursion | | 
 | 3    | Longest Substring Without Repeating Characters | Medium | Hash Table, Two Pointers, String, Sliding Window | | | 
 | 7    | Reverse Integer | Easy | Math | | | 
 | 8    | String to Integer (atoi) | Medium | Math, String | | | 
@@ -34,7 +35,8 @@
 | 83   | Remove Duplicates from Sorted List | Easy | Linked List | | | 
 | 88   | Merge Sorted Array | Easy | Array | Two Pointers | * | 
 | 91   | Decode Ways | Medium | String, Dynamic Programming | |  | 
-| 100  | Same Tree | Easy | Tree | Depth-first Search |  | 
+| 100  | Same Tree | Easy | Tree | Depth-first Search
+ |  | 
 | 107  | Binary Tree Level Order Traversal II | Easy | Tree, Breadth-first Search | | | 
 | 121  | Best Time to Buy and Sell Stock | Easy | Array | Dynamic Programming | | 
 | 122  | Best Time to Buy and Sell Stock II | Easy | Array | Greedy | | 
@@ -217,7 +219,7 @@
     - Easy:
         21, 83, 141, 237, 876, 1290
     - Medium:
-        328
+        2, 328
 
 - Sort
     - Easy:
@@ -487,6 +489,7 @@ Easy
 - [876] Middle of the Linked List (30-Day LeetCoding Challenge[Day8])
 - [1290] Convert Binary Number in a Linked List to Integer (November LeetCoding Challenge[Day1])
 Medium
+- [2] Add Two Numbers
 - [328] Odd Even Linked List (May LeetCoding Challenge[Day16])
 
 #### Sort
