@@ -7,6 +7,7 @@
 | 1    | Two Sum | Easy | Array, Hash Table | | |
 | 2    | Add Two Numbers | Medium | Linked List | Math, Recursion | | 
 | 3    | Longest Substring Without Repeating Characters | Medium | Hash Table, Two Pointers, String, Sliding Window | | | 
+| 4    | Median of Two Sorted Arrays | Hard | Array, Binary Search, Divide and Conquer | | | 
 | 7    | Reverse Integer | Easy | Math | | | 
 | 8    | String to Integer (atoi) | Medium | Math, String | | | 
 | 9    | Palindrome Number | Easy | Math | | | 
@@ -161,7 +162,7 @@
     - Medium:
         11, 33, 54, 55, 64, 153, 209, 238, 560, 918, 1035, 1277, 1414
     - Hard:
-        42
+        4, 42
 
 - String
     - Easy: 
@@ -258,6 +259,12 @@
         69, 278, 367
     - Medium:
         33, 153, 230, 240, 540
+    - Hard:
+        4
+
+- Divide and Conquer:
+    - Hard:
+        4
 
 - Design:
     - Medium:
@@ -348,6 +355,7 @@ Medium
 - [1277] Count Square Submatrices with All Ones (May LeetCoding Challenge[Day21])
 
 Hard
+- [4] Median of Two Sorted Arrays
 - [42] Trapping Rain Water
 
 #### String
@@ -543,6 +551,12 @@ Medium
 - [230] Kth Smallest Element in a BST Solution (May LeetCoding Challenge[Day20])
 - [240] Search a 2D Matrix II
 - [540] Single Element in a Sorted Array (May LeetCoding Challenge[Day12])
+Hard
+- [4] Median of Two Sorted Arrays
+
+#### Divide and Conquer
+Hard
+- [4] Median of Two Sorted Arrays
 
 #### Design
 Medium
