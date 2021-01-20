@@ -8,6 +8,7 @@
 | 2    | Add Two Numbers | Medium | Linked List | Math, Recursion | | 
 | 3    | Longest Substring Without Repeating Characters | Medium | Hash Table, Two Pointers, String, Sliding Window | | | 
 | 4    | Median of Two Sorted Arrays | Hard | Array, Binary Search, Divide and Conquer | | | 
+| 5    | Longest Palindromic Substring | Medium | String | Dynamic Programming | | 
 | 7    | Reverse Integer | Easy | Math | | | 
 | 8    | String to Integer (atoi) | Medium | Math, String | | | 
 | 9    | Palindrome Number | Easy | Math | | | 
@@ -168,7 +169,7 @@
     - Easy: 
         13, 14, 20, 28, 58, 67, 383, 387, 434, 459, 1436, 1446, 1455
     - Medium:
-        3, 8, 49, 91, 443, 678, 722，1432
+        3, 5, 8, 49, 91, 443, 678, 722，1432
 
 - Dynamic Programming:
     - Easy:
@@ -376,6 +377,7 @@ Easy
 
 Medium
 - [3] Longest Substring Without Repeating Character
+- [5] Longest Palindromic Substring
 - [8]String to Integer (atoi)
 - [49] Group Anagrams
 - [91] Decode Ways
