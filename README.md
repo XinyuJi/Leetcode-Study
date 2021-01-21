@@ -23,6 +23,7 @@
 | 28   | Implement strStr() | Easy | String, Two Pointers | | |
 | 33   | Search in Rotated Sorted Array | Medium | Array, Binary Search | | *(Array) | 
 | 35   | Search Insert Position | Easy | Array |Binary Search| * | 
+| 38   | Count and Say | Easy | String |  | | 
 | 42   | Trapping Rain Water | Hard | Array, Two Pointers | Stack |  |
 | 49   | Group Anagrams | Medium | String, Hash Table | | * | 
 | 53   | Maximum Subarray | Easy | Array | Divide and Conquer, Dynamic Programming | | 
@@ -168,7 +169,7 @@
 
 - String
     - Easy: 
-        13, 14, 20, 28, 58, 67, 383, 387, 434, 459, 1436, 1446, 1455
+        13, 14, 20, 28, 38, 58, 67, 383, 387, 434, 459, 1436, 1446, 1455
     - Medium:
         3, 5, 6, 8, 49, 91, 443, 678, 722，1432
 
@@ -366,6 +367,7 @@ Easy
 - [14] Longest Common Prefix
 - [20] Valid Parentheses (stack video)
 - [28] Implement strStr()
+- [38] Count and Say
 - [58] Length of Last Word
 - [67] Add Binary *
 - [383] Ransom Note (May LeetCoding Challenge[Day3])
