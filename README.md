@@ -14,6 +14,7 @@
 | 8    | String to Integer (atoi) | Medium | Math, String | | | 
 | 9    | Palindrome Number | Easy | Math | | | 
 | 11   | Container With Most Water | Medium | Array, Two Pointers | | | 
+| 12   | Integer to Roman | Medium | Math, String | | | 
 | 13   | Roman to Integer | Easy | Math, String | | | 
 | 14   | Longest Common Prefix | Easy | String | | | 
 | 20   | Valid Parentheses | Easy | String, Stack | | | 
@@ -171,7 +172,7 @@
     - Easy: 
         13, 14, 20, 28, 38, 58, 67, 383, 387, 434, 459, 1436, 1446, 1455
     - Medium:
-        3, 5, 6, 8, 49, 91, 443, 678, 722，1432
+        3, 5, 6, 8, 12, 49, 91, 443, 678, 722，1432
 
 - Dynamic Programming:
     - Easy:
@@ -183,7 +184,7 @@
     - Easy:
         7, 9, 13, 67, 202, 263, 367, 441, 1025, 1232, 1323, 1512
     - Medium:
-        8, 1344
+        8, 12, 1344
 
 - Bit Manipulation
     - Easy:
@@ -383,6 +384,7 @@ Medium
 - [5] Longest Palindromic Substring
 - [6] ZigZag Conversion
 - [8]String to Integer (atoi)
+- [12] Integer to Roman
 - [49] Group Anagrams
 - [91] Decode Ways
 - [443] String Compression
@@ -419,6 +421,7 @@ Easy
 
 Medium
 - [8]String to Integer (atoi)
+- [12] Integer to Roman
 - [1344] Angle Between Hands of a Clock (Biweekly Contest 19)
 
 #### Bit Manipulation
