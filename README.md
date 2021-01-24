@@ -17,6 +17,7 @@
 | 12   | Integer to Roman | Medium | Math, String | | | 
 | 13   | Roman to Integer | Easy | Math, String | | | 
 | 14   | Longest Common Prefix | Easy | String | | | 
+| 16   | 3Sum Closest | Medium | Array, Two Pointers | | | 
 | 20   | Valid Parentheses | Easy | String, Stack | | | 
 | 21   | Merge Two Sorted Lists | Easy | Linked List | | | 
 | 26   | Remove Duplicates from Sorted Array | Easy | Array, Two Pointers | | * | 
@@ -164,7 +165,7 @@
         121, 122, 167, 169, 283, 414, 448, 485, 509, 724, 747, 905, 941, 977,  
         1010, 1051, 1089, 1232, 1295, 1299, 1346, 1351, 1365, 1389, 1394, 1399, 1413, 1431, 1450, 1512
     - Medium:
-        11, 33, 54, 55, 64, 153, 209, 238, 560, 918, 1035, 1277, 1414
+        11, 16, 33, 54, 55, 64, 153, 209, 238, 560, 918, 1035, 1277, 1414
     - Hard:
         4, 42
 
@@ -210,7 +211,7 @@
     - Easy:
         26, 27, 28, 141, 167, 183
     - Medium:
-        3, 11, 209, 567, 923
+        3, 11, 16, 209, 567, 923
     - Hard:
         42, 340, 992
 
@@ -347,6 +348,7 @@ Easy
 
 Medium
 - [11] Container With Most Water
+- [16] 3Sum Closest
 - [33] Search in Rotated Sorted Array *
 - [54] Spiral Matrix
 - [55] Jump Game (30-Day LeetCoding Challenge[Day25])
@@ -479,6 +481,7 @@ Easy
 Medium
 - [3] Longest Substring Without Repeating Character
 - [11] Container With Most Water
+- [16] 3Sum Closest
 - [209] Minimum Size Subarray Sum
 - [567] Permutation in String (May LeetCoding Challenge[Day18]) *
 - [986] Interval List Intersections (May LeetCoding Challenge[Day23])
